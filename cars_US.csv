@@ -1,0 +1,51 @@
+country;model;name;year;mileage;price
+US;ford;Ford Explorer XLT;2017;34863 ;25089.0
+US;ford;Ford Explorer Platinum;2016;39710 ;29386.0
+US;ford;Ford Taurus Limited;2019;46484 ;19963.0
+US;ford;Ford Explorer XLT;2014;139341 ;12990.0
+US;ford;Ford Taurus Limited;2016;53555 ;17995.0
+US;ford;Ford Focus Titanium;2018;37919 ;14495.0
+US;ford;Ford Focus SE;2015;37011 ;10985.0
+US;ford;Ford Taurus SHO;2015;47477 ;18267.0
+US;ford;Ford Mustang EcoBoost Premium;2018;39261 ;20975.0
+US;ford;Ford Focus SE;2016;80714 ;8995.0
+US;ford;Ford Focus SE;2017;47773 ;11985.0
+US;ford;Ford Fusion Sport;2017;39141 ;21000.0
+US;ford;Ford Explorer XLT;2014;67472 ;17500.0
+US;ford;Ford Explorer XLT;2017;27482 ;22994.0
+US;fiat;Fiat 500 Abarth;2015;65744 ;9997.0
+US;fiat;Fiat 500C Pop;2012;68808 ;6995.0
+US;fiat;Fiat 500X Lounge;2016;47064 ;14975.0
+US;fiat;Fiat 500 Sport;2012;95718 ;5995.0
+US;fiat;Fiat 500X Trekking;2017;31777 ;13967.0
+US;fiat;Fiat 500 Sport;2014;45859 ;7990.0
+US;fiat;Fiat 500 Pop;2012;91232 ;6950.0
+US;toyota;Toyota RAV4 Base;2012;107307 ;9694.0
+US;toyota;Toyota Tacoma TRD Sport;2016;60265 ;25998.0
+US;toyota;Toyota Camry LE;2019;15192 ;19028.0
+US;toyota;Toyota Camry SE;2016;26480 ;16977.0
+US;toyota;Toyota Camry SE;2017;79597 ;12500.0
+US;audi;Audi A7 ;2016;65919 ;31500.0
+US;audi;Audi Q5 2.0T Premium Plus;2014;119084 ;13495.0
+US;audi;Audi A8 L 4.0T;2013;59540 ;22995.0
+US;audi;Audi Q5 3.2 Premium;2009;109679 ;11900.0
+US;volvo;Volvo XC60 T6;2014;88083 ;15900.0
+US;volvo;Volvo S60 2.5T;2007;74416 ;8995.0
+US;volvo;Volvo XC60 T6;2010;197480 ;5611.0
+US;volvo;Volvo V60 T5 Platinum;2015;144291 ;12450.0
+US;volvo;Volvo XC70 3.2;2013;65988 ;15959.0
+US;volvo;Volvo S60 2.5T;2008;126604 ;7995.0
+US;volvo;Volvo S90 T5 Momentum;2018;43133 ;26500.0
+US;volvo;Volvo XC90 V8;2007;158025 ;7889.0
+US;suzuki;Suzuki Grand Vitara JLX 4WD;1999;202959 ;1988.0
+US;suzuki;Suzuki SX4 Sport SE;2012;65559 ;7293.0
+US;suzuki;Suzuki Grand Vitara Premium;2006;109960 ;5988.0
+US;suzuki;Suzuki Grand Vitara Limited;2012;70581 ;8999.0
+US;suzuki;Suzuki SX4 ;2013;95652 ;6500.0
+US;suzuki;Suzuki Grand Vitara Limited;2010;96952 ;7918.0
+US;suzuki;Suzuki Esteem GL;1998;88255 ;2317.0
+US;suzuki;Suzuki Grand Vitara Limited;2012;96616 ;7902.0
+US;suzuki;Suzuki Grand Vitara Premium;2012;97625 ;6900.0
+US;suzuki;Suzuki Kizashi S;2012;92350 ;6870.0
+US;volkswagen;Volkswagen Passat 2.0L TDI DSG SEL Premium;2014;28070 ;14972.0
+US;volkswagen;Volkswagen Passat 2.0 TDI SEL Premium;2012;102263 ;7995.0

@@ -9,6 +9,6 @@ The prices witll be converted on EU Euros (€).
 Websites used so far:
 - otomoto.pl (Poland)
 - autotrader.co.uk (Great Britain)
-- (...) (German)
+- autoscout24.com (German)
 - (...) (USA)
-- (...) (The Netherlands)
+- trucksnl.com (The Netherlands)
