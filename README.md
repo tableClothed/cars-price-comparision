@@ -1,6 +1,6 @@
 # Cars' Prices Comparision 🚗
 
-Cars' price comparision. Using BeautifulSoup, Python and Matplotlib.
+Cars' price comparision. Using BeautifulSoup, Sklearn and Seaborn.
 Using data scraped off car trading website and compare them. You can browse and examine it in Excel.
 The prices witll be converted to EU Euros (€).
 
