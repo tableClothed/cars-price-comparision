@@ -1,0 +1,574 @@
+name;year;mileage;nr_of_accidents;color_exterior;color_interior;price;currency
+Chevrolet Traverse LT with 1LT AWD;2012;126877 miles;0;gold ; black ;8499,00;USD
+Acura RDX AWD;2010;109056 miles;3;black ; beige ;7700,00;USD
+Mazda Mazda3 Touring 5-Door Automatic;2018;19530 miles;0;gray ; black ;19788,00;USD
+Chrysler Town & Country Touring;2014;177152 miles;0;red ; black ;18495,00;USD
+Lexus GX GX 460;2013;40424 miles;0;gold ; brown ;29919,00;USD
+Land Rover Range Rover Velar P250;2019;21609 miles;0;white ; unknown ;42998,00;USD
+"Mercedes-Benz Metris Passenger Van Standard Roof 126"" Wheelbase Worker";2019;23282 miles;0;black ; black ;23998,00;USD
+"Ram 1500 Limited Crew Cab 5'7"" Box 4WD";2019;26992 miles;0;white ; black ;49999,00;USD
+Jeep Wrangler Unlimited Sahara (JK);2018;48374 miles;0;silver ; black ;36898,00;USD
+Nissan Altima SL FWD;2019;40995 miles;0;black ; black ;18498,00;USD
+Kia Optima LX Automatic;2020;22519 miles;0;white ; black ;15500,00;USD
+Toyota Corolla LE CVT;2020;27078 miles;0;white ; unknown ;16497,00;USD
+Dodge Grand Caravan SXT;2019;47064 miles;0;white ; black ;15991,00;USD
+Toyota Camry LE Automatic;2019;31506 miles;0;white ; black ;16486,00;USD
+Ford Focus SE Hatchback;2014;113892 miles;0;white ; unknown ;5785,00;USD
+Dodge Grand Caravan SXT;2019;38878 miles;0;silver ; black ;14447,00;USD
+Nissan Rogue SV FWD;2019;174 miles;0;white ; black ;18490,00;USD
+Chevrolet Malibu LT with 1LT;2019;2665 miles;0;white ; black ;15977,00;USD
+Ford Fusion SEL FWD;2019;17837 miles;0;white ; unknown ;17695,00;USD
+Kia Soul + Automatic;2019;32354 miles;0;red ; black ;11400,00;USD
+Honda Civic LX Sedan Automatic;2012;138989 miles;1;silver ; gray ;4900,00;USD
+Nissan Rogue SV FWD;2019;8847 miles;0;gray ; black ;17995,00;USD
+Dodge Grand Caravan SXT;2019;33246 miles;0;black ; black ;17450,00;USD
+Ford Fusion Hybrid SE FWD;2019;26904 miles;0;black ; beige ;15590,00;USD
+Kia Soul + Automatic;2019;27554 miles;0;silver ; black ;12990,00;USD
+Dodge Journey GT AWD;2019;26347 miles;0;black ; black ;20999,00;USD
+Nissan Sentra SV CVT;2019;26830 miles;0;white ; black ;13097,00;USD
+Nissan Versa SV Sedan CVT;2019;26502 miles;0;black ; black ;7991,00;USD
+Kia Soul + Automatic;2019;22000 miles;0;red ; black ;12198,00;USD
+Toyota Highlander XLE V6 AWD;2017;25154 miles;0;black ; beige ;23995,00;USD
+Ford Fusion Hybrid SE FWD;2019;29476 miles;0;black ; black ;15999,00;USD
+Nissan Altima SL FWD;2019;27720 miles;0;gray ; black ;17500,00;USD
+Ford Fusion Hybrid SE FWD;2019;26354 miles;0;red ; black ;15333,00;USD
+Honda Civic LX Sedan CVT;2017;37068 miles;0;black ; beige ;14455,00;USD
+Ford Fusion Hybrid SE FWD;2019;37132 miles;0;white ; unknown ;14995,00;USD
+Honda Accord Hybrid Touring Sedan;2017;129781 miles;2;black ; black ;13305,00;USD
+Dodge Grand Caravan SXT;2019;31510 miles;0;gray ; black ;15984,00;USD
+Kia Soul + Automatic;2019;35689 miles;0;white ; black ;11688,00;USD
+Nissan Rogue SV FWD;2019;17906 miles;0;black ; black ;18070,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;23130 miles;0;white ; gray ;22595,00;USD
+Kia Soul + Automatic;2019;46991 miles;0;white ; black ;14000,00;USD
+Toyota Corolla LE CVT;2020;18223 miles;1;white ; gray ;14300,00;USD
+Dodge Grand Caravan SXT;2019;38079 miles;0;black ; black ;15900,00;USD
+Nissan Versa SV Sedan CVT;2019;26502 miles;0;black ; black ;7991,00;USD
+Dodge Grand Caravan SXT;2019;31304 miles;0;white ; black ;17995,00;USD
+Nissan Altima 2.5 S;2015;60384 miles;2;gray ; black ;8259,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;26865 miles;0;white ; gray ;22695,00;USD
+Nissan Rogue SV FWD;2019;23388 miles;0;white ; black ;17697,00;USD
+Dodge Challenger R/T RWD;2019;22070 miles;1;black ; black ;24679,00;USD
+Chevrolet Malibu LT;2020;5801 miles;0;gray ; black ;18988,00;USD
+Kia Optima LX Automatic;2020;15464 miles;0;gray ; black ;14990,00;USD
+Dodge Grand Caravan SXT;2019;45034 miles;0;black ; black ;15541,00;USD
+Toyota Camry LE Automatic;2019;31506 miles;0;white ; black ;16486,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;27768 miles;0;white ; gray ;22790,00;USD
+Dodge Grand Caravan SXT;2019;42607 miles;0;gray ; black ;17014,00;USD
+Chrysler 300 Limited RWD;2019;18805 miles;0;black ; black ;21988,00;USD
+Kia Optima LX;2019;24707 miles;0;black ; black ;14800,00;USD
+Dodge Grand Caravan SXT;2019;28796 miles;0;white ; black ;18197,00;USD
+Dodge Grand Caravan SXT;2019;34088 miles;0;black ; black ;14991,00;USD
+Nissan Rogue SV FWD;2019;35060 miles;0;black ; black ;16495,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;37206 miles;1;black ; gray ;10875,00;USD
+Dodge Grand Caravan SXT;2019;21033 miles;0;red ; black ;18495,00;USD
+Dodge Grand Caravan SXT;2019;40882 miles;0;silver ; black ;14557,00;USD
+Dodge Grand Caravan SXT;2019;32658 miles;0;red ; black ;17000,00;USD
+Nissan Sentra SV CVT;2017;44909 miles;0;black ; black ;10999,00;USD
+Toyota 4Runner SR5 4WD;2019;29678 miles;0;silver ; black ;29500,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;28290 miles;0;white ; beige ;12989,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;41477 miles;1;black ; gray ;14327,00;USD
+Hyundai Elantra GT Hatchback Automatic;2017;56289 miles;0;silver ; black ;9250,00;USD
+Nissan Sentra SV CVT;2019;31624 miles;0;white ; black ;13000,00;USD
+Honda Accord LX Sedan CVT;2017;38375 miles;1;gray ; black ;14995,00;USD
+Toyota Corolla LE CVT;2020;6302 miles;0;gray ; gray ;15977,00;USD
+Nissan Sentra SV CVT;2017;44909 miles;0;black ; black ;10999,00;USD
+Nissan Rogue SV FWD;2019;37627 miles;0;silver ; black ;16697,00;USD
+Toyota Camry LE Automatic;2019;27738 miles;0;white ; black ;15898,00;USD
+Nissan Sentra SV CVT;2019;22420 miles;0;gray ; black ;12995,00;USD
+Dodge Grand Caravan SXT;2019;34745 miles;0;black ; black ;15600,00;USD
+Kia Soul + Automatic;2019;34626 miles;0;gray ; black ;11999,00;USD
+Nissan Sentra SV CVT;2019;38195 miles;0;white ; black ;11445,00;USD
+Volkswagen Passat 2.0T Wolfsburg Edition;2019;37859 miles;0;silver ; black ;13497,00;USD
+Kia Soul + Automatic;2019;16836 miles;0;white ; black ;12591,00;USD
+Lexus ES ES 350;2008;164187 miles;0;black ; beige ;6064,00;USD
+Toyota Corolla L CVT;2017;64968 miles;0;black ; gray ;9900,00;USD
+Kia Forte LX Sedan Automatic;2018;61563 miles;1;white ; black ;9285,00;USD
+Hyundai Elantra GLS Sedan Automatic;2013;79672 miles;1;silver ; gray ;6999,00;USD
+Dodge Grand Caravan SXT;2019;51381 miles;0;white ; black ;16469,00;USD
+Ford Fusion Hybrid SE FWD;2019;24635 miles;0;silver ; gray ;15391,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;23130 miles;0;white ; gray ;22595,00;USD
+Toyota Camry LE Automatic;2019;29085 miles;0;black ; unknown ;16400,00;USD
+Hyundai Elantra GT Hatchback Automatic;2017;56289 miles;0;silver ; black ;9250,00;USD
+Dodge Grand Caravan SXT;2019;41260 miles;0;black ; black ;16482,00;USD
+Ford Fusion Hybrid SE FWD;2019;31239 miles;1;white ; black ;16784,00;USD
+Honda Civic Si Sedan Manual;2017;38724 miles;0;gray ; black ;16995,00;USD
+Dodge Grand Caravan SXT;2019;34099 miles;0;silver ; black ;16795,00;USD
+Ford Fusion SE FWD;2019;96 miles;0;black ; black ;17290,00;USD
+Kia Optima LX;2019;24707 miles;0;black ; black ;14800,00;USD
+Ford Focus SE Sedan;2014;90846 miles;0;white ; beige ;6499,00;USD
+"Ram 1500 Big Horn/Lone Star Crew Cab 5'7"" Box 2WD";2019;1044 miles;0;silver ; black ;24500,00;USD
+Nissan Sentra SV CVT;2019;25202 miles;0;gray ; black ;11995,00;USD
+Volkswagen Passat V6 SEL Premium DSG;2017;52563 miles;0;silver ; gray ;15998,00;USD
+Dodge Grand Caravan  ;2019;32457 miles;0;blue ; black ;18885,00;USD
+Mercedes-Benz GLC GLC 43 AMG 4MATIC SUV;2017;52770 miles;0;silver ; beige ;36885,00;USD
+Nissan Altima 2.5 SL;2017;24020 miles;0;white ; black ;17448,00;USD
+Kia Optima LX 2.4L Automatic;2012;111596 miles;0;silver ; beige ;7771,00;USD
+Jeep Wrangler Unlimited Sport S;2020;6 miles;0;red ; black ;37888,00;USD
+"Ram 1500 Rebel Quad Cab 6'4"" Box 4WD";2019;29569 miles;0;silver ; black ;37488,00;USD
+Honda Insight LX;2013;79865 miles;0;unknown ; unknown ;7985,00;USD
+Jeep Wrangler Unlimited Sport;2015;139144 miles;0;silver ; black ;28050,00;USD
+Toyota 4Runner SR5 V6 RWD;2009;221767 miles;1;gray ; black ;7900,00;USD
+Jeep Cherokee Limited 4WD;2019;11327 miles;0;white ; black ;26895,00;USD
+Kia Sedona EX;2020;7400 miles;0;gray ; gray ;28652,00;USD
+Ford Fusion SEL FWD;2019;32867 miles;0;gold ; gray ;16490,00;USD
+Dodge Grand Caravan  ;2019;36567 miles;0;white ; black ;18499,00;USD
+Ford Fusion SE FWD;2016;65734 miles;0;blue ; unknown ;11249,00;USD
+Nissan Sentra SV CVT;2016;48067 miles;0;white ; black ;10989,00;USD
+Honda Accord EX-L 1.5T CVT;2018;26211 miles;0;silver ; black ;21695,00;USD
+Toyota Highlander XLE V6 FWD;2018;10895 miles;0;gray ; unknown ;29995,00;USD
+Ford Focus SE Hatchback;2017;28164 miles;0;red ; black ;13595,00;USD
+Toyota Highlander XLE V6 AWD;2017;31736 miles;0;brown ; black ;31293,00;USD
+Ford Mustang EcoBoost Fastback;2017;49416 miles;0;red ; black ;20995,00;USD
+Honda Civic EX Hatchback CVT;2018;31749 miles;0;silver ; black ;22999,00;USD
+Mercedes-Benz GLS GLS 550 4MATIC;2017;38828 miles;0;white ; beige ;51995,00;USD
+Lexus LS LS 460 RWD;2017;15244 miles;0;black ; gray ;46995,00;USD
+Nissan Rogue S FWD;2011;133263 miles;0;gray ; black ;6499,00;USD
+Nissan Altima 2.5 SR;2018;29119 miles;1;black ; black ;16099,00;USD
+Honda Civic LX Sedan CVT;2018;39589 miles;0;black ; black ;15799,00;USD
+Kia Soul Base Automatic;2016;41889 miles;0;black ; black ;9299,00;USD
+Toyota Corolla LE CVT;2020;13233 miles;0;unknown ; unknown ;15500,00;USD
+Nissan Altima 2.5 S;2015;60384 miles;2;gray ; black ;8259,00;USD
+Kia Sportage LX FWD;2017;139210 miles;1;blue ; black ;8950,00;USD
+Toyota Camry LE Automatic;2019;23165 miles;0;white ; black ;17948,00;USD
+Honda Civic LX Sedan CVT;2017;31121 miles;0;white ; beige ;14712,00;USD
+Nissan Rogue SV FWD;2019;35060 miles;0;black ; black ;16495,00;USD
+Toyota Corolla LE CVT;2020;10350 miles;0;white ; gray ;15995,00;USD
+Ford Fusion Hybrid SE FWD;2019;32352 miles;0;silver ; black ;14950,00;USD
+Ford Fusion SEL FWD;2019;39154 miles;0;silver ; black ;13944,00;USD
+Nissan Rogue SV AWD;2017;43164 miles;2;blue ; black ;13999,00;USD
+Nissan Rogue Sport S FWD;2019;32504 miles;0;white ; black ;14393,00;USD
+Toyota Camry Hybrid LE;2018;89961 miles;0;black ; unknown ;14998,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;27768 miles;0;white ; gray ;22790,00;USD
+Toyota Camry LE Automatic;2019;33714 miles;0;white ; black ;15999,00;USD
+Toyota Corolla LE CVT;2020;17410 miles;0;white ; black ;15668,00;USD
+Toyota Corolla LE CVT;2020;17939 miles;0;black ; black ;14941,00;USD
+Dodge Grand Caravan SXT;2019;45034 miles;0;black ; black ;15541,00;USD
+Mercedes-Benz SL SL 500 Roadster;2005;19340 miles;0;black ; black ;22950,00;USD
+Chevrolet Malibu LS;1997;167832 miles;0;white ; beige ;1500,00;USD
+Nissan Sentra SV CVT;2018;31980 miles;1;red ; black ;9500,00;USD
+Jeep Grand Cherokee Laredo 4WD;1999;170196 miles;0;black ; beige ;3985,00;USD
+Dodge Grand Caravan SXT;2019;42607 miles;0;gray ; black ;17014,00;USD
+Kia Forte LX Sedan Automatic;2017;111504 miles;0;gray ; gray ;6599,00;USD
+Ford Fusion Hybrid SE FWD;2019;41216 miles;0;gray ; black ;14391,00;USD
+Dodge Grand Caravan SXT;2019;28796 miles;0;white ; black ;18197,00;USD
+Honda Accord LX Sedan CVT;2017;21606 miles;0;white ; beige ;14900,00;USD
+Nissan Sentra SV CVT;2019;37176 miles;0;black ; black ;11800,00;USD
+Kia Soul Base Automatic;2013;126315 miles;0;black ; black ;4999,00;USD
+Dodge Grand Caravan SXT;2019;34088 miles;0;black ; black ;14991,00;USD
+Kia Soul + Automatic;2019;46991 miles;0;white ; black ;14000,00;USD
+Nissan Sentra SV CVT;2019;26830 miles;0;white ; black ;13097,00;USD
+Ford Escape SE FWD;2017;36765 miles;0;white ; black ;13787,00;USD
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2019;21375 miles;0;black ; unknown ;36995,00;USD
+Ford Fusion SE FWD;2015;113971 miles;1;black ; unknown ;7499,00;USD
+Mercedes-Benz Sprinter Passenger Van 2500 Standard Roof SWB;2013;84182 miles;0;white ; black ;21995,00;USD
+Kia Optima LX;2019;24707 miles;0;black ; black ;14800,00;USD
+Ford Fusion Hybrid SE FWD;2019;26904 miles;0;black ; beige ;15590,00;USD
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2017;32674 miles;0;gray ; gray ;31559,00;USD
+Bentley Continental Supersports Coupe;2010;34146 miles;0;blue ; red ;69900,00;USD
+Bentley Flying Spur W12 Sedan;2008;63000 miles;0;white ; unknown ;38500,00;USD
+Ford Explorer XLT FWD;2017;20825 miles;0;white ; black ;19149,00;USD
+Chevrolet Cruze LT with 1SD Sedan Automatic;2017;38671 miles;0;blue ; black ;10995,00;USD
+Ford Fusion SE FWD;2013;98073 miles;0;gray ; black ;5991,00;USD
+Toyota Corolla LE CVT;2017;37913 miles;2;silver ; black ;9997,00;USD
+Toyota Corolla LE CVT;2020;10267 miles;0;white ; unknown ;14999,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic;2017;79835 miles;0;black ; gray ;6995,00;USD
+Toyota Corolla LE CVT;2017;76974 miles;1;black ; unknown ;11500,00;USD
+FIAT 500 Lounge Hatchback;2018;4769 miles;1;white ; black ;11995,00;USD
+Honda Civic LX Sedan CVT;2017;33607 miles;0;black ; black ;13995,00;USD
+Ford Escape SE 4WD;2017;61651 miles;0;black ; black ;12590,00;USD
+Nissan Rogue Sport S FWD;2019;32504 miles;0;white ; black ;14393,00;USD
+Volvo XC70 3.2L;2008;107389 miles;1;gray ; unknown ;5995,00;USD
+Hyundai Sonata Sport 2.4L;2017;187322 miles;0;white ; beige ;8000,00;USD
+Ford F-150 XL SuperCrew 5.5' Box 4WD;2018;86280 miles;1;white ; unknown ;28991,00;USD
+Chevrolet Volt Hatch;2013;127556 miles;0;black ; black ;6980,00;USD
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2017;17563 miles;0;white ; gray ;34000,00;USD
+Ford Explorer XLT 4WD;2017;32292 miles;0;red ; black ;25988,00;USD
+Honda CR-V LX AWD;2014;76317 miles;2;black ; black ;11399,00;USD
+Chevrolet Silverado 1500 LS Extended Cab Standard Box 2WD;2010;167323 miles;1;white ; gray ;6000,00;USD
+Ford Fusion Hybrid SE FWD;2019;29476 miles;0;black ; black ;15999,00;USD
+Toyota Camry LE Automatic;2019;12636 miles;1;gray ; gray ;18274,00;USD
+Nissan Rogue 2017.5 SL FWD;2017;29042 miles;0;white ; black ;16987,00;USD
+Dodge Grand Caravan SXT;2019;44325 miles;0;white ; black ;12999,00;USD
+Ford F-150 XL SuperCrew 5.5' Box 4WD;2018;40326 miles;0;black ; gray ;24250,00;USD
+Ford Fusion Hybrid SE FWD;2019;33478 miles;0;gray ; gray ;14857,00;USD
+Toyota Corolla LE CVT;2020;11663 miles;0;silver ; unknown ;17929,00;USD
+Chrysler 300 Limited RWD;2019;18805 miles;0;black ; black ;21988,00;USD
+Toyota Camry SE Automatic;2019;24071 miles;0;black ; unknown ;18902,00;USD
+Toyota Camry SE Automatic;2019;38665 miles;0;silver ; gray ;18220,00;USD
+Toyota Camry SE Automatic;2019;37576 miles;0;black ; gray ;18490,00;USD
+Porsche Boxster S Manual;2002;33328 miles;0;silver ; gray ;16950,00;USD
+Volkswagen Passat TDI SEL Premium Sedan DSG;2013;91571 miles;0;gray ; unknown ;8995,00;USD
+Chrysler 300 Limited AWD;2019;11001 miles;0;white ; black ;24983,00;USD
+Nissan Rogue SV FWD;2019;35560 miles;0;white ; black ;15453,00;USD
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2018;28143 miles;0;silver ; gray ;32894,00;USD
+Nissan Frontier SV Crew Cab 2WD Automatic;2019;26429 miles;0;white ; gray ;19500,00;USD
+Chevrolet Malibu LT;2020;15589 miles;0;white ; black ;18997,00;USD
+Kia Forte EX Sedan Automatic;2011;99404 miles;0;white ; brown ;4978,00;USD
+Dodge Grand Caravan SXT;2019;37484 miles;0;white ; black ;16900,00;USD
+Hyundai Genesis 3.8;2014;88878 miles;0;black ; black ;9991,00;USD
+Honda Civic EX Sedan CVT;2017;26714 miles;0;red ; black ;16575,00;USD
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2019;31436 miles;0;white ; unknown ;36995,00;USD
+Honda CR-V LX AWD;2014;76317 miles;2;black ; black ;11399,00;USD
+Chevrolet Volt Hatch;2013;49565 miles;0;white ; black ;10450,00;USD
+Nissan Sentra SV CVT;2019;27697 miles;0;silver ; black ;11999,00;USD
+Dodge Grand Caravan SXT;2019;30258 miles;0;white ; black ;16293,00;USD
+Chrysler 300 Limited AWD;2019;21592 miles;1;black ; black ;19995,00;USD
+Honda Civic LX Sedan CVT;2017;33607 miles;0;black ; black ;13995,00;USD
+Ford Fusion Hybrid Titanium FWD;2019;31963 miles;0;black ; black ;17590,00;USD
+Dodge Grand Caravan SXT;2019;38988 miles;0;gray ; black ;18273,00;USD
+Nissan Rogue SV FWD;2019;39566 miles;0;gray ; black ;14664,00;USD
+Nissan Altima 2.5 SV;2015;96070 miles;3;white ; beige ;8488,00;USD
+Hyundai Elantra Sport 1.6T Sedan Manual;2017;29319 miles;0;blue ; black ;13599,00;USD
+Nissan Altima S FWD;2019;19576 miles;0;black ; black ;16495,00;USD
+Toyota Corolla LE CVT;2020;30515 miles;0;silver ; black ;16988,00;USD
+Lexus SC SC 430 Convertible;2006;127050 miles;0;black ; unknown ;10980,00;USD
+Volvo XC70 3.2L;2008;107389 miles;1;gray ; unknown ;5995,00;USD
+Ford Fusion Hybrid SE FWD;2019;17612 miles;0;black ; black ;17295,00;USD
+Dodge Grand Caravan SXT;2019;22745 miles;1;silver ; black ;17491,00;USD
+Toyota Corolla LE CVT;2019;26770 miles;0;black ; unknown ;13393,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;48742 miles;1;white ; beige ;8995,00;USD
+INFINITI JX35 AWD;2013;168586 miles;0;gray ; gray ;7804,00;USD
+Ford Escape SE 4WD;2017;128249 miles;0;gray ; black ;9999,00;USD
+Nissan Sentra SV CVT;2019;24632 miles;0;silver ; black ;14100,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;122442 miles;1;gray ; gray ;7499,00;USD
+Mercedes-Benz Sprinter Passenger Van 2500 Standard Roof SWB;2013;84182 miles;0;white ; black ;21995,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;34100 miles;0;white ; gray ;20700,00;USD
+Ford Fusion SE AWD;2019;25802 miles;0;black ; black ;16900,00;USD
+Nissan Altima 2.5 S Sedan CVT;2011;147450 miles;1;black ; black ;4299,00;USD
+Dodge Grand Caravan SXT;2019;43670 miles;0;white ; black ;17472,00;USD
+Nissan Rogue S FWD;2013;85857 miles;1;white ; black ;6900,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;21095 miles;1;blue ; gray ;9700,00;USD
+Honda Civic EX-T Sedan CVT;2017;22890 miles;0;white ; gray ;16987,00;USD
+Kia Optima EX;2015;90485 miles;0;black ; gray ;8944,00;USD
+Ford Fusion Hybrid SE FWD;2019;34034 miles;0;white ; unknown ;15545,00;USD
+Dodge Grand Caravan SXT;2019;44273 miles;0;silver ; black ;16495,00;USD
+GMC Terrain SLT FWD;2019;46445 miles;0;black ; black ;15995,00;USD
+Nissan Rogue SV FWD;2019;29189 miles;0;gray ; black ;15100,00;USD
+Dodge Grand Caravan SXT;2019;34451 miles;0;white ; black ;16400,00;USD
+Audi A6 Prestige 3.0;2019;9596 miles;0;black ; brown ;56988,00;USD
+Nissan Maxima Platinum 3.5L;2019;8512 miles;0;red ; beige ;33900,00;USD
+Toyota Sienna LE 8-Passenger FWD;2017;23714 miles;1;gray ; gray ;22595,00;USD
+Maserati GranTurismo MC Centennial Edition Convertible;2017;3955 miles;0;black ; unknown ;109995,00;USD
+Aston Martin Vanquish S Volante;2018;6441 miles;0;red ; black ;189995,00;USD
+Ferrari Portofino Convertible;2019;90 miles;0;red ; unknown ;244995,00;USD
+Cadillac ATS Premium Luxury Sedan 3.6 RWD;2018;17097 miles;0;silver ; gray ;26000,00;USD
+GMC Terrain SLE-1 AWD;2013;93788 miles;0;blue ; black ;10900,00;USD
+Mercedes-Benz E-Class E 300 Luxury 4MATIC Sedan;2017;21604 miles;0;blue ; beige ;32992,00;USD
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;33433 miles;0;gray ; black ;35492,00;USD
+Lexus GX GX 460;2014;63500 miles;1;black ; unknown ;25991,00;USD
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;36990 miles;1;white ; beige ;35991,00;USD
+Honda Civic LX Sedan CVT;2017;34408 miles;0;blue ; unknown ;15990,00;USD
+Honda Accord Sport Special Edition Sedan CVT;2017;21998 miles;0;blue ; unknown ;20999,00;USD
+Lexus RX RX 350 AWD;2012;93334 miles;0;gray ; black ;15900,00;USD
+GMC Acadia SLT with SLT-1 FWD;2016;37706 miles;1;white ; gray ;19750,00;USD
+Audi S3 Premium Plus;2017;44598 miles;0;black ; black ;29997,00;USD
+Audi A5 Sport Coupe Tiptronic;2017;27010 miles;0;gray ; black ;25695,00;USD
+Chevrolet Blazer 3LT AWD;2019;20673 miles;0;white ; black ;34000,00;USD
+Chevrolet Suburban LS 4WD;2019;44864 miles;0;black ; black ;41000,00;USD
+Chevrolet Trax LT AWD;2018;5950 miles;0;gray ; black ;18552,00;USD
+Chevrolet Equinox LT with 1LT AWD;2018;31029 miles;0;gray ; black ;20745,00;USD
+Chevrolet Silverado 1500 LT Double Cab Standard Box 4WD;2017;22099 miles;0;silver ; black ;32888,00;USD
+Lincoln MKZ Hybrid Select FWD;2017;40757 miles;0;silver ; black ;20445,00;USD
+Nissan Sentra SR CVT;2017;34199 miles;0;red ; black ;12934,00;USD
+Nissan Armada SL RWD;2019;37387 miles;0;gray ; black ;34994,00;USD
+Mercedes-Benz GLC GLC 300 SUV RWD;2017;33084 miles;0;unknown ; beige ;28866,00;USD
+Jeep Patriot High Altitude FWD;2017;35495 miles;0;gray ; gray ;16230,00;USD
+Kia Optima LX;2019;37174 miles;0;silver ; black ;16850,00;USD
+Toyota Corolla SE CVT;2017;109325 miles;0;silver ; gray ;10000,00;USD
+Nissan Altima SL FWD;2019;32028 miles;0;gray ; black ;18946,00;USD
+Dodge Grand Caravan SXT;2019;38261 miles;0;white ; black ;17950,00;USD
+Jeep Patriot Sport FWD w/ Air Conditioning;2010;165943 miles;2;black ; gray ;3500,00;USD
+Ford Fusion Sport FWD;2010;121921 miles;0;gray ; unknown ;5000,00;USD
+Chevrolet Malibu LT;2020;5644 miles;0;gray ; gray ;19988,00;USD
+Toyota Camry SE I4 Automatic;2017;167993 miles;0;gray ; black ;9998,00;USD
+Ford Fiesta SE Sedan;2019;25648 miles;0;red ; black ;8588,00;USD
+Ford Fusion SEL FWD;2019;18215 miles;0;silver ; black ;17999,00;USD
+Toyota Corolla LE CVT;2020;20154 miles;0;silver ; black ;16990,00;USD
+Ford Escape SE FWD;2017;30595 miles;0;blue ; black ;13944,00;USD
+Dodge Grand Caravan SXT;2019;40212 miles;1;black ; black ;16200,00;USD
+Chrysler 300 S RWD;2019;39955 miles;0;gray ; black ;16734,00;USD
+Ford Fusion Titanium AWD;2019;35765 miles;0;black ; black ;17504,00;USD
+Nissan Sentra SV CVT;2019;14096 miles;0;black ; black ;13997,00;USD
+Nissan Versa SV Sedan CVT;2019;15952 miles;1;black ; black ;10994,00;USD
+Ford Fusion Hybrid SE FWD;2019;32712 miles;0;blue ; black ;14453,00;USD
+Nissan Sentra SV CVT;2017;28465 miles;0;black ; black ;10995,00;USD
+Nissan Sentra S CVT;2019;39702 miles;1;white ; black ;10991,00;USD
+Chrysler Aspen Limited 4WD;2007;202000 miles;1;black ; black ;4995,00;USD
+Nissan Rogue SV FWD;2019;33111 miles;0;white ; black ;17295,00;USD
+Nissan Altima 2.5 S;2015;75500 miles;1;silver ; gray ;7879,00;USD
+Honda Accord SE Sedan I4 Automatic;2012;80314 miles;0;black ; black ;8995,00;USD
+Kia Soul + Automatic;2019;15474 miles;0;white ; black ;13993,00;USD
+Ford Fusion Titanium AWD;2019;35039 miles;0;black ; black ;18880,00;USD
+Dodge Challenger R/T RWD;2019;22070 miles;1;black ; black ;24679,00;USD
+Chevrolet Malibu LT;2020;12071 miles;0;white ; black ;19889,00;USD
+Ford Fusion Hybrid SE FWD;2019;69630 miles;0;white ; black ;14444,00;USD
+Ford Fiesta SE Sedan;2019;18192 miles;0;silver ; unknown ;10495,00;USD
+Honda Accord LX Sedan CVT;2017;25751 miles;0;gray ; black ;15254,00;USD
+Dodge Journey GT AWD;2019;35244 miles;0;black ; black ;18397,00;USD
+Chevrolet Equinox LT with 1LT FWD;2019;15023 miles;1;white ; gray ;15700,00;USD
+Toyota Camry XLE I4 Automatic;2017;30637 miles;0;black ; black ;16198,00;USD
+Ford Escape SE FWD;2017;58508 miles;0;red ; black ;13918,00;USD
+HUMMER H2 SUV;2006;214563 miles;0;white ; beige ;12900,00;USD
+Chevrolet Equinox LT with 1LT AWD;2017;72143 miles;0;white ; gray ;13688,00;USD
+Hyundai Santa Fe SE 3.3L AWD;2017;114348 miles;0;white ; gray ;10525,00;USD
+Nissan Sentra SV CVT;2019;22420 miles;0;gray ; black ;12995,00;USD
+Ford Escape SE 4WD;2017;67253 miles;1;white ; black ;12995,00;USD
+Ford F-150 XL SuperCrew 5.5' Box 4WD;2013;88659 miles;0;white ; unknown ;16499,00;USD
+Ford Focus SE Hatchback;2014;74772 miles;0;black ; gray ;5990,00;USD
+Ford Fusion SE FWD;2017;31104 miles;0;black ; black ;13985,00;USD
+Dodge Grand Caravan SXT;2019;41264 miles;0;white ; black ;17014,00;USD
+Hyundai Elantra GT Hatchback Automatic;2017;56289 miles;0;silver ; black ;9250,00;USD
+Ford Escape SE FWD;2017;17590 miles;0;white ; black ;15850,00;USD
+Ford Escape SE 4WD;2017;24023 miles;1;white ; black ;14999,00;USD
+Toyota Camry LE Automatic;2019;29454 miles;0;black ; unknown ;16075,00;USD
+Ford Fusion SE FWD;2016;92714 miles;0;white ; black ;8995,00;USD
+Jeep Grand Cherokee Limited 4WD;2017;27802 miles;0;white ; beige ;27175,00;USD
+Dodge Grand Caravan SXT;2019;34200 miles;0;silver ; black ;16597,00;USD
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2017;137897 miles;0;silver ; gray ;22920,00;USD
+BMW 3 Series 330i RWD;2020;20894 miles;0;gray ; beige ;29996,00;USD
+Hyundai Accent SE Sedan Automatic;2017;41505 miles;1;gray ; gray ;7985,00;USD
+Honda Civic LX Sedan CVT;2017;54150 miles;2;gray ; gray ;12999,00;USD
+Jeep Compass Sport FWD;2014;111118 miles;0;white ; gray ;6500,00;USD
+Nissan Sentra SV CVT;2019;38195 miles;0;white ; black ;11445,00;USD
+Lexus ES ES 350;2017;16659 miles;0;white ; beige ;25588,00;USD
+Honda Civic LX Sedan CVT;2017;36115 miles;0;black ; black ;13495,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;28394 miles;0;silver ; gray ;11848,00;USD
+Pontiac Grand Prix 4dr Sedan;2007;190534 miles;0;silver ; unknown ;3488,00;USD
+Chevrolet Corvette Coupe;1999;86946 miles;0;red ; black ;12990,00;USD
+Kia Forte EX Sedan Automatic;2011;99404 miles;0;white ; brown ;4978,00;USD
+Toyota Corolla LE CVT;2017;71564 miles;1;black ; unknown ;11972,00;USD
+Ford Edge SEL AWD;2017;49617 miles;1;black ; unknown ;15993,00;USD
+Toyota Camry SE I4 Automatic;2017;33324 miles;0;silver ; unknown ;17311,00;USD
+Chrysler 300 S AWD;2017;45931 miles;2;gray ; black ;16699,00;USD
+Honda CR-V EX-L AWD;2016;44746 miles;1;white ; black ;15995,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;27768 miles;0;white ; gray ;22790,00;USD
+Ford Fusion SE FWD;2017;74930 miles;1;white ; unknown ;11999,00;USD
+Kia Forte LX Sedan Automatic;2017;112000 miles;0;black ; gray ;6999,00;USD
+Chevrolet Malibu Limited LT;2016;40680 miles;0;white ; black ;10990,00;USD
+Ford Escape SE FWD;2017;33619 miles;0;gray ; black ;14999,00;USD
+Ford EcoSport Titanium 4WD;2019;27632 miles;0;white ; gray ;13798,00;USD
+Dodge Grand Caravan SXT;2019;38899 miles;0;red ; black ;14445,00;USD
+Ford Escape Titanium 4WD;2017;27875 miles;0;gray ; black ;17888,00;USD
+Ford Escape SE 4WD;2017;42960 miles;0;black ; black ;16990,00;USD
+Honda Civic EX-T Coupe CVT;2017;89743 miles;2;black ; unknown ;12800,00;USD
+Toyota Corolla LE CVT;2017;30603 miles;0;silver ; black ;13900,00;USD
+Ford Focus SE Hatchback;2014;101433 miles;1;black ; unknown ;6500,00;USD
+Nissan Altima SR FWD;2019;6212 miles;1;black ; black ;17950,00;USD
+Chevrolet Equinox LT with 1LT FWD;2017;110141 miles;1;silver ; black ;10560,00;USD
+Ford Fusion SE AWD;2016;121904 miles;0;gray ; black ;8601,00;USD
+Chrysler 300 Limited AWD;2019;11001 miles;0;white ; black ;24983,00;USD
+Ford Escape SE FWD;2014;112722 miles;1;white ; gray ;7924,00;USD
+Nissan Sentra S CVT;2018;34627 miles;0;black ; black ;10295,00;USD
+Chevrolet Malibu LT with 1LT;2019;19376 miles;0;black ; black ;17000,00;USD
+Toyota Camry LE Automatic;2019;23165 miles;0;white ; black ;17948,00;USD
+Ford Fusion Sport FWD;2010;121921 miles;0;gray ; unknown ;5000,00;USD
+Ford Escape SE 4WD;2017;50057 miles;0;gray ; black ;14999,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;29083 miles;0;gray ; gray ;12995,00;USD
+Dodge Grand Caravan SXT;2019;34072 miles;0;white ; black ;14999,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;35605 miles;1;blue ; gray ;10995,00;USD
+Nissan Sentra SV CVT;2017;86527 miles;0;white ; black ;7985,00;USD
+Dodge Journey GT AWD;2019;27529 miles;0;gray ; black ;18995,00;USD
+Honda CR-V LX AWD;2014;76317 miles;2;black ; black ;11399,00;USD
+Nissan Rogue 2017.5 SL FWD;2017;29042 miles;0;white ; black ;16987,00;USD
+Nissan Altima SR FWD;2019;6212 miles;1;black ; black ;17950,00;USD
+Nissan Rogue SV FWD;2019;23200 miles;0;gray ; black ;14998,00;USD
+Chevrolet Malibu LT;2020;14815 miles;1;silver ; black ;19000,00;USD
+Kia Soul + Automatic;2019;33205 miles;0;gray ; black ;14391,00;USD
+Dodge Grand Caravan SXT;2019;34833 miles;0;red ; black ;16499,00;USD
+Dodge Grand Caravan SXT;2019;39603 miles;0;red ; black ;16490,00;USD
+Kia Soul + Automatic;2019;22524 miles;0;white ; black ;14987,00;USD
+Nissan Altima SL FWD;2019;15132 miles;0;black ; black ;19900,00;USD
+Hyundai Elantra Limited 2.0L Sedan Automatic (PZEV);2017;66830 miles;0;red ; beige ;11846,00;USD
+Mitsubishi Outlander Sport SE 2.0 FWD CVT;2019;27833 miles;0;gray ; black ;13798,00;USD
+Ford Fusion Hybrid SE FWD;2019;17612 miles;0;black ; black ;17295,00;USD
+Toyota 4Runner SR5 4WD;2019;25907 miles;0;white ; black ;30898,00;USD
+Nissan Rogue SV FWD;2019;42089 miles;0;gray ; black ;15170,00;USD
+Dodge Grand Caravan SXT;2019;44948 miles;0;white ; black ;16777,00;USD
+"Ram 2500 Big Horn Crew Cab 6'4"" Box 4WD";2019;11702 miles;0;white ; black ;36990,00;USD
+Nissan Sentra S CVT;2018;51679 miles;0;silver ; black ;9795,00;USD
+Chevrolet Malibu LS;1997;167832 miles;0;white ; beige ;1500,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;34256 miles;0;silver ; black ;12990,00;USD
+Dodge Grand Caravan SXT;2019;43042 miles;0;silver ; black ;17899,00;USD
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;22273 miles;0;white ; black ;28881,00;USD
+Dodge Journey GT FWD;2019;34920 miles;0;white ; black ;16777,00;USD
+Kia Optima LX I4 Automatic;2008;113375 miles;1;silver ; unknown ;3995,00;USD
+Toyota 4Runner SR5 4WD;2019;34406 miles;0;black ; black ;30999,00;USD
+Nissan Rogue SV FWD;2019;26003 miles;0;silver ; black ;17510,00;USD
+Nissan Sentra S CVT;2018;34627 miles;0;black ; black ;10295,00;USD
+Toyota Corolla LE CVT;2020;9027 miles;0;gray ; gray ;18588,00;USD
+Ford Fusion Hybrid SE FWD;2019;22215 miles;0;white ; gray ;16987,00;USD
+Ford Fusion Hybrid SE FWD;2019;38052 miles;0;red ; gray ;15230,00;USD
+Pontiac Grand Prix 4dr Sedan;2007;190534 miles;0;silver ; unknown ;3488,00;USD
+BMW X3 xDrive28i AWD;2013;46607 miles;1;black ; black ;13397,00;USD
+Ford Focus SE Hatchback;2014;74772 miles;0;black ; gray ;5990,00;USD
+Kia Soul + Automatic;2019;31933 miles;0;black ; black ;11961,00;USD
+Mercedes-Benz S-Class S 550 Sedan RWD;2011;77400 miles;0;black ; gray ;21950,00;USD
+Kia Optima LX;2019;41574 miles;0;silver ; black ;12857,00;USD
+Kia Optima LX Automatic;2020;15464 miles;0;gray ; black ;14990,00;USD
+Nissan Sentra SV CVT;2019;28698 miles;0;white ; black ;14490,00;USD
+Ford Fusion Hybrid SE FWD;2019;36159 miles;0;black ; black ;16000,00;USD
+Nissan Sentra S CVT;2019;42091 miles;0;gray ; black ;11988,00;USD
+Dodge Grand Caravan SXT;2019;37952 miles;0;silver ; black ;18273,00;USD
+Ford Fusion Hybrid SE FWD;2019;26097 miles;0;red ; unknown ;15041,00;USD
+Chevrolet Volt Hatch;2013;127556 miles;0;black ; black ;6980,00;USD
+Chevrolet Silverado 1500 LT with 1LT Crew Cab Short Box 2WD;2014;189996 miles;0;white ; black ;13995,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;81855 miles;2;black ; gray ;8795,00;USD
+Nissan Sentra SV CVT;2019;26007 miles;0;silver ; black ;12266,00;USD
+Ford Fusion Hybrid SE FWD;2019;27183 miles;0;gray ; black ;15795,00;USD
+Nissan Rogue Select S FWD;2015;108986 miles;0;white ; black ;7088,00;USD
+Ford Fusion Hybrid SE FWD;2019;28249 miles;0;silver ; gray ;14995,00;USD
+Hyundai Tucson SE FWD;2017;104405 miles;0;gray ; gray ;9988,00;USD
+Nissan Altima SL FWD;2019;36820 miles;0;black ; black ;17100,00;USD
+Nissan Sentra SV CVT;2019;30969 miles;0;white ; black ;13969,00;USD
+Ford Fusion Hybrid SE FWD;2019;51116 miles;0;white ; black ;15419,00;USD
+Toyota Corolla LE CVT;2017;21000 miles;1;silver ; gray ;10997,00;USD
+Dodge Avenger SE FWD;2012;115479 miles;1;gray ; black ;4995,00;USD
+Dodge Grand Caravan SXT;2019;25418 miles;0;silver ; black ;16690,00;USD
+Nissan NV200 SV;2015;148474 miles;0;white ; gray ;6880,00;USD
+Nissan Altima 2.5 S Sedan CVT;2012;146940 miles;1;black ; gray ;5299,00;USD
+Dodge Grand Caravan SXT;2019;49507 miles;0;black ; black ;15999,00;USD
+Ford Fusion Titanium AWD;2019;31711 miles;0;white ; brown ;17995,00;USD
+Ford Fusion Hybrid Titanium FWD;2019;11757 miles;1;silver ; black ;18995,00;USD
+Nissan Rogue SV FWD;2019;35772 miles;0;silver ; black ;16295,00;USD
+Dodge Journey GT AWD;2019;32136 miles;0;silver ; black ;19627,00;USD
+Nissan Sentra S CVT;2019;33462 miles;0;black ; black ;11242,00;USD
+Ford Fiesta SE Hatchback;2019;28705 miles;0;white ; black ;8948,00;USD
+Chevrolet Impala LT with 1LT;2019;25724 miles;0;black ; black ;17999,00;USD
+Honda Pilot Touring with Navigation/Rear Entertainment System 4WD;2012;248382 miles;0;white ; black ;6995,00;USD
+Scion xD Base Automatic;2008;98152 miles;0;blue ; gray ;5499,00;USD
+Toyota Corolla LE CVT;2020;21612 miles;0;white ; black ;16294,00;USD
+Toyota Camry SE Automatic;2019;40757 miles;0;white ; gray ;18687,00;USD
+Nissan Versa SV CVT;2018;39948 miles;0;black ; black ;8582,00;USD
+Honda Civic LX Sedan CVT;2017;50226 miles;0;white ; beige ;15505,00;USD
+Nissan Rogue S FWD;2016;109689 miles;1;red ; beige ;8490,00;USD
+Kia Optima LX;2019;24727 miles;0;white ; black ;15740,00;USD
+INFINITI QX80 LUXE AWD;2019;32356 miles;0;black ; gray ;40920,00;USD
+Toyota Corolla LE CVT;2020;30312 miles;0;gray ; unknown ;16988,00;USD
+Nissan Sentra SV CVT;2017;19543 miles;0;gray ; black ;10999,00;USD
+Ford Fusion Hybrid SE FWD;2019;28414 miles;0;black ; unknown ;15975,00;USD
+Ford Fusion Hybrid SE FWD;2019;29444 miles;0;black ; gray ;16000,00;USD
+Buick Century Custom;2003;149861 miles;0;white ; gray ;2000,00;USD
+Honda Accord LX Sedan CVT;2017;21202 miles;0;gray ; gray ;14998,00;USD
+Nissan Versa SV Sedan CVT;2019;31037 miles;0;white ; black ;11693,00;USD
+Chevrolet Malibu LT;2020;9715 miles;0;black ; gray ;19988,00;USD
+Ford Fusion Hybrid SE FWD;2019;29681 miles;0;white ; unknown ;15965,00;USD
+Toyota Corolla LE CVT;2020;6297 miles;0;white ; black ;18388,00;USD
+Chevrolet Malibu LT with 1LT;2019;19376 miles;0;black ; black ;17000,00;USD
+Nissan Sentra SV CVT;2019;36535 miles;0;black ; black ;12988,00;USD
+Nissan Altima SL FWD;2019;30198 miles;0;black ; black ;19152,00;USD
+INFINITI QX80 LUXE AWD;2019;32923 miles;0;black ; gray ;40880,00;USD
+Ford Focus SE Hatchback;2014;101433 miles;1;black ; unknown ;6500,00;USD
+BMW 3 Series 330i Sedan RWD;2017;50512 miles;0;white ; unknown ;18400,00;USD
+Ford Fusion SE FWD;2017;50268 miles;1;silver ; black ;11999,00;USD
+Nissan Sentra SV CVT;2017;51797 miles;1;gray ; black ;9995,00;USD
+Toyota Corolla LE CVT;2017;60068 miles;1;black ; black ;11411,00;USD
+Dodge Grand Caravan SXT;2019;23185 miles;0;red ; black ;18995,00;USD
+Toyota RAV4 Hybrid LE AWD;2019;2004 miles;2;white ; black ;20900,00;USD
+Bentley Continental Supersports Convertible;2012;21000 miles;0;white ; black ;89995,00;USD
+Nissan Altima 2.5 SV;2016;137633 miles;0;silver ; unknown ;7499,00;USD
+Nissan Altima SL FWD;2019;30373 miles;0;silver ; black ;18991,00;USD
+Bentley Flying Spur W12 Sedan;2008;63000 miles;0;white ; unknown ;38500,00;USD
+Ford Fusion Titanium AWD;2019;35020 miles;0;silver ; black ;20513,00;USD
+Lexus RX RX 350 AWD;2008;157258 miles;0;black ; unknown ;8488,00;USD
+Ford EcoSport Titanium 4WD;2019;21790 miles;0;red ; unknown ;14900,00;USD
+Ford Fusion Hybrid SE FWD;2019;21774 miles;0;white ; gray ;16695,00;USD
+Kia Optima LX I4 Automatic;2008;113375 miles;1;silver ; unknown ;3995,00;USD
+Subaru Forester 2.5i Premium CVT (PZEV);2015;60269 miles;2;blue ; gray ;10995,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic (Ulsan);2017;44419 miles;0;black ; beige ;12990,00;USD
+Mercedes-Benz SLC SLC 300;2018;36195 miles;0;white ; gray ;29795,00;USD
+Nissan Sentra SV CVT;2019;31653 miles;0;black ; black ;14396,00;USD
+Nissan Versa S Plus Sedan CVT;2019;61944 miles;0;black ; black ;8000,00;USD
+Honda Civic LX Sedan CVT;2017;22505 miles;1;gray ; black ;12150,00;USD
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2019;21375 miles;0;black ; unknown ;36995,00;USD
+Mercedes-Benz C-Class C 300 with Sport Package Sedan RWD;2017;9587 miles;0;black ; black ;22995,00;USD
+Chevrolet Malibu LT;2020;7158 miles;0;silver ; black ;19988,00;USD
+Honda Civic LX Sedan CVT;2017;32398 miles;0;black ; black ;12785,00;USD
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;30225 miles;0;white ; black ;34997,00;USD
+Nissan Pathfinder SV FWD;2019;35817 miles;0;white ; black ;22000,00;USD
+"Ram 1500 Classic Big Horn Crew Cab 6'4"" Box 2WD";2019;17095 miles;0;white ; black ;26990,00;USD
+Dodge Journey GT AWD;2019;37050 miles;0;red ; black ;19999,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic (Ulsan);2017;44419 miles;0;black ; beige ;12990,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;31517 miles;0;white ; gray ;20050,00;USD
+Nissan Rogue SV FWD;2019;28549 miles;0;white ; black ;16987,00;USD
+Nissan Rogue SV FWD;2019;35937 miles;0;blue ; black ;17900,00;USD
+Ford Fusion Hybrid SE FWD;2019;32712 miles;0;blue ; black ;14453,00;USD
+Chevrolet Silverado 1500 LT with 1LT Crew Cab Short Box 2WD;2014;127611 miles;0;black ; brown ;17999,00;USD
+Kia Soul + Automatic;2019;16553 miles;0;red ; black ;14775,00;USD
+Toyota 4Runner SR5 4WD;2019;25756 miles;0;black ; black ;31084,00;USD
+Nissan Rogue SV FWD;2019;35823 miles;0;blue ; black ;17301,00;USD
+Nissan Frontier SL Crew Cab 4WD Automatic;2019;31285 miles;0;black ; gray ;23995,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;18553 miles;0;white ; gray ;23800,00;USD
+Nissan Altima 2.5 S;2015;104690 miles;0;red ; black ;7950,00;USD
+Nissan Sentra SV CVT;2019;37342 miles;0;silver ; black ;12575,00;USD
+Toyota Camry LE Automatic;2019;39613 miles;0;black ; black ;16477,00;USD
+Honda Accord SE Sedan I4 Automatic;2012;80314 miles;0;black ; black ;8995,00;USD
+Toyota Corolla LE CVT;2020;13233 miles;0;unknown ; unknown ;15500,00;USD
+Nissan Sentra 2.0 S CVT;2011;98951 miles;0;red ; black ;4799,00;USD
+Nissan Rogue SV FWD;2019;29600 miles;0;gray ; black ;17916,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;40083 miles;0;black ; gray ;12777,00;USD
+Ford Fusion Hybrid SE FWD;2019;69630 miles;0;white ; black ;14444,00;USD
+Honda Civic LX Sedan Automatic;2013;103123 miles;1;black ; black ;8950,00;USD
+Mitsubishi Outlander Sport SE 2.0 FWD CVT;2019;29786 miles;0;red ; black ;13388,00;USD
+Nissan Rogue SV FWD;2019;40288 miles;0;gray ; black ;16791,00;USD
+Dodge Grand Caravan SXT;2019;42085 miles;0;gray ; black ;17892,00;USD
+Nissan Sentra SV CVT;2019;29822 miles;0;black ; black ;11499,00;USD
+Dodge Grand Caravan SXT;2019;34544 miles;0;silver ; black ;17795,00;USD
+Dodge Journey GT AWD;2019;26428 miles;1;silver ; black ;20999,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;90093 miles;0;tan ; beige ;7995,00;USD
+GMC Terrain SLT AWD;2020;29898 miles;0;silver ; black ;23397,00;USD
+Nissan Altima 2.5 SV;2016;137633 miles;0;silver ; unknown ;7499,00;USD
+Hyundai Sonata GLS 2.4L (alt);2013;132829 miles;0;gray ; gray ;5995,00;USD
+Hyundai Elantra SEL 2.0L Automatic;2019;38337 miles;0;silver ; gray ;12989,00;USD
+Dodge Grand Caravan SXT;2019;38338 miles;0;silver ; black ;16500,00;USD
+Honda Civic LX Sedan CVT;2017;42557 miles;0;black ; black ;13999,00;USD
+Honda Accord LX Sedan CVT;2017;21606 miles;0;white ; beige ;14900,00;USD
+Kia Optima LX Automatic;2020;148 miles;1;gray ; black ;14999,00;USD
+Chevrolet Camaro LT with 1LT Convertible;2019;21702 miles;1;black ; black ;20498,00;USD
+Toyota Corolla S Automatic;2010;133149 miles;0;black ; black ;5998,00;USD
+Toyota Corolla LE CVT;2020;10350 miles;0;white ; gray ;15995,00;USD
+Hyundai Elantra SE 2.0L Sedan Automatic;2017;89765 miles;0;gray ; gray ;8900,00;USD
+Nissan Sentra SV CVT;2017;83037 miles;0;silver ; black ;10000,00;USD
+INFINITI QX60 3.5 AWD;2017;25081 miles;1;silver ; gray ;21999,00;USD
+Nissan Rogue SV FWD;2019;34952 miles;0;black ; black ;15990,00;USD
+Nissan Sentra SV CVT;2017;50051 miles;0;white ; gray ;10495,00;USD
+Dodge Journey GT AWD;2019;30305 miles;0;white ; black ;17973,00;USD
+Kia Soul + Automatic;2016;80064 miles;2;black ; black ;8495,00;USD
+Dodge Grand Caravan SXT;2019;45595 miles;0;silver ; black ;16936,00;USD
+Chevrolet Malibu LT;2020;13905 miles;0;black ; black ;20403,00;USD
+Nissan Rogue SV FWD;2019;33283 miles;0;silver ; black ;15498,00;USD
+Dodge Grand Caravan SXT;2019;35900 miles;0;silver ; black ;16792,00;USD
+"Ram 1500 Classic Big Horn Crew Cab 6'4"" Box 2WD";2019;28469 miles;0;silver ; black ;25937,00;USD
+Nissan Sentra S CVT;2018;40589 miles;0;white ; black ;8998,00;USD
+Toyota Corolla LE CVT;2020;17410 miles;0;white ; black ;15668,00;USD
+"Ram 1500 Classic Big Horn Crew Cab 6'4"" Box 2WD";2019;11652 miles;0;white ; black ;25451,00;USD
+Dodge Journey GT AWD;2019;40832 miles;0;white ; red ;20500,00;USD
+Nissan Sentra SV CVT;2018;31980 miles;1;red ; black ;9500,00;USD
+Hyundai Tucson Sport FWD;2016;94858 miles;0;blue ; black ;12740,00;USD
+Honda Pilot Black Edition AWD;2020;6688 miles;0;black ; black ;44780,00;USD
+Ford EcoSport Titanium 4WD;2019;21444 miles;0;white ; black ;18996,00;USD
+Nissan Altima 2.5 S;2015;132591 miles;0;silver ; black ;8119,00;USD
+Honda Fit Sport Automatic;2013;77469 miles;0;white ; black ;10462,00;USD
+Chevrolet Silverado 3500HD LTZ Crew Cab Long Box 4WD DRW;2013;202276 miles;1;brown ; black ;26106,00;USD
+Jeep Renegade Latitude 4WD;2017;37414 miles;1;blue ; black ;15960,00;USD
+GMC Terrain SLT-2 FWD;2012;74217 miles;0;black ; black ;13429,00;USD
+Toyota RAV4 Hybrid XLE AWD;2017;35167 miles;1;white ; black ;24377,00;USD
+Chevrolet Volt Premier;2017;24590 miles;0;black ; black ;21998,00;USD
+Hyundai Elantra SE Sedan Automatic;2014;139822 miles;0;red ; gray ;5691,00;USD
+Honda Accord Sport Sedan I4 CVT;2014;132259 miles;0;blue ; unknown ;10871,00;USD
+Chevrolet Express Passenger 3500 LT LWB;2019;31292 miles;0;white ; gray ;24495,00;USD
+Kia Sorento LX I4-GDI FWD Automatic;2012;107394 miles;0;green ; beige ;8999,00;USD
+Chrysler 200 Limited Platinum FWD;2017;25005 miles;1;silver ; black ;17000,00;USD
+Dodge Challenger SXT RWD Automatic;2019;14525 miles;0;black ; black ;23000,00;USD
+Honda Civic EX-L Navi Hatchback CVT;2017;29852 miles;0;white ; black ;20774,00;USD
+"Ram 1500 Tradesman Quad Cab 6'4"" Box 2WD";2016;126767 miles;0;white ; gray ;13880,00;USD
+Chevrolet Silverado 1500 LT Crew Cab Short Box 4WD;2013;179920 miles;0;gray ; gray ;16880,00;USD
+Subaru Impreza 2.0i 4-door CVT;2017;37120 miles;0;gray ; black ;15488,00;USD
+Hyundai Kona Ultimate FWD DCT;2018;11408 miles;0;black ; black ;21989,00;USD
+Ford Escape Titamium 4WD;2015;55442 miles;0;red ; black ;14100,00;USD
+Nissan Rogue SL AWD;2012;100141 miles;2;gray ; black ;10990,00;USD
+Mitsubishi Mirage SE Hatchback Manual;2017;34068 miles;0;silver ; black ;10000,00;USD
+Jeep Grand Cherokee Limited 75th Anniversary 4WD;2016;36039 miles;0;green ; black ;28594,00;USD
+Jeep Compass Latitude 4WD;2014;89971 miles;1;gray ; gray ;9995,00;USD
+Subaru Forester 2.5X Premium w/All-Weather Auto;2011;83188 miles;1;silver ; gray ;10995,00;USD
+Honda Civic Sport Hatchback CVT;2017;36391 miles;0;black ; black ;18995,00;USD
+Honda Civic LX Sedan CVT;2019;12468 miles;0;blue ; gray ;16995,00;USD

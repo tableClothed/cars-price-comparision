@@ -1,0 +1,361 @@
+name;year;mileage;engine_power_kW;engine_power_hp;fuel;consumption;ecology;gearbox;price;currency
+Daewoo Rezzo;2003;200000 km;89 kW ;121 hp;Gasoline;9 l/100 km ;236 g CO2/km ;Manual;199,00;EUR
+Volkswagen Golf;1994;222275 km;55 kW ;75 hp;Gasoline;0 l/100 km ;0 g CO2/km ;Manual;200,00;EUR
+Ford Fiesta;2001;153000 km;44 kW ;60 hp;Gasoline;7.3 l/100 km ;171 g CO2/km ;Manual;290,00;EUR
+Volkswagen Polo;1999;154000 km;44 kW ;60 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;350,00;EUR
+Nissan Micra;1998;140000 km;40 kW ;54 hp;Gasoline;6 l/100 km ;152 g CO2/km ;Manual;380,00;EUR
+Opel Omega;1995;186675 km;85 kW ;116 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;400,00;EUR
+Ford Mondeo;1999;170000 km;96 kW ;131 hp;Gasoline;8 l/100 km ;192 g CO2/km ;Automatic;450,00;EUR
+Mitsubishi Carisma;2003;200000 km;76 kW ;103 hp;Gasoline;7.4 l/100 km ;174 g CO2/km ;Manual;450,00;EUR
+Ford Focus;1999;200900 km;74 kW ;101 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Manual;490,00;EUR
+Opel Vectra;1998;199890 km;74 kW ;101 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;490,00;EUR
+Ford Fiesta;2000;189137 km;55 kW ;75 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;499,00;EUR
+Renault Clio;2004;186500 km;55 kW ;75 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;500,00;EUR
+Audi A4;1996;195000 km;74 kW ;101 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;590,00;EUR
+Fiat Stilo;2002;121000 km;76 kW ;103 hp;Gasoline;7.5 l/100 km ;179 g CO2/km ;Manual;600,00;EUR
+Audi A4;1997;147900 km;92 kW ;125 hp;Gasoline;8.5 l/100 km ;204 g CO2/km ;Manual;649,00;EUR
+BMW 320;1999;312983 km;100 kW ;136 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;699,00;EUR
+Saab 9-5;2001;208000 km;110 kW ;150 hp;Gasoline;9.3 l/100 km ;223 g CO2/km ;Manual;700,00;EUR
+Skoda Octavia;2003;189000 km;75 kW ;102 hp;Gasoline;7.2 l/100 km ;173 g CO2/km ;Manual;799,00;EUR
+Opel Agila;2005;160000 km;59 kW ;80 hp;Gasoline;6 l/100 km ;144 g CO2/km ;Manual;890,00;EUR
+Volkswagen Lupo;2000;128970 km;37 kW ;50 hp;Gasoline;6.4 l/100 km ;154 g CO2/km ;Manual;950,00;EUR
+Ford Ka/Ka+;2006;103680 km;44 kW ;60 hp;Gasoline;6.8 l/100 km ;165 g CO2/km ;Manual;950,00;EUR
+Mercedes-Benz A 140;2004;169000 km;60 kW ;82 hp;Gasoline;7.1 l/100 km ;168 g CO2/km ;Manual;950,00;EUR
+Renault Megane;2001;107840 km;70 kW ;95 hp;Gasoline;7.2 l/100 km ;170 g CO2/km ;Manual;975,00;EUR
+Fiat Scudo;2001;269870 km;51 kW ;69 hp;Diesel;7.7 l/100 km ;204 g CO2/km ;Manual;989,00;EUR
+Ford Fiesta;2004;183897 km;51 kW ;69 hp;Gasoline;6.9 l/100 km ;147 g CO2/km ;Manual;990,00;EUR
+Lancia Ypsilon;2002;111000 km;44 kW ;60 hp;Gasoline;5.7 l/100 km ;136 g CO2/km ;Manual;990,00;EUR
+BMW 318;2002;229800 km;105 kW ;143 hp;Gasoline;7.6 l/100 km ;185 g CO2/km ;Manual;998,00;EUR
+Opel Astra;2000;137000 km;55 kW ;75 hp;Gasoline;7.2 l/100 km ;173 g CO2/km ;Manual;999,00;EUR
+Volkswagen Polo;2002;134000 km;40 kW ;54 hp;Gasoline;6 l/100 km ;142 g CO2/km ;Manual;999,00;EUR
+Ford Ka/Ka+;2007;94000 km;44 kW ;60 hp;Gasoline;6.8 l/100 km ;165 g CO2/km ;Manual;999,00;EUR
+Opel Corsa;2003;110000 km;43 kW ;58 hp;Gasoline;5.5 l/100 km ;131 g CO2/km ;Manual;999,00;EUR
+Volkswagen Golf;1998;209000 km;74 kW ;101 hp;Gasoline;7.9 l/100 km ;190 g CO2/km ;Manual;999,00;EUR
+Renault Megane;2004;213000 km;88 kW ;120 hp;Diesel;5.4 l/100 km ;141 g CO2/km ;Manual;999,00;EUR
+SEAT Ibiza;2005;129000 km;47 kW ;64 hp;Gasoline;6 l/100 km ;144 g CO2/km ;Manual;999,00;EUR
+Ford Escort;1995;95000 km;66 kW ;90 hp;Gasoline;8.3 l/100 km ;196 g CO2/km ;Manual;999,00;EUR
+Opel Astra;2000;163000 km;74 kW ;101 hp;Gasoline;7.5 l/100 km ;180 g CO2/km ;Manual;1000,00;EUR
+Toyota Yaris;2001;204734 km;50 kW ;68 hp;Gasoline;5.6 l/100 km ;134 g CO2/km ;Manual;1090,00;EUR
+Volkswagen Polo;2007;200000 km;44 kW ;60 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1100,00;EUR
+Volvo 460;1996;112000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;1150,00;EUR
+Opel Meriva;2005;192800 km;74 kW ;101 hp;Gasoline;7.3 l/100 km ;175 g CO2/km ;Manual;1190,00;EUR
+Peugeot 206;2002;165092 km;80 kW ;109 hp;Gasoline;6.9 l/100 km ;166 g CO2/km ;Manual;1199,00;EUR
+Mazda 2;2006;148800 km;59 kW ;80 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1200,00;EUR
+Mercedes-Benz Vito;2001;250000 km;105 kW ;143 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;1200,00;EUR
+Opel Astra;1996;115000 km;74 kW ;101 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1200,00;EUR
+Mercedes-Benz A 190;2001;120670 km;92 kW ;125 hp;Gasoline;8.2 l/100 km ;196 g CO2/km ;Automatic;1200,00;EUR
+Peugeot 206;2003;180000 km;68 kW ;92 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;1200,00;EUR
+Ford Fusion;2006;166000 km;59 kW ;80 hp;Gasoline;6.8 l/100 km ;162 g CO2/km ;Automatic;1250,00;EUR
+Mercedes-Benz C 220;2004;300000 km;110 kW ;150 hp;Diesel;7.3 l/100 km ;194 g CO2/km ;Automatic;1280,00;EUR
+Citroen Berlingo;2007;190932 km;55 kW ;75 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;1290,00;EUR
+Mazda 6;2006;245000 km;89 kW ;121 hp;Diesel;6 l/100 km ;165 g CO2/km ;Manual;1290,00;EUR
+Ford Fusion;2005;185282 km;59 kW ;80 hp;Gasoline;6.9 l/100 km ;155 g CO2/km ;Manual;1290,00;EUR
+Opel Vectra;2005;196000 km;114 kW ;155 hp;Gasoline;8.2 l/100 km ;197 g CO2/km ;Manual;1290,00;EUR
+Volkswagen Sharan;2003;204000 km;96 kW ;131 hp;Diesel;6.2 l/100 km ;167 g CO2/km ;Manual;1300,00;EUR
+Mazda 6;2005;152000 km;122 kW ;166 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;1300,00;EUR
+Kia Rio;2003;161000 km;71 kW ;97 hp;Gasoline;7.1 l/100 km ;169 g CO2/km ;Manual;1300,00;EUR
+Ford Fiesta;2007;180000 km;50 kW ;68 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;1300,00;EUR
+Audi A4;1996;170000 km;74 kW ;101 hp;Gasoline;8.2 l/100 km ;197 g CO2/km ;Manual;1300,00;EUR
+Audi A3;2000;230800 km;74 kW ;101 hp;Gasoline;7.8 l/100 km ;187 g CO2/km ;Manual;1390,00;EUR
+Opel Vectra;2005;193000 km;114 kW ;155 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1390,00;EUR
+Mazda 6;2007;214000 km;89 kW ;121 hp;Diesel;6.1 l/100 km ;167 g CO2/km ;Manual;1399,00;EUR
+Mazda 6;2007;185000 km;105 kW ;143 hp;Diesel;6.1 l/100 km ;167 g CO2/km ;Manual;1399,00;EUR
+Volkswagen Golf Cabriolet;2000;170000 km;74 kW ;101 hp;Gasoline;8 l/100 km ;192 g CO2/km ;Manual;1400,00;EUR
+Opel Corsa;2001;163799 km;40 kW ;54 hp;Gasoline;5.6 l/100 km ;134 g CO2/km ;Manual;1469,00;EUR
+Mercedes-Benz C 220;2002;296000 km;105 kW ;143 hp;Diesel;6.3 l/100 km ;167 g CO2/km ;Automatic;1490,00;EUR
+Renault R 5;1995;155000 km;#NAZWA?;#NAZWA?;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1490,00;EUR
+Ford Mondeo;2006;149799 km;107 kW ;145 hp;Gasoline;9.6 l/100 km ;231 g CO2/km ;Automatic;1498,00;EUR
+Audi A3;1999;168000 km;92 kW ;125 hp;Gasoline;8.5 l/100 km ;204 g CO2/km ;Manual;1499,00;EUR
+Ford Fiesta;2000;78000 km;44 kW ;60 hp;Gasoline;7.3 l/100 km ;173 g CO2/km ;Manual;1499,00;EUR
+Volkswagen New Beetle;1999;265143 km;66 kW ;90 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;1500,00;EUR
+Volvo 850;1996;325000 km;125 kW ;170 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1500,00;EUR
+Opel Meriva;2006;125011 km;66 kW ;90 hp;Gasoline;6.2 l/100 km ;147 g CO2/km ;Manual;1500,00;EUR
+Volkswagen Golf;2002;180965 km;55 kW ;75 hp;Gasoline;6.8 l/100 km ;163 g CO2/km ;Manual;1580,00;EUR
+Toyota Corolla Verso;2005;316207 km;66 kW ;90 hp;Diesel;6.2 l/100 km ;164 g CO2/km ;Manual;1590,00;EUR
+Mercedes-Benz A 160;2001;200000 km;75 kW ;102 hp;Gasoline;7.2 l/100 km ;172 g CO2/km ;Semi-automatic;1600,00;EUR
+Opel Astra;2005;130200 km;66 kW ;90 hp;Gasoline;6.3 l/100 km ;149 g CO2/km ;Manual;1650,00;EUR
+Volkswagen Jetta;1987;135000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1690,00;EUR
+Volkswagen Touran;2003;243000 km;74 kW ;101 hp;Diesel;5.9 l/100 km ;156 g CO2/km ;Manual;1699,00;EUR
+Opel Astra;1999;178744 km;48 kW ;65 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1699,00;EUR
+Ford Fiesta;2001;103000 km;44 kW ;60 hp;Gasoline;7.5 l/100 km ;175 g CO2/km ;Manual;1699,00;EUR
+Opel Vectra;2005;217500 km;110 kW ;150 hp;Diesel;7 l/100 km ;189 g CO2/km ;Automatic;1700,00;EUR
+Mercedes-Benz E 200;1999;303000 km;100 kW ;136 hp;Gasoline;9.6 l/100 km ;228 g CO2/km ;Automatic;1750,00;EUR
+Opel Astra;1999;198900 km;74 kW ;101 hp;Gasoline;7.1 l/100 km ;171 g CO2/km ;Automatic;1750,00;EUR
+Ford Focus;2009;250000 km;66 kW ;90 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;1750,00;EUR
+Land Rover Range Rover;1998;436244 km;100 kW ;136 hp;Diesel;10.3 l/100 km ;-/- (CO2/km);Manual;1790,00;EUR
+Peugeot 406;1998;199000 km;97 kW ;132 hp;LPG;-/- (l/100 km);-/- (CO2/km);Automatic;1799,00;EUR
+Renault Laguna;2001;219000 km;152 kW ;207 hp;Gasoline;10.1 l/100 km ;240 g CO2/km ;Manual;1800,00;EUR
+Opel Astra;2005;181248 km;74 kW ;101 hp;Diesel;5 l/100 km ;135 g CO2/km ;Manual;1840,00;EUR
+Toyota Corolla Verso;2006;258000 km;100 kW ;136 hp;Diesel;6.4 l/100 km ;170 g CO2/km ;Manual;1850,00;EUR
+Chevrolet Matiz;2009;70000 km;38 kW ;52 hp;Gasoline;5.2 l/100 km ;127 g CO2/km ;Manual;1875,00;EUR
+Peugeot 307;2003;207320 km;80 kW ;109 hp;Gasoline;7.7 l/100 km ;178 g CO2/km ;Manual;1890,00;EUR
+Ford Ka/Ka+;2002;52000 km;44 kW ;60 hp;Gasoline;6.8 l/100 km ;165 g CO2/km ;Manual;1899,00;EUR
+Peugeot 207;2009;209204 km;66 kW ;90 hp;Diesel;-/- (l/100 km);120 g CO2/km ;Manual;1900,00;EUR
+smart forTwo;2005;150000 km;30 kW ;41 hp;Diesel;3.8 l/100 km ;101 g CO2/km ;Automatic;1900,00;EUR
+MINI One;2006;230000 km;66 kW ;90 hp;Gasoline;6.8 l/100 km ;164 g CO2/km ;Manual;1900,00;EUR
+Mercedes-Benz C 220;2003;408000 km;110 kW ;150 hp;Diesel;7.3 l/100 km ;194 g CO2/km ;Automatic;1950,00;EUR
+Ford Fiesta;2012;260000 km;51 kW ;69 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;1980,00;EUR
+Renault Twingo;1999;86600 km;43 kW ;58 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Automatic;1980,00;EUR
+Ford Streetka;2003;180000 km;70 kW ;95 hp;Gasoline;7.9 l/100 km ;189 g CO2/km ;Manual;1990,00;EUR
+Volkswagen Golf;2001;199894 km;85 kW ;116 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;1990,00;EUR
+Opel Astra;2004;146200 km;74 kW ;101 hp;Gasoline;8.4 l/100 km ;202 g CO2/km ;Automatic;1990,00;EUR
+Ford Focus;2007;165000 km;80 kW ;109 hp;Diesel;4.8 l/100 km ;127 g CO2/km ;Manual;1990,00;EUR
+Mitsubishi Carisma;1997;110000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;1990,00;EUR
+Mercedes-Benz C 320;2002;337000 km;160 kW ;218 hp;LPG;11.5 l/100 km ;273 g CO2/km ;Automatic;1995,00;EUR
+Peugeot 206;2004;90000 km;44 kW ;60 hp;Gasoline;6.3 l/100 km ;149 g CO2/km ;Manual;1999,00;EUR
+Volkswagen Caddy;2005;330000 km;77 kW ;105 hp;Diesel;6.1 l/100 km ;167 g CO2/km ;Manual;1999,00;EUR
+Mercedes-Benz CLK 200;2000;214000 km;100 kW ;136 hp;Gasoline;9.4 l/100 km ;222 g CO2/km ;Automatic;1999,00;EUR
+Citroen C2;2007;100000 km;44 kW ;60 hp;Gasoline;6 l/100 km ;143 g CO2/km ;Manual;1999,00;EUR
+Audi A3;1999;250000 km;74 kW ;101 hp;Gasoline;8.7 l/100 km ;209 g CO2/km ;Automatic;1999,00;EUR
+BMW 520;2001;249000 km;125 kW ;170 hp;Gasoline;9.5 l/100 km ;228 g CO2/km ;Manual;1999,00;EUR
+BMW 318;2002;210000 km;105 kW ;143 hp;Gasoline;7.6 l/100 km ;185 g CO2/km ;Manual;1999,00;EUR
+Hyundai i30;2008;217300 km;66 kW ;90 hp;Diesel;5 l/100 km ;128 g CO2/km ;Manual;2000,00;EUR
+Volkswagen Polo;2005;160000 km;40 kW ;54 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;2000,00;EUR
+Opel Vectra;2003;72900 km;90 kW ;122 hp;Gasoline;7.9 l/100 km ;190 g CO2/km ;Manual;2100,00;EUR
+Dacia Sandero;2009;159000 km;55 kW ;75 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Manual;2190,00;EUR
+Toyota Aygo;2010;204000 km;50 kW ;68 hp;Gasoline;4.6 l/100 km ;106 g CO2/km ;Manual;2200,00;EUR
+Ford Fiesta;2008;158225 km;59 kW ;80 hp;Gasoline;6.2 l/100 km ;147 g CO2/km ;Manual;2280,00;EUR
+Mercedes-Benz E 320;2001;310000 km;145 kW ;197 hp;Diesel;7.8 l/100 km ;207 g CO2/km ;Automatic;2280,00;EUR
+Peugeot 307;2006;239887 km;66 kW ;90 hp;Diesel;5.1 l/100 km ;134 g CO2/km ;Manual;2290,00;EUR
+Ford Transit Connect;2007;258200 km;55 kW ;75 hp;Diesel;-/- (l/100 km);166 g CO2/km ;Manual;2380,00;EUR
+Volkswagen Golf;2008;265900 km;66 kW ;90 hp;Diesel;5.3 l/100 km ;140 g CO2/km ;Manual;2400,00;EUR
+Mazda Tribute;2002;188500 km;91 kW ;124 hp;Gasoline;9.7 l/100 km ;230 g CO2/km ;Manual;2400,00;EUR
+Renault Megane;2005;220031 km;99 kW ;135 hp;Gasoline;8.2 l/100 km ;196 g CO2/km ;Manual;2400,00;EUR
+Renault Kangoo;1999;122171 km;47 kW ;64 hp;Diesel;7.5 l/100 km ;177 g CO2/km ;Manual;2449,00;EUR
+Volkswagen Polo;2005;177000 km;40 kW ;54 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;2450,00;EUR
+Audi A2;2001;171000 km;55 kW ;75 hp;Diesel;4.3 l/100 km ;116 g CO2/km ;Manual;2450,00;EUR
+Volkswagen Touran;2003;208965 km;85 kW ;116 hp;Gasoline;7.4 l/100 km ;175 g CO2/km ;Manual;2450,00;EUR
+Audi A6;2006;404000 km;132 kW ;179 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;2490,00;EUR
+Fiat Grande Punto;2008;143266 km;57 kW ;77 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;2490,00;EUR
+Mazda 2;2008;196779 km;55 kW ;75 hp;Gasoline;5.4 l/100 km ;129 g CO2/km ;Manual;2490,00;EUR
+Volkswagen Golf;2000;113980 km;55 kW ;75 hp;Gasoline;6.8 l/100 km ;163 g CO2/km ;Manual;2490,00;EUR
+Chevrolet Nubira;2007;206050 km;80 kW ;109 hp;LPG;-/- (l/100 km);181 g CO2/km ;Manual;2490,00;EUR
+Volvo C70;2001;193689 km;120 kW ;163 hp;LPG;10.6 l/100 km ;253 g CO2/km ;Automatic;2490,00;EUR
+Nissan Micra;2005;126381 km;59 kW ;80 hp;Gasoline;5.9 l/100 km ;143 g CO2/km ;Manual;2490,00;EUR
+Suzuki Grand Vitara;2005;264000 km;80 kW ;109 hp;Diesel;7.3 l/100 km ;198 g CO2/km ;Manual;2490,00;EUR
+Citroen C8;2006;177853 km;80 kW ;109 hp;Diesel;7 l/100 km ;186 g CO2/km ;Manual;2490,00;EUR
+Volkswagen Fox;2006;107300 km;40 kW ;54 hp;Gasoline;6.2 l/100 km ;148 g CO2/km ;Manual;2490,00;EUR
+Kia Sportage;2005;198400 km;83 kW ;113 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;2490,00;EUR
+Citroen C3;2010;168000 km;44 kW ;60 hp;Gasoline;6 l/100 km ;137 g CO2/km ;Manual;2499,00;EUR
+Hyundai i10;2010;144000 km;49 kW ;67 hp;Gasoline;5.2 l/100 km ;124 g CO2/km ;Manual;2499,00;EUR
+Volkswagen Golf;2000;163000 km;55 kW ;75 hp;Gasoline;7 l/100 km ;168 g CO2/km ;Manual;2499,00;EUR
+Renault Laguna;2007;200000 km;96 kW ;131 hp;Diesel;6 l/100 km ;159 g CO2/km ;Manual;2499,00;EUR
+Ford Fiesta;2006;63000 km;44 kW ;60 hp;Gasoline;5.9 l/100 km ;140 g CO2/km ;Manual;2499,00;EUR
+Mercedes-Benz C 200;2001;134764 km;120 kW ;163 hp;Gasoline;9.5 l/100 km ;227 g CO2/km ;Automatic;2500,00;EUR
+Mercedes-Benz A 180;2009;213700 km;80 kW ;109 hp;Diesel;6.1 l/100 km ;159 g CO2/km ;Automatic;2650,00;EUR
+MINI One;2010;82000 km;55 kW ;75 hp;Gasoline;5.3 l/100 km ;128 g CO2/km ;Manual;2650,00;EUR
+Audi A4;2005;216640 km;85 kW ;116 hp;Diesel;5.6 l/100 km ;151 g CO2/km ;Manual;2690,00;EUR
+Opel Corsa;2009;45000 km;59 kW ;80 hp;Gasoline;5.7 l/100 km ;137 g CO2/km ;Manual;2750,00;EUR
+Volkswagen Jetta;2007;300000 km;103 kW ;140 hp;Diesel;4.9 l/100 km ;148 g CO2/km ;Manual;2777,00;EUR
+Skoda Octavia;2007;196935 km;77 kW ;105 hp;Diesel;5.4 l/100 km ;143 g CO2/km ;Manual;2790,00;EUR
+Ford Fiesta;2008;80000 km;44 kW ;60 hp;Gasoline;6.5 l/100 km ;154 g CO2/km ;Manual;2799,00;EUR
+Honda Accord;2006;239000 km;103 kW ;140 hp;Diesel;5.9 l/100 km ;155 g CO2/km ;Manual;2800,00;EUR
+Peugeot 207;2007;122323 km;54 kW ;73 hp;Gasoline;6.3 l/100 km ;150 g CO2/km ;Manual;2800,00;EUR
+Citroen C2;2004;91000 km;80 kW ;109 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Automatic;2850,00;EUR
+Ford Focus;2007;123500 km;74 kW ;101 hp;Gasoline;6.7 l/100 km ;161 g CO2/km ;Manual;2875,00;EUR
+Skoda Octavia;2004;87800 km;75 kW ;102 hp;Gasoline;7.3 l/100 km ;175 g CO2/km ;Manual;2885,00;EUR
+Volkswagen Polo;2007;99800 km;51 kW ;69 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;2890,00;EUR
+Peugeot 206;2009;105997 km;44 kW ;60 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;2890,00;EUR
+Citroen Nemo;2012;155000 km;55 kW ;75 hp;Diesel;4.1 l/100 km ;119 g CO2/km ;Manual;2890,00;EUR
+Dacia Logan;2010;137755 km;64 kW ;87 hp;Gasoline;7.8 l/100 km ;185 g CO2/km ;Manual;2890,00;EUR
+Dacia Sandero;2011;180858 km;63 kW ;86 hp;Diesel;4.4 l/100 km ;115 g CO2/km ;Manual;2900,00;EUR
+Mercedes-Benz E 240;2003;173000 km;130 kW ;177 hp;Gasoline;10.9 l/100 km ;262 g CO2/km ;Manual;3299,00;EUR
+Honda Civic;2008;205681 km;61 kW ;83 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;3300,00;EUR
+Hyundai Getz;2008;110000 km;49 kW ;67 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;3329,00;EUR
+Ford Fusion;2007;148800 km;74 kW ;101 hp;Gasoline;6.6 l/100 km ;157 g CO2/km ;Manual;3366,00;EUR
+BMW 525;2005;300000 km;130 kW ;177 hp;Diesel;9.5 l/100 km ;230 g CO2/km ;Automatic;3380,00;EUR
+Skoda Fabia;2009;188818 km;63 kW ;86 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3390,00;EUR
+Toyota Yaris;2002;72269 km;63 kW ;86 hp;Gasoline;6.6 l/100 km ;157 g CO2/km ;Automatic;3390,00;EUR
+Nissan Pixo;2010;106202 km;50 kW ;68 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3399,00;EUR
+Fiat Punto;2011;112850 km;51 kW ;69 hp;Gasoline;5.2 l/100 km ;123 g CO2/km ;Manual;3400,00;EUR
+Ford Focus;2007;111000 km;80 kW ;109 hp;Diesel;4.8 l/100 km ;127 g CO2/km ;Manual;3400,00;EUR
+Toyota Aygo;2011;131724 km;50 kW ;68 hp;Gasoline;4.6 l/100 km ;103 g CO2/km ;Manual;3400,00;EUR
+Audi A4;1998;70100 km;121 kW ;165 hp;Gasoline;10 l/100 km ;240 g CO2/km ;Automatic;3480,00;EUR
+Mercedes-Benz E 320;2005;334000 km;165 kW ;224 hp;Diesel;8.1 l/100 km ;202 g CO2/km ;Automatic;3490,00;EUR
+Volvo S40;2004;147703 km;100 kW ;136 hp;Diesel;5.6 l/100 km ;148 g CO2/km ;Manual;3490,00;EUR
+Mercedes-Benz Vario;1999;507792 km;112 kW ;152 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;3490,00;EUR
+Suzuki Splash;2010;100923 km;63 kW ;86 hp;Gasoline;5.5 l/100 km ;131 g CO2/km ;Manual;3490,00;EUR
+Kia Carens;2010;271085 km;85 kW ;116 hp;Diesel;6.3 l/100 km ;166 g CO2/km ;Manual;3490,00;EUR
+Opel Astra;2005;120000 km;92 kW ;125 hp;Gasoline;8.6 l/100 km ;206 g CO2/km ;Automatic;3490,00;EUR
+BMW 316;2004;180000 km;85 kW ;116 hp;Gasoline;6.9 l/100 km ;164 g CO2/km ;Manual;3490,00;EUR
+Renault Laguna;2011;223000 km;81 kW ;110 hp;Diesel;5.3 l/100 km ;139 g CO2/km ;Manual;3499,00;EUR
+Mercedes-Benz 190;1988;99000 km;75 kW ;102 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3499,00;EUR
+Skoda Fabia;2010;119900 km;63 kW ;86 hp;Gasoline;5.2 l/100 km ;123 g CO2/km ;Manual;3499,00;EUR
+BMW 320;2008;226000 km;130 kW ;177 hp;Diesel;4.9 l/100 km ;131 g CO2/km ;Manual;3500,00;EUR
+Mercedes-Benz E 240;2004;204098 km;130 kW ;177 hp;Gasoline;10.3 l/100 km ;247 g CO2/km ;Automatic;3500,00;EUR
+Opel Corsa;2007;152000 km;59 kW ;80 hp;Gasoline;5.7 l/100 km ;137 g CO2/km ;Semi-automatic;3500,00;EUR
+Mercedes-Benz E 230;1987;240400 km;97 kW ;132 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3500,00;EUR
+Skoda Fabia;2011;102571 km;44 kW ;60 hp;Gasoline;5.9 l/100 km ;140 g CO2/km ;Manual;3590,00;EUR
+Hyundai Santa Fe;2007;173706 km;110 kW ;150 hp;Diesel;7.3 l/100 km ;193 g CO2/km ;Manual;3590,00;EUR
+Mercedes-Benz SLK 200;2003;230000 km;120 kW ;163 hp;Gasoline;9.5 l/100 km ;228 g CO2/km ;Manual;3600,00;EUR
+Volvo XC90;2004;350000 km;120 kW ;163 hp;Diesel;9.1 l/100 km ;242 g CO2/km ;Automatic;3600,00;EUR
+Mazda 6;2002;180000 km;122 kW ;166 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;3600,00;EUR
+Ford Fiesta;2010;63729 km;60 kW ;82 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;3645,00;EUR
+Mitsubishi Colt;2011;117100 km;55 kW ;75 hp;Gasoline;4.9 l/100 km ;115 g CO2/km ;Manual;3677,00;EUR
+Volkswagen Touran;2006;220000 km;125 kW ;170 hp;Diesel;6.6 l/100 km ;175 g CO2/km ;Automatic;3680,00;EUR
+Opel Astra;2005;77000 km;66 kW ;90 hp;Gasoline;6.5 l/100 km ;156 g CO2/km ;Manual;3690,00;EUR
+smart forTwo;2009;94500 km;62 kW ;84 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3699,00;EUR
+Volkswagen Sharan;2002;199876 km;85 kW ;116 hp;Diesel;6.6 l/100 km ;178 g CO2/km ;Manual;3699,00;EUR
+BMW 318;2004;185000 km;105 kW ;143 hp;Gasoline;6.6 l/100 km ;154 g CO2/km ;Manual;3699,00;EUR
+Fiat Grande Punto;2009;104610 km;57 kW ;77 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;3700,00;EUR
+Ford Transit Connect;2007;122000 km;55 kW ;75 hp;Diesel;6.3 l/100 km ;171 g CO2/km ;Manual;3700,00;EUR
+Audi A3;2007;245000 km;103 kW ;140 hp;Diesel;5.7 l/100 km ;154 g CO2/km ;Manual;3750,00;EUR
+BMW X5;2001;250000 km;135 kW ;184 hp;Diesel;8.6 l/100 km ;228 g CO2/km ;Automatic;3750,00;EUR
+Peugeot 207;2007;81750 km;110 kW ;150 hp;Gasoline;7.2 l/100 km ;171 g CO2/km ;Manual;3750,00;EUR
+SEAT Leon;2007;163400 km;75 kW ;102 hp;Gasoline;7.6 l/100 km ;180 g CO2/km ;Manual;3780,00;EUR
+Mercedes-Benz A 180;2005;105200 km;80 kW ;109 hp;Diesel;6.1 l/100 km ;159 g CO2/km ;Automatic;3790,00;EUR
+Ford Ranger;2000;222100 km;62 kW ;84 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;3790,00;EUR
+Renault Twingo;2013;129000 km;63 kW ;86 hp;Diesel;3.4 l/100 km ;90 g CO2/km ;Manual;3799,00;EUR
+Audi A3;2004;122513 km;103 kW ;140 hp;Diesel;5.9 l/100 km ;159 g CO2/km ;Automatic;3845,00;EUR
+Fiat Panda;2010;44500 km;40 kW ;54 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;3850,00;EUR
+Volkswagen Golf;2005;161000 km;110 kW ;150 hp;Gasoline;7.2 l/100 km ;187 g CO2/km ;Manual;3850,00;EUR
+Mazda 6;2003;96750 km;122 kW ;166 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;3850,00;EUR
+Ford Fiesta;2009;98200 km;60 kW ;82 hp;Gasoline;5.7 l/100 km ;133 g CO2/km ;Manual;3872,00;EUR
+Audi 100;1990;176000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3888,00;EUR
+smart forTwo;2011;113000 km;52 kW ;71 hp;Gasoline;4.2 l/100 km ;97 g CO2/km ;Automatic;3900,00;EUR
+Opel Astra;2001;130000 km;108 kW ;147 hp;Gasoline;8.7 l/100 km ;209 g CO2/km ;Manual;3900,00;EUR
+Renault Twingo;2008;130945 km;56 kW ;76 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;3900,00;EUR
+Ford S-Max;2010;232313 km;103 kW ;140 hp;Diesel;6 l/100 km ;159 g CO2/km ;Manual;3940,00;EUR
+Renault Twingo;2010;123600 km;43 kW ;58 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3945,00;EUR
+Peugeot 107;2011;76600 km;50 kW ;68 hp;Gasoline;4.5 l/100 km ;107 g CO2/km ;Manual;3950,00;EUR
+Volvo 960;1997;295000 km;150 kW ;204 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3950,00;EUR
+SEAT Leon;2000;77000 km;92 kW ;125 hp;Gasoline;8.5 l/100 km ;204 g CO2/km ;Automatic;3950,00;EUR
+Mercedes-Benz C 220;2002;99800 km;105 kW ;143 hp;Diesel;6.7 l/100 km ;178 g CO2/km ;Automatic;3950,00;EUR
+Ford C-Max;2004;118166 km;92 kW ;125 hp;Gasoline;7.1 l/100 km ;172 g CO2/km ;Manual;3980,00;EUR
+Opel Zafira;2007;210800 km;110 kW ;150 hp;Diesel;6.2 l/100 km ;165 g CO2/km ;Manual;3980,00;EUR
+Volkswagen Golf;2004;165000 km;55 kW ;75 hp;Gasoline;7.1 l/100 km ;170 g CO2/km ;Manual;3980,00;EUR
+Volkswagen Golf;2004;142000 km;75 kW ;102 hp;Gasoline;8.2 l/100 km ;195 g CO2/km ;Automatic;3990,00;EUR
+Volkswagen Golf;2007;226000 km;147 kW ;200 hp;Gasoline;8.1 l/100 km ;189 g CO2/km ;Manual;3990,00;EUR
+Chevrolet Cruze;2012;179564 km;120 kW ;163 hp;Diesel;5.4 l/100 km ;143 g CO2/km ;Manual;3990,00;EUR
+Renault Megane;2005;85000 km;83 kW ;113 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Manual;3990,00;EUR
+Mazda CX-7;2010;207911 km;127 kW ;173 hp;Diesel;7.5 l/100 km ;199 g CO2/km ;Manual;3990,00;EUR
+Peugeot 107;2010;80000 km;50 kW ;68 hp;Gasoline;4.6 l/100 km ;108 g CO2/km ;Manual;3990,00;EUR
+Opel Astra;2008;149000 km;66 kW ;90 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;3990,00;EUR
+Citroen Nemo;2010;99409 km;50 kW ;68 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;3990,00;EUR
+Opel Meriva;2004;90580 km;74 kW ;101 hp;Gasoline;7.5 l/100 km ;178 g CO2/km ;Manual;3990,00;EUR
+BMW 318;2009;304738 km;100 kW ;136 hp;Diesel;-/- (l/100 km);125 g CO2/km ;Manual;3990,00;EUR
+Mercedes-Benz C 200;2001;162700 km;120 kW ;163 hp;Gasoline;9.5 l/100 km ;228 g CO2/km ;Automatic;3990,00;EUR
+Chevrolet Spark;2011;79871 km;50 kW ;68 hp;Gasoline;5.1 l/100 km ;119 g CO2/km ;Manual;3990,00;EUR
+Mercedes-Benz 230;1991;261700 km;97 kW ;132 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3990,00;EUR
+Kia Sportage;2005;139800 km;129 kW ;175 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3998,00;EUR
+Mazda MX-5;2003;139000 km;107 kW ;145 hp;Gasoline;8.7 l/100 km ;210 g CO2/km ;Manual;3999,00;EUR
+Volvo XC90;2005;334999 km;120 kW ;163 hp;Diesel;9.1 l/100 km ;242 g CO2/km ;Automatic;3999,00;EUR
+Renault Kangoo;2007;87000 km;50 kW ;68 hp;Diesel;5.5 l/100 km ;147 g CO2/km ;Manual;3999,00;EUR
+Mercedes-Benz C 180;2004;185000 km;105 kW ;143 hp;Gasoline;7.9 l/100 km ;190 g CO2/km ;Automatic;3999,00;EUR
+Fiat 500;2009;139980 km;51 kW ;69 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3999,00;EUR
+Hyundai i10;2010;48000 km;49 kW ;67 hp;Gasoline;5 l/100 km ;119 g CO2/km ;Manual;3999,00;EUR
+Ford Transit Courier;2016;274000 km;55 kW ;75 hp;Diesel;4.1 l/100 km ;109 g CO2/km ;Manual;3999,00;EUR
+Dacia Sandero;2012;66000 km;55 kW ;75 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;3999,00;EUR
+Renault Megane;2010;125000 km;74 kW ;101 hp;Gasoline;6.7 l/100 km ;159 g CO2/km ;Manual;3999,00;EUR
+BMW 116;2005;120000 km;85 kW ;116 hp;Gasoline;7.5 l/100 km ;181 g CO2/km ;Manual;3999,00;EUR
+Toyota Avensis;2004;150000 km;95 kW ;129 hp;Gasoline;7.2 l/100 km ;171 g CO2/km ;Manual;3999,00;EUR
+BMW 318;2006;147000 km;95 kW ;129 hp;Gasoline;7.6 l/100 km ;182 g CO2/km ;Manual;3999,00;EUR
+Dacia Sandero;2012;168839 km;62 kW ;84 hp;Gasoline;7.3 l/100 km ;173 g CO2/km ;Manual;4000,00;EUR
+Ford C-Max;2008;85236 km;100 kW ;136 hp;Diesel;6.1 l/100 km ;159 g CO2/km ;Manual;4000,00;EUR
+Mercedes-Benz E 220;2004;145000 km;110 kW ;150 hp;Diesel;6.3 l/100 km ;167 g CO2/km ;Manual;4000,00;EUR
+Honda CR-V;2005;130000 km;103 kW ;140 hp;Diesel;6.7 l/100 km ;177 g CO2/km ;Manual;4100,00;EUR
+Volkswagen Polo;2007;123900 km;59 kW ;80 hp;Diesel;4.5 l/100 km ;118 g CO2/km ;Manual;4180,00;EUR
+Opel Astra;1998;47632 km;74 kW ;101 hp;Gasoline;8.2 l/100 km ;197 g CO2/km ;Automatic;4180,00;EUR
+Hyundai Getz;2008;89990 km;49 kW ;67 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;4199,00;EUR
+Opel Tigra;2005;74200 km;92 kW ;125 hp;Gasoline;7.7 l/100 km ;185 g CO2/km ;Manual;4200,00;EUR
+Skoda Octavia;2006;215000 km;103 kW ;140 hp;Diesel;6 l/100 km ;159 g CO2/km ;Manual;4200,00;EUR
+Citroen DS;2010;139063 km;82 kW ;111 hp;Diesel;4.5 l/100 km ;118 g CO2/km ;Manual;4200,00;EUR
+Renault Twingo;2008;99000 km;74 kW ;101 hp;Gasoline;5.7 l/100 km ;132 g CO2/km ;Manual;4250,00;EUR
+Fiat Punto Evo;2011;150000 km;51 kW ;69 hp;Diesel;4.1 l/100 km ;104 g CO2/km ;Manual;4250,00;EUR
+Ford Focus;2010;264964 km;100 kW ;136 hp;Diesel;5.8 l/100 km ;154 g CO2/km ;Automatic;4250,00;EUR
+Chevrolet Cruze;2013;79000 km;120 kW ;163 hp;Diesel;4.6 l/100 km ;167 g CO2/km ;Automatic;4250,00;EUR
+Citroen C3;2003;81175 km;54 kW ;73 hp;Gasoline;6 l/100 km ;140 g CO2/km ;Automatic;4300,00;EUR
+Fiat Doblo;2011;62000 km;70 kW ;95 hp;Gasoline;7.4 l/100 km ;174 g CO2/km ;Manual;4350,00;EUR
+Audi A4;2008;241000 km;176 kW ;239 hp;Diesel;7.2 l/100 km ;189 g CO2/km ;Manual;4399,00;EUR
+Citroen C1;2014;69000 km;50 kW ;68 hp;Gasoline;4.3 l/100 km ;102 g CO2/km ;Manual;4399,00;EUR
+BMW 116;2009;174900 km;90 kW ;122 hp;Gasoline;3.8 l/100 km ;99 g CO2/km ;Manual;4399,00;EUR
+Chevrolet Spark;2010;85697 km;50 kW ;68 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;4440,00;EUR
+BMW 320;2002;180000 km;125 kW ;170 hp;Gasoline;8.9 l/100 km ;213 g CO2/km ;Manual;4444,00;EUR
+Renault Clio;2011;165930 km;55 kW ;75 hp;Gasoline;-/- (l/100 km);135 g CO2/km ;Manual;4445,00;EUR
+Opel Meriva;2009;91000 km;66 kW ;90 hp;Gasoline;6.2 l/100 km ;148 g CO2/km ;Manual;4450,00;EUR
+Toyota Corolla Verso;2005;129000 km;95 kW ;129 hp;Gasoline;7.5 l/100 km ;179 g CO2/km ;Automatic;4450,00;EUR
+Renault Twingo;2012;91978 km;55 kW ;75 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;4490,00;EUR
+Skoda Citigo;2013;70000 km;55 kW ;75 hp;Gasoline;4.2 l/100 km ;98 g CO2/km ;Manual;4490,00;EUR
+smart forTwo;2009;47000 km;52 kW ;71 hp;Gasoline;4.3 l/100 km ;98 g CO2/km ;Automatic;4490,00;EUR
+Mercedes-Benz Viano;2005;345000 km;110 kW ;150 hp;Diesel;9.8 l/100 km ;258 g CO2/km ;Automatic;4490,00;EUR
+Iveco Daily;2003;182000 km;107 kW ;145 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;4490,00;EUR
+BMW X3;2005;320000 km;150 kW ;204 hp;Diesel;8.4 l/100 km ;224 g CO2/km ;Manual;4499,00;EUR
+Peugeot 307;2005;149917 km;103 kW ;140 hp;Gasoline;8.1 l/100 km ;192 g CO2/km ;Manual;4499,00;EUR
+Volkswagen up!;2012;92000 km;44 kW ;60 hp;Gasoline;4.5 l/100 km ;105 g CO2/km ;Manual;4499,00;EUR
+Renault Wind;2011;61291 km;75 kW ;102 hp;Gasoline;6 l/100 km ;139 g CO2/km ;Manual;4500,00;EUR
+Volkswagen Golf;2010;131099 km;90 kW ;122 hp;Gasoline;6.2 l/100 km ;144 g CO2/km ;Manual;4500,00;EUR
+Suzuki Ignis;2002;60000 km;61 kW ;83 hp;Gasoline;6.4 l/100 km ;150 g CO2/km ;Manual;4500,00;EUR
+Opel Tigra;2007;79000 km;92 kW ;125 hp;Gasoline;7.7 l/100 km ;185 g CO2/km ;Manual;4500,00;EUR
+MINI Cooper Clubman;2009;200000 km;80 kW ;109 hp;Diesel;4.5 l/100 km ;121 g CO2/km ;Manual;4600,00;EUR
+Peugeot 206;2012;60600 km;44 kW ;60 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;4600,00;EUR
+BMW 320;2005;280000 km;120 kW ;163 hp;Diesel;6.7 l/100 km ;179 g CO2/km ;Automatic;4650,00;EUR
+Opel Corsa;2012;79337 km;63 kW ;86 hp;Gasoline;5.3 l/100 km ;125 g CO2/km ;Manual;4650,00;EUR
+Opel Combo;2009;150000 km;55 kW ;75 hp;Diesel;5.2 l/100 km ;140 g CO2/km ;Automatic;4699,00;EUR
+Opel Zafira;1999;64750 km;74 kW ;101 hp;Gasoline;8.3 l/100 km ;200 g CO2/km ;Manual;4699,00;EUR
+Hyundai Getz;2008;49950 km;49 kW ;67 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;4699,00;EUR
+Toyota Land Cruiser;1997;207000 km;92 kW ;125 hp;Diesel;13.2 l/100 km ;-/- (CO2/km);Automatic;4700,00;EUR
+Mercedes-Benz B 200;2007;200000 km;103 kW ;140 hp;Diesel;6.3 l/100 km ;165 g CO2/km ;Automatic;4750,00;EUR
+Audi A6;2007;282380 km;103 kW ;140 hp;Diesel;6.7 l/100 km ;181 g CO2/km ;Automatic;4750,00;EUR
+Opel Astra;2007;118775 km;85 kW ;116 hp;Gasoline;-/- (l/100 km);158 g CO2/km ;Manual;4750,00;EUR
+Daihatsu Sirion;2007;70700 km;67 kW ;91 hp;Gasoline;6.3 l/100 km ;148 g CO2/km ;Automatic;4750,00;EUR
+Volkswagen Polo;2007;122000 km;47 kW ;64 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;4780,00;EUR
+Volkswagen Golf;2006;95600 km;59 kW ;80 hp;Gasoline;6.9 l/100 km ;165 g CO2/km ;Manual;4950,00;EUR
+Volkswagen Golf;2008;141056 km;77 kW ;105 hp;Diesel;5.2 l/100 km ;137 g CO2/km ;Manual;4950,00;EUR
+Ford Ka/Ka+;2012;48000 km;51 kW ;69 hp;Gasoline;4.9 l/100 km ;115 g CO2/km ;Manual;4950,00;EUR
+Mercedes-Benz E 200;2011;324000 km;100 kW ;136 hp;Diesel;5.9 l/100 km ;153 g CO2/km ;Automatic;4950,00;EUR
+Mercedes-Benz E 200;2011;365000 km;100 kW ;136 hp;Diesel;5.9 l/100 km ;153 g CO2/km ;Automatic;4950,00;EUR
+Opel Corsa;2009;114700 km;59 kW ;80 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;4960,00;EUR
+SEAT Ibiza;2012;99620 km;51 kW ;69 hp;Gasoline;5.4 l/100 km ;125 g CO2/km ;Manual;4980,00;EUR
+Audi A3;2004;148200 km;75 kW ;102 hp;Gasoline;7 l/100 km ;168 g CO2/km ;Automatic;4980,00;EUR
+Mercedes-Benz E 280;1996;86353 km;142 kW ;193 hp;Gasoline;7.5 l/100 km ;-/- (CO2/km);Manual;4980,00;EUR
+Mitsubishi Pajero;2004;191722 km;118 kW ;160 hp;Diesel;10.5 l/100 km ;284 g CO2/km ;Manual;4990,00;EUR
+Peugeot 107;2013;18450 km;50 kW ;68 hp;Gasoline;4.3 l/100 km ;99 g CO2/km ;Manual;4990,00;EUR
+Citroen C4 Picasso;2011;99633 km;88 kW ;120 hp;Gasoline;6.9 l/100 km ;159 g CO2/km ;Manual;4990,00;EUR
+Dacia Sandero;2013;70109 km;55 kW ;75 hp;Gasoline;5.8 l/100 km ;135 g CO2/km ;Manual;4990,00;EUR
+Ford Focus;2011;182523 km;70 kW ;95 hp;Diesel;4.2 l/100 km ;109 g CO2/km ;Manual;4990,00;EUR
+Chevrolet Spark;2013;63176 km;50 kW ;68 hp;Gasoline;5 l/100 km ;118 g CO2/km ;Manual;4990,00;EUR
+Volkswagen Touran;2009;238000 km;103 kW ;140 hp;Diesel;6.1 l/100 km ;161 g CO2/km ;Manual;4990,00;EUR
+BMW 316;1994;118000 km;75 kW ;102 hp;Gasoline;7.7 l/100 km ;-/- (CO2/km);Manual;4990,00;EUR
+Opel Zafira;2009;200000 km;110 kW ;150 hp;Diesel;7.2 l/100 km ;194 g CO2/km ;Automatic;4990,00;EUR
+Ford Fiesta;2014;144937 km;60 kW ;82 hp;Gasoline;5.2 l/100 km ;123 g CO2/km ;Manual;4990,00;EUR
+Renault Twingo;2012;98340 km;55 kW ;75 hp;Gasoline;4.5 l/100 km ;105 g CO2/km ;Manual;4990,00;EUR
+BMW 520;2007;170000 km;110 kW ;150 hp;Diesel;6.9 l/100 km ;185 g CO2/km ;Automatic;4990,00;EUR
+Skoda Fabia;2010;88350 km;51 kW ;69 hp;Gasoline;5.9 l/100 km ;140 g CO2/km ;Manual;4990,00;EUR
+Mercedes-Benz C 230;2004;221600 km;141 kW ;192 hp;Gasoline;9.2 l/100 km ;221 g CO2/km ;Automatic;4990,00;EUR
+Volkswagen Golf;2006;120500 km;59 kW ;80 hp;Gasoline;6.6 l/100 km ;156 g CO2/km ;Manual;4990,00;EUR
+Volkswagen Golf;2009;62900 km;59 kW ;80 hp;Gasoline;6.4 l/100 km ;149 g CO2/km ;Manual;4990,00;EUR
+Opel Corsa;2014;95600 km;51 kW ;69 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;4990,00;EUR
+Toyota Yaris;2011;113000 km;51 kW ;69 hp;Gasoline;5.4 l/100 km ;127 g CO2/km ;Manual;4990,00;EUR
+Mitsubishi Outlander;2006;171809 km;118 kW ;160 hp;Gasoline;9.8 l/100 km ;233 g CO2/km ;Manual;4990,00;EUR
+Opel Astra;2010;101897 km;66 kW ;90 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;4990,00;EUR
+Audi A4;2002;137499 km;96 kW ;131 hp;Gasoline;8.1 l/100 km ;194 g CO2/km ;Automatic;4990,00;EUR
+Kia Ceed / cee'd;2010;67280 km;66 kW ;90 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;4990,00;EUR
+BMW 330;2002;292000 km;170 kW ;231 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;4990,00;EUR
+BMW 520;2008;234783 km;110 kW ;150 hp;Diesel;-/- (l/100 km);189 g CO2/km ;Automatic;4990,00;EUR
+Nissan Micra;2007;133100 km;65 kW ;88 hp;Gasoline;6.6 l/100 km ;156 g CO2/km ;Manual;4990,00;EUR
+Alfa Romeo 145;1998;43000 km;76 kW ;103 hp;Gasoline;-/- (l/100 km);0 g CO2/km ;Manual;4990,00;EUR
+Mazda RX-8;2004;99455 km;141 kW ;192 hp;Gasoline;10.8 l/100 km ;267 g CO2/km ;Manual;4995,00;EUR
+Audi A4;2003;199799 km;120 kW ;163 hp;Diesel;7.3 l/100 km ;197 g CO2/km ;Automatic;4998,00;EUR
+Opel Insignia;2011;290000 km;118 kW ;160 hp;Diesel;5.6 l/100 km ;149 g CO2/km ;Automatic;4999,00;EUR
+Daihatsu Terios;2006;74300 km;77 kW ;105 hp;Gasoline;7.9 l/100 km ;186 g CO2/km ;Manual;4999,00;EUR
+Fiat Qubo;2016;167000 km;59 kW ;80 hp;Diesel;4.5 l/100 km ;118 g CO2/km ;Manual;4999,00;EUR
+Skoda Octavia;2009;155000 km;75 kW ;102 hp;Gasoline;7.4 l/100 km ;176 g CO2/km ;Manual;4999,00;EUR
+Volkswagen Touran;2006;144767 km;103 kW ;140 hp;Gasoline;7.5 l/100 km ;179 g CO2/km ;Automatic;4999,00;EUR
+Citroen Grand C4 Picasso;2009;96000 km;80 kW ;109 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;4999,00;EUR
+Renault Megane;2011;139000 km;81 kW ;110 hp;Diesel;4.1 l/100 km ;104 g CO2/km ;Manual;4999,00;EUR
+Renault Megane;2008;157000 km;99 kW ;135 hp;Gasoline;8.4 l/100 km ;201 g CO2/km ;Automatic;4999,00;EUR
+Volkswagen Caddy;2012;289000 km;75 kW ;102 hp;Diesel;5.7 l/100 km ;149 g CO2/km ;Manual;4999,00;EUR
+Hyundai i30;2012;113000 km;80 kW ;109 hp;Gasoline;6.1 l/100 km ;142 g CO2/km ;Manual;4999,00;EUR
+Volkswagen T4 California;1994;344000 km;57 kW ;77 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;4999,00;EUR
+Ford C-Max;2010;115000 km;80 kW ;109 hp;Diesel;4.9 l/100 km ;129 g CO2/km ;Manual;4999,00;EUR
+Peugeot 207;2011;58000 km;54 kW ;73 hp;Gasoline;6.3 l/100 km ;145 g CO2/km ;Manual;4999,00;EUR
+Hyundai i10;2015;90000 km;65 kW ;88 hp;Gasoline;4.7 l/100 km ;108 g CO2/km ;Manual;4999,00;EUR
+Mazda MX-5;2005;83900 km;81 kW ;110 hp;Gasoline;8.1 l/100 km ;196 g CO2/km ;Manual;5000,00;EUR
+Volkswagen Polo;2009;66600 km;59 kW ;80 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;5000,00;EUR
+BMW 318;2006;238000 km;110 kW ;150 hp;Gasoline;7.8 l/100 km ;190 g CO2/km ;Automatic;5000,00;EUR
+Mercedes-Benz CLK 200;2000;94931 km;100 kW ;136 hp;Gasoline;9.6 l/100 km ;225 g CO2/km ;Automatic;5090,00;EUR
+Renault Megane;2010;96133 km;81 kW ;110 hp;Diesel;4.4 l/100 km ;110 g CO2/km ;Automatic;5190,00;EUR
+Opel Corsa;2012;91158 km;64 kW ;87 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;5200,00;EUR
+Toyota Yaris;2010;94200 km;51 kW ;69 hp;Gasoline;5 l/100 km ;115 g CO2/km ;Manual;5200,00;EUR
+BMW 116;2008;164145 km;90 kW ;122 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;5280,00;EUR
+Opel Astra;2013;136000 km;92 kW ;125 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;5299,00;EUR

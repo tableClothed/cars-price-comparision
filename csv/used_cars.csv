@@ -1,0 +1,1817 @@
+name;year;mileage;engine_power_kW;engine_power_hp;fuel;consumption;ecology;gearbox;price;currency;capacity;other;engine_size;nr_of_accidents;color_exterior;color_interior
+Daewoo Rezzo;2003;200000 km;89 kW ;121 hp;Gasoline;9 l/100 km ;236 g CO2/km ;Manual;199,00;EUR;;;;;;
+Volkswagen Golf;1994;222275 km;55 kW ;75 hp;Gasoline;0 l/100 km ;0 g CO2/km ;Manual;200,00;EUR;;;;;;
+Ford Fiesta;2001;153000 km;44 kW ;60 hp;Gasoline;7.3 l/100 km ;171 g CO2/km ;Manual;290,00;EUR;;;;;;
+Volkswagen Polo;1999;154000 km;44 kW ;60 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;350,00;EUR;;;;;;
+Nissan Micra;1998;140000 km;40 kW ;54 hp;Gasoline;6 l/100 km ;152 g CO2/km ;Manual;380,00;EUR;;;;;;
+Opel Omega;1995;186675 km;85 kW ;116 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;400,00;EUR;;;;;;
+Ford Mondeo;1999;170000 km;96 kW ;131 hp;Gasoline;8 l/100 km ;192 g CO2/km ;Automatic;450,00;EUR;;;;;;
+Mitsubishi Carisma;2003;200000 km;76 kW ;103 hp;Gasoline;7.4 l/100 km ;174 g CO2/km ;Manual;450,00;EUR;;;;;;
+Ford Focus;1999;200900 km;74 kW ;101 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Manual;490,00;EUR;;;;;;
+Opel Vectra;1998;199890 km;74 kW ;101 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;490,00;EUR;;;;;;
+Ford Fiesta;2000;189137 km;55 kW ;75 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;499,00;EUR;;;;;;
+Renault Clio;2004;186500 km;55 kW ;75 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;500,00;EUR;;;;;;
+Audi A4;1996;195000 km;74 kW ;101 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;590,00;EUR;;;;;;
+Fiat Stilo;2002;121000 km;76 kW ;103 hp;Gasoline;7.5 l/100 km ;179 g CO2/km ;Manual;600,00;EUR;;;;;;
+Audi A4;1997;147900 km;92 kW ;125 hp;Gasoline;8.5 l/100 km ;204 g CO2/km ;Manual;649,00;EUR;;;;;;
+BMW 320;1999;312983 km;100 kW ;136 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;699,00;EUR;;;;;;
+Saab 9-5;2001;208000 km;110 kW ;150 hp;Gasoline;9.3 l/100 km ;223 g CO2/km ;Manual;700,00;EUR;;;;;;
+Skoda Octavia;2003;189000 km;75 kW ;102 hp;Gasoline;7.2 l/100 km ;173 g CO2/km ;Manual;799,00;EUR;;;;;;
+Opel Agila;2005;160000 km;59 kW ;80 hp;Gasoline;6 l/100 km ;144 g CO2/km ;Manual;890,00;EUR;;;;;;
+Volkswagen Lupo;2000;128970 km;37 kW ;50 hp;Gasoline;6.4 l/100 km ;154 g CO2/km ;Manual;950,00;EUR;;;;;;
+Ford Ka/Ka+;2006;103680 km;44 kW ;60 hp;Gasoline;6.8 l/100 km ;165 g CO2/km ;Manual;950,00;EUR;;;;;;
+Mercedes-Benz A 140;2004;169000 km;60 kW ;82 hp;Gasoline;7.1 l/100 km ;168 g CO2/km ;Manual;950,00;EUR;;;;;;
+Renault Megane;2001;107840 km;70 kW ;95 hp;Gasoline;7.2 l/100 km ;170 g CO2/km ;Manual;975,00;EUR;;;;;;
+Fiat Scudo;2001;269870 km;51 kW ;69 hp;Diesel;7.7 l/100 km ;204 g CO2/km ;Manual;989,00;EUR;;;;;;
+Ford Fiesta;2004;183897 km;51 kW ;69 hp;Gasoline;6.9 l/100 km ;147 g CO2/km ;Manual;990,00;EUR;;;;;;
+Lancia Ypsilon;2002;111000 km;44 kW ;60 hp;Gasoline;5.7 l/100 km ;136 g CO2/km ;Manual;990,00;EUR;;;;;;
+BMW 318;2002;229800 km;105 kW ;143 hp;Gasoline;7.6 l/100 km ;185 g CO2/km ;Manual;998,00;EUR;;;;;;
+Opel Astra;2000;137000 km;55 kW ;75 hp;Gasoline;7.2 l/100 km ;173 g CO2/km ;Manual;999,00;EUR;;;;;;
+Volkswagen Polo;2002;134000 km;40 kW ;54 hp;Gasoline;6 l/100 km ;142 g CO2/km ;Manual;999,00;EUR;;;;;;
+Ford Ka/Ka+;2007;94000 km;44 kW ;60 hp;Gasoline;6.8 l/100 km ;165 g CO2/km ;Manual;999,00;EUR;;;;;;
+Opel Corsa;2003;110000 km;43 kW ;58 hp;Gasoline;5.5 l/100 km ;131 g CO2/km ;Manual;999,00;EUR;;;;;;
+Volkswagen Golf;1998;209000 km;74 kW ;101 hp;Gasoline;7.9 l/100 km ;190 g CO2/km ;Manual;999,00;EUR;;;;;;
+Renault Megane;2004;213000 km;88 kW ;120 hp;Diesel;5.4 l/100 km ;141 g CO2/km ;Manual;999,00;EUR;;;;;;
+SEAT Ibiza;2005;129000 km;47 kW ;64 hp;Gasoline;6 l/100 km ;144 g CO2/km ;Manual;999,00;EUR;;;;;;
+Ford Escort;1995;95000 km;66 kW ;90 hp;Gasoline;8.3 l/100 km ;196 g CO2/km ;Manual;999,00;EUR;;;;;;
+Opel Astra;2000;163000 km;74 kW ;101 hp;Gasoline;7.5 l/100 km ;180 g CO2/km ;Manual;1000,00;EUR;;;;;;
+Toyota Yaris;2001;204734 km;50 kW ;68 hp;Gasoline;5.6 l/100 km ;134 g CO2/km ;Manual;1090,00;EUR;;;;;;
+Volkswagen Polo;2007;200000 km;44 kW ;60 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1100,00;EUR;;;;;;
+Volvo 460;1996;112000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;1150,00;EUR;;;;;;
+Opel Meriva;2005;192800 km;74 kW ;101 hp;Gasoline;7.3 l/100 km ;175 g CO2/km ;Manual;1190,00;EUR;;;;;;
+Peugeot 206;2002;165092 km;80 kW ;109 hp;Gasoline;6.9 l/100 km ;166 g CO2/km ;Manual;1199,00;EUR;;;;;;
+Mazda 2;2006;148800 km;59 kW ;80 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1200,00;EUR;;;;;;
+Mercedes-Benz Vito;2001;250000 km;105 kW ;143 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;1200,00;EUR;;;;;;
+Opel Astra;1996;115000 km;74 kW ;101 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1200,00;EUR;;;;;;
+Mercedes-Benz A 190;2001;120670 km;92 kW ;125 hp;Gasoline;8.2 l/100 km ;196 g CO2/km ;Automatic;1200,00;EUR;;;;;;
+Peugeot 206;2003;180000 km;68 kW ;92 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;1200,00;EUR;;;;;;
+Ford Fusion;2006;166000 km;59 kW ;80 hp;Gasoline;6.8 l/100 km ;162 g CO2/km ;Automatic;1250,00;EUR;;;;;;
+Mercedes-Benz C 220;2004;300000 km;110 kW ;150 hp;Diesel;7.3 l/100 km ;194 g CO2/km ;Automatic;1280,00;EUR;;;;;;
+Citroen Berlingo;2007;190932 km;55 kW ;75 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;1290,00;EUR;;;;;;
+Mazda 6;2006;245000 km;89 kW ;121 hp;Diesel;6 l/100 km ;165 g CO2/km ;Manual;1290,00;EUR;;;;;;
+Ford Fusion;2005;185282 km;59 kW ;80 hp;Gasoline;6.9 l/100 km ;155 g CO2/km ;Manual;1290,00;EUR;;;;;;
+Opel Vectra;2005;196000 km;114 kW ;155 hp;Gasoline;8.2 l/100 km ;197 g CO2/km ;Manual;1290,00;EUR;;;;;;
+Volkswagen Sharan;2003;204000 km;96 kW ;131 hp;Diesel;6.2 l/100 km ;167 g CO2/km ;Manual;1300,00;EUR;;;;;;
+Mazda 6;2005;152000 km;122 kW ;166 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;1300,00;EUR;;;;;;
+Kia Rio;2003;161000 km;71 kW ;97 hp;Gasoline;7.1 l/100 km ;169 g CO2/km ;Manual;1300,00;EUR;;;;;;
+Ford Fiesta;2007;180000 km;50 kW ;68 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;1300,00;EUR;;;;;;
+Audi A4;1996;170000 km;74 kW ;101 hp;Gasoline;8.2 l/100 km ;197 g CO2/km ;Manual;1300,00;EUR;;;;;;
+Audi A3;2000;230800 km;74 kW ;101 hp;Gasoline;7.8 l/100 km ;187 g CO2/km ;Manual;1390,00;EUR;;;;;;
+Opel Vectra;2005;193000 km;114 kW ;155 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1390,00;EUR;;;;;;
+Mazda 6;2007;214000 km;89 kW ;121 hp;Diesel;6.1 l/100 km ;167 g CO2/km ;Manual;1399,00;EUR;;;;;;
+Mazda 6;2007;185000 km;105 kW ;143 hp;Diesel;6.1 l/100 km ;167 g CO2/km ;Manual;1399,00;EUR;;;;;;
+Volkswagen Golf Cabriolet;2000;170000 km;74 kW ;101 hp;Gasoline;8 l/100 km ;192 g CO2/km ;Manual;1400,00;EUR;;;;;;
+Opel Corsa;2001;163799 km;40 kW ;54 hp;Gasoline;5.6 l/100 km ;134 g CO2/km ;Manual;1469,00;EUR;;;;;;
+Mercedes-Benz C 220;2002;296000 km;105 kW ;143 hp;Diesel;6.3 l/100 km ;167 g CO2/km ;Automatic;1490,00;EUR;;;;;;
+Renault R 5;1995;155000 km;#NAZWA?;#NAZWA?;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1490,00;EUR;;;;;;
+Ford Mondeo;2006;149799 km;107 kW ;145 hp;Gasoline;9.6 l/100 km ;231 g CO2/km ;Automatic;1498,00;EUR;;;;;;
+Audi A3;1999;168000 km;92 kW ;125 hp;Gasoline;8.5 l/100 km ;204 g CO2/km ;Manual;1499,00;EUR;;;;;;
+Ford Fiesta;2000;78000 km;44 kW ;60 hp;Gasoline;7.3 l/100 km ;173 g CO2/km ;Manual;1499,00;EUR;;;;;;
+Volkswagen New Beetle;1999;265143 km;66 kW ;90 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;1500,00;EUR;;;;;;
+Volvo 850;1996;325000 km;125 kW ;170 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1500,00;EUR;;;;;;
+Opel Meriva;2006;125011 km;66 kW ;90 hp;Gasoline;6.2 l/100 km ;147 g CO2/km ;Manual;1500,00;EUR;;;;;;
+Volkswagen Golf;2002;180965 km;55 kW ;75 hp;Gasoline;6.8 l/100 km ;163 g CO2/km ;Manual;1580,00;EUR;;;;;;
+Toyota Corolla Verso;2005;316207 km;66 kW ;90 hp;Diesel;6.2 l/100 km ;164 g CO2/km ;Manual;1590,00;EUR;;;;;;
+Mercedes-Benz A 160;2001;200000 km;75 kW ;102 hp;Gasoline;7.2 l/100 km ;172 g CO2/km ;Semi-automatic;1600,00;EUR;;;;;;
+Opel Astra;2005;130200 km;66 kW ;90 hp;Gasoline;6.3 l/100 km ;149 g CO2/km ;Manual;1650,00;EUR;;;;;;
+Volkswagen Jetta;1987;135000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1690,00;EUR;;;;;;
+Volkswagen Touran;2003;243000 km;74 kW ;101 hp;Diesel;5.9 l/100 km ;156 g CO2/km ;Manual;1699,00;EUR;;;;;;
+Opel Astra;1999;178744 km;48 kW ;65 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;1699,00;EUR;;;;;;
+Ford Fiesta;2001;103000 km;44 kW ;60 hp;Gasoline;7.5 l/100 km ;175 g CO2/km ;Manual;1699,00;EUR;;;;;;
+Opel Vectra;2005;217500 km;110 kW ;150 hp;Diesel;7 l/100 km ;189 g CO2/km ;Automatic;1700,00;EUR;;;;;;
+Mercedes-Benz E 200;1999;303000 km;100 kW ;136 hp;Gasoline;9.6 l/100 km ;228 g CO2/km ;Automatic;1750,00;EUR;;;;;;
+Opel Astra;1999;198900 km;74 kW ;101 hp;Gasoline;7.1 l/100 km ;171 g CO2/km ;Automatic;1750,00;EUR;;;;;;
+Ford Focus;2009;250000 km;66 kW ;90 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;1750,00;EUR;;;;;;
+Land Rover Range Rover;1998;436244 km;100 kW ;136 hp;Diesel;10.3 l/100 km ;-/- (CO2/km);Manual;1790,00;EUR;;;;;;
+Peugeot 406;1998;199000 km;97 kW ;132 hp;LPG;-/- (l/100 km);-/- (CO2/km);Automatic;1799,00;EUR;;;;;;
+Renault Laguna;2001;219000 km;152 kW ;207 hp;Gasoline;10.1 l/100 km ;240 g CO2/km ;Manual;1800,00;EUR;;;;;;
+Opel Astra;2005;181248 km;74 kW ;101 hp;Diesel;5 l/100 km ;135 g CO2/km ;Manual;1840,00;EUR;;;;;;
+Toyota Corolla Verso;2006;258000 km;100 kW ;136 hp;Diesel;6.4 l/100 km ;170 g CO2/km ;Manual;1850,00;EUR;;;;;;
+Chevrolet Matiz;2009;70000 km;38 kW ;52 hp;Gasoline;5.2 l/100 km ;127 g CO2/km ;Manual;1875,00;EUR;;;;;;
+Peugeot 307;2003;207320 km;80 kW ;109 hp;Gasoline;7.7 l/100 km ;178 g CO2/km ;Manual;1890,00;EUR;;;;;;
+Ford Ka/Ka+;2002;52000 km;44 kW ;60 hp;Gasoline;6.8 l/100 km ;165 g CO2/km ;Manual;1899,00;EUR;;;;;;
+Peugeot 207;2009;209204 km;66 kW ;90 hp;Diesel;-/- (l/100 km);120 g CO2/km ;Manual;1900,00;EUR;;;;;;
+smart forTwo;2005;150000 km;30 kW ;41 hp;Diesel;3.8 l/100 km ;101 g CO2/km ;Automatic;1900,00;EUR;;;;;;
+MINI One;2006;230000 km;66 kW ;90 hp;Gasoline;6.8 l/100 km ;164 g CO2/km ;Manual;1900,00;EUR;;;;;;
+Mercedes-Benz C 220;2003;408000 km;110 kW ;150 hp;Diesel;7.3 l/100 km ;194 g CO2/km ;Automatic;1950,00;EUR;;;;;;
+Ford Fiesta;2012;260000 km;51 kW ;69 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;1980,00;EUR;;;;;;
+Renault Twingo;1999;86600 km;43 kW ;58 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Automatic;1980,00;EUR;;;;;;
+Ford Streetka;2003;180000 km;70 kW ;95 hp;Gasoline;7.9 l/100 km ;189 g CO2/km ;Manual;1990,00;EUR;;;;;;
+Volkswagen Golf;2001;199894 km;85 kW ;116 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;1990,00;EUR;;;;;;
+Opel Astra;2004;146200 km;74 kW ;101 hp;Gasoline;8.4 l/100 km ;202 g CO2/km ;Automatic;1990,00;EUR;;;;;;
+Ford Focus;2007;165000 km;80 kW ;109 hp;Diesel;4.8 l/100 km ;127 g CO2/km ;Manual;1990,00;EUR;;;;;;
+Mitsubishi Carisma;1997;110000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;1990,00;EUR;;;;;;
+Mercedes-Benz C 320;2002;337000 km;160 kW ;218 hp;LPG;11.5 l/100 km ;273 g CO2/km ;Automatic;1995,00;EUR;;;;;;
+Peugeot 206;2004;90000 km;44 kW ;60 hp;Gasoline;6.3 l/100 km ;149 g CO2/km ;Manual;1999,00;EUR;;;;;;
+Volkswagen Caddy;2005;330000 km;77 kW ;105 hp;Diesel;6.1 l/100 km ;167 g CO2/km ;Manual;1999,00;EUR;;;;;;
+Mercedes-Benz CLK 200;2000;214000 km;100 kW ;136 hp;Gasoline;9.4 l/100 km ;222 g CO2/km ;Automatic;1999,00;EUR;;;;;;
+Citroen C2;2007;100000 km;44 kW ;60 hp;Gasoline;6 l/100 km ;143 g CO2/km ;Manual;1999,00;EUR;;;;;;
+Audi A3;1999;250000 km;74 kW ;101 hp;Gasoline;8.7 l/100 km ;209 g CO2/km ;Automatic;1999,00;EUR;;;;;;
+BMW 520;2001;249000 km;125 kW ;170 hp;Gasoline;9.5 l/100 km ;228 g CO2/km ;Manual;1999,00;EUR;;;;;;
+BMW 318;2002;210000 km;105 kW ;143 hp;Gasoline;7.6 l/100 km ;185 g CO2/km ;Manual;1999,00;EUR;;;;;;
+Hyundai i30;2008;217300 km;66 kW ;90 hp;Diesel;5 l/100 km ;128 g CO2/km ;Manual;2000,00;EUR;;;;;;
+Volkswagen Polo;2005;160000 km;40 kW ;54 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;2000,00;EUR;;;;;;
+Opel Vectra;2003;72900 km;90 kW ;122 hp;Gasoline;7.9 l/100 km ;190 g CO2/km ;Manual;2100,00;EUR;;;;;;
+Dacia Sandero;2009;159000 km;55 kW ;75 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Manual;2190,00;EUR;;;;;;
+Toyota Aygo;2010;204000 km;50 kW ;68 hp;Gasoline;4.6 l/100 km ;106 g CO2/km ;Manual;2200,00;EUR;;;;;;
+Ford Fiesta;2008;158225 km;59 kW ;80 hp;Gasoline;6.2 l/100 km ;147 g CO2/km ;Manual;2280,00;EUR;;;;;;
+Mercedes-Benz E 320;2001;310000 km;145 kW ;197 hp;Diesel;7.8 l/100 km ;207 g CO2/km ;Automatic;2280,00;EUR;;;;;;
+Peugeot 307;2006;239887 km;66 kW ;90 hp;Diesel;5.1 l/100 km ;134 g CO2/km ;Manual;2290,00;EUR;;;;;;
+Ford Transit Connect;2007;258200 km;55 kW ;75 hp;Diesel;-/- (l/100 km);166 g CO2/km ;Manual;2380,00;EUR;;;;;;
+Volkswagen Golf;2008;265900 km;66 kW ;90 hp;Diesel;5.3 l/100 km ;140 g CO2/km ;Manual;2400,00;EUR;;;;;;
+Mazda Tribute;2002;188500 km;91 kW ;124 hp;Gasoline;9.7 l/100 km ;230 g CO2/km ;Manual;2400,00;EUR;;;;;;
+Renault Megane;2005;220031 km;99 kW ;135 hp;Gasoline;8.2 l/100 km ;196 g CO2/km ;Manual;2400,00;EUR;;;;;;
+Renault Kangoo;1999;122171 km;47 kW ;64 hp;Diesel;7.5 l/100 km ;177 g CO2/km ;Manual;2449,00;EUR;;;;;;
+Volkswagen Polo;2005;177000 km;40 kW ;54 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;2450,00;EUR;;;;;;
+Audi A2;2001;171000 km;55 kW ;75 hp;Diesel;4.3 l/100 km ;116 g CO2/km ;Manual;2450,00;EUR;;;;;;
+Volkswagen Touran;2003;208965 km;85 kW ;116 hp;Gasoline;7.4 l/100 km ;175 g CO2/km ;Manual;2450,00;EUR;;;;;;
+Audi A6;2006;404000 km;132 kW ;179 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;2490,00;EUR;;;;;;
+Fiat Grande Punto;2008;143266 km;57 kW ;77 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Mazda 2;2008;196779 km;55 kW ;75 hp;Gasoline;5.4 l/100 km ;129 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Volkswagen Golf;2000;113980 km;55 kW ;75 hp;Gasoline;6.8 l/100 km ;163 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Chevrolet Nubira;2007;206050 km;80 kW ;109 hp;LPG;-/- (l/100 km);181 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Volvo C70;2001;193689 km;120 kW ;163 hp;LPG;10.6 l/100 km ;253 g CO2/km ;Automatic;2490,00;EUR;;;;;;
+Nissan Micra;2005;126381 km;59 kW ;80 hp;Gasoline;5.9 l/100 km ;143 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Suzuki Grand Vitara;2005;264000 km;80 kW ;109 hp;Diesel;7.3 l/100 km ;198 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Citroen C8;2006;177853 km;80 kW ;109 hp;Diesel;7 l/100 km ;186 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Volkswagen Fox;2006;107300 km;40 kW ;54 hp;Gasoline;6.2 l/100 km ;148 g CO2/km ;Manual;2490,00;EUR;;;;;;
+Kia Sportage;2005;198400 km;83 kW ;113 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;2490,00;EUR;;;;;;
+Citroen C3;2010;168000 km;44 kW ;60 hp;Gasoline;6 l/100 km ;137 g CO2/km ;Manual;2499,00;EUR;;;;;;
+Hyundai i10;2010;144000 km;49 kW ;67 hp;Gasoline;5.2 l/100 km ;124 g CO2/km ;Manual;2499,00;EUR;;;;;;
+Volkswagen Golf;2000;163000 km;55 kW ;75 hp;Gasoline;7 l/100 km ;168 g CO2/km ;Manual;2499,00;EUR;;;;;;
+Renault Laguna;2007;200000 km;96 kW ;131 hp;Diesel;6 l/100 km ;159 g CO2/km ;Manual;2499,00;EUR;;;;;;
+Ford Fiesta;2006;63000 km;44 kW ;60 hp;Gasoline;5.9 l/100 km ;140 g CO2/km ;Manual;2499,00;EUR;;;;;;
+Mercedes-Benz C 200;2001;134764 km;120 kW ;163 hp;Gasoline;9.5 l/100 km ;227 g CO2/km ;Automatic;2500,00;EUR;;;;;;
+Mercedes-Benz A 180;2009;213700 km;80 kW ;109 hp;Diesel;6.1 l/100 km ;159 g CO2/km ;Automatic;2650,00;EUR;;;;;;
+MINI One;2010;82000 km;55 kW ;75 hp;Gasoline;5.3 l/100 km ;128 g CO2/km ;Manual;2650,00;EUR;;;;;;
+Audi A4;2005;216640 km;85 kW ;116 hp;Diesel;5.6 l/100 km ;151 g CO2/km ;Manual;2690,00;EUR;;;;;;
+Opel Corsa;2009;45000 km;59 kW ;80 hp;Gasoline;5.7 l/100 km ;137 g CO2/km ;Manual;2750,00;EUR;;;;;;
+Volkswagen Jetta;2007;300000 km;103 kW ;140 hp;Diesel;4.9 l/100 km ;148 g CO2/km ;Manual;2777,00;EUR;;;;;;
+Skoda Octavia;2007;196935 km;77 kW ;105 hp;Diesel;5.4 l/100 km ;143 g CO2/km ;Manual;2790,00;EUR;;;;;;
+Ford Fiesta;2008;80000 km;44 kW ;60 hp;Gasoline;6.5 l/100 km ;154 g CO2/km ;Manual;2799,00;EUR;;;;;;
+Honda Accord;2006;239000 km;103 kW ;140 hp;Diesel;5.9 l/100 km ;155 g CO2/km ;Manual;2800,00;EUR;;;;;;
+Peugeot 207;2007;122323 km;54 kW ;73 hp;Gasoline;6.3 l/100 km ;150 g CO2/km ;Manual;2800,00;EUR;;;;;;
+Citroen C2;2004;91000 km;80 kW ;109 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Automatic;2850,00;EUR;;;;;;
+Ford Focus;2007;123500 km;74 kW ;101 hp;Gasoline;6.7 l/100 km ;161 g CO2/km ;Manual;2875,00;EUR;;;;;;
+Skoda Octavia;2004;87800 km;75 kW ;102 hp;Gasoline;7.3 l/100 km ;175 g CO2/km ;Manual;2885,00;EUR;;;;;;
+Volkswagen Polo;2007;99800 km;51 kW ;69 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;2890,00;EUR;;;;;;
+Peugeot 206;2009;105997 km;44 kW ;60 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;2890,00;EUR;;;;;;
+Citroen Nemo;2012;155000 km;55 kW ;75 hp;Diesel;4.1 l/100 km ;119 g CO2/km ;Manual;2890,00;EUR;;;;;;
+Dacia Logan;2010;137755 km;64 kW ;87 hp;Gasoline;7.8 l/100 km ;185 g CO2/km ;Manual;2890,00;EUR;;;;;;
+Dacia Sandero;2011;180858 km;63 kW ;86 hp;Diesel;4.4 l/100 km ;115 g CO2/km ;Manual;2900,00;EUR;;;;;;
+Mercedes-Benz E 240;2003;173000 km;130 kW ;177 hp;Gasoline;10.9 l/100 km ;262 g CO2/km ;Manual;3299,00;EUR;;;;;;
+Honda Civic;2008;205681 km;61 kW ;83 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;3300,00;EUR;;;;;;
+Hyundai Getz;2008;110000 km;49 kW ;67 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;3329,00;EUR;;;;;;
+Ford Fusion;2007;148800 km;74 kW ;101 hp;Gasoline;6.6 l/100 km ;157 g CO2/km ;Manual;3366,00;EUR;;;;;;
+BMW 525;2005;300000 km;130 kW ;177 hp;Diesel;9.5 l/100 km ;230 g CO2/km ;Automatic;3380,00;EUR;;;;;;
+Skoda Fabia;2009;188818 km;63 kW ;86 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3390,00;EUR;;;;;;
+Toyota Yaris;2002;72269 km;63 kW ;86 hp;Gasoline;6.6 l/100 km ;157 g CO2/km ;Automatic;3390,00;EUR;;;;;;
+Nissan Pixo;2010;106202 km;50 kW ;68 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3399,00;EUR;;;;;;
+Fiat Punto;2011;112850 km;51 kW ;69 hp;Gasoline;5.2 l/100 km ;123 g CO2/km ;Manual;3400,00;EUR;;;;;;
+Ford Focus;2007;111000 km;80 kW ;109 hp;Diesel;4.8 l/100 km ;127 g CO2/km ;Manual;3400,00;EUR;;;;;;
+Toyota Aygo;2011;131724 km;50 kW ;68 hp;Gasoline;4.6 l/100 km ;103 g CO2/km ;Manual;3400,00;EUR;;;;;;
+Audi A4;1998;70100 km;121 kW ;165 hp;Gasoline;10 l/100 km ;240 g CO2/km ;Automatic;3480,00;EUR;;;;;;
+Mercedes-Benz E 320;2005;334000 km;165 kW ;224 hp;Diesel;8.1 l/100 km ;202 g CO2/km ;Automatic;3490,00;EUR;;;;;;
+Volvo S40;2004;147703 km;100 kW ;136 hp;Diesel;5.6 l/100 km ;148 g CO2/km ;Manual;3490,00;EUR;;;;;;
+Mercedes-Benz Vario;1999;507792 km;112 kW ;152 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;3490,00;EUR;;;;;;
+Suzuki Splash;2010;100923 km;63 kW ;86 hp;Gasoline;5.5 l/100 km ;131 g CO2/km ;Manual;3490,00;EUR;;;;;;
+Kia Carens;2010;271085 km;85 kW ;116 hp;Diesel;6.3 l/100 km ;166 g CO2/km ;Manual;3490,00;EUR;;;;;;
+Opel Astra;2005;120000 km;92 kW ;125 hp;Gasoline;8.6 l/100 km ;206 g CO2/km ;Automatic;3490,00;EUR;;;;;;
+BMW 316;2004;180000 km;85 kW ;116 hp;Gasoline;6.9 l/100 km ;164 g CO2/km ;Manual;3490,00;EUR;;;;;;
+Renault Laguna;2011;223000 km;81 kW ;110 hp;Diesel;5.3 l/100 km ;139 g CO2/km ;Manual;3499,00;EUR;;;;;;
+Mercedes-Benz 190;1988;99000 km;75 kW ;102 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3499,00;EUR;;;;;;
+Skoda Fabia;2010;119900 km;63 kW ;86 hp;Gasoline;5.2 l/100 km ;123 g CO2/km ;Manual;3499,00;EUR;;;;;;
+BMW 320;2008;226000 km;130 kW ;177 hp;Diesel;4.9 l/100 km ;131 g CO2/km ;Manual;3500,00;EUR;;;;;;
+Mercedes-Benz E 240;2004;204098 km;130 kW ;177 hp;Gasoline;10.3 l/100 km ;247 g CO2/km ;Automatic;3500,00;EUR;;;;;;
+Opel Corsa;2007;152000 km;59 kW ;80 hp;Gasoline;5.7 l/100 km ;137 g CO2/km ;Semi-automatic;3500,00;EUR;;;;;;
+Mercedes-Benz E 230;1987;240400 km;97 kW ;132 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3500,00;EUR;;;;;;
+Skoda Fabia;2011;102571 km;44 kW ;60 hp;Gasoline;5.9 l/100 km ;140 g CO2/km ;Manual;3590,00;EUR;;;;;;
+Hyundai Santa Fe;2007;173706 km;110 kW ;150 hp;Diesel;7.3 l/100 km ;193 g CO2/km ;Manual;3590,00;EUR;;;;;;
+Mercedes-Benz SLK 200;2003;230000 km;120 kW ;163 hp;Gasoline;9.5 l/100 km ;228 g CO2/km ;Manual;3600,00;EUR;;;;;;
+Volvo XC90;2004;350000 km;120 kW ;163 hp;Diesel;9.1 l/100 km ;242 g CO2/km ;Automatic;3600,00;EUR;;;;;;
+Mazda 6;2002;180000 km;122 kW ;166 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;3600,00;EUR;;;;;;
+Ford Fiesta;2010;63729 km;60 kW ;82 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;3645,00;EUR;;;;;;
+Mitsubishi Colt;2011;117100 km;55 kW ;75 hp;Gasoline;4.9 l/100 km ;115 g CO2/km ;Manual;3677,00;EUR;;;;;;
+Volkswagen Touran;2006;220000 km;125 kW ;170 hp;Diesel;6.6 l/100 km ;175 g CO2/km ;Automatic;3680,00;EUR;;;;;;
+Opel Astra;2005;77000 km;66 kW ;90 hp;Gasoline;6.5 l/100 km ;156 g CO2/km ;Manual;3690,00;EUR;;;;;;
+smart forTwo;2009;94500 km;62 kW ;84 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3699,00;EUR;;;;;;
+Volkswagen Sharan;2002;199876 km;85 kW ;116 hp;Diesel;6.6 l/100 km ;178 g CO2/km ;Manual;3699,00;EUR;;;;;;
+BMW 318;2004;185000 km;105 kW ;143 hp;Gasoline;6.6 l/100 km ;154 g CO2/km ;Manual;3699,00;EUR;;;;;;
+Fiat Grande Punto;2009;104610 km;57 kW ;77 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;3700,00;EUR;;;;;;
+Ford Transit Connect;2007;122000 km;55 kW ;75 hp;Diesel;6.3 l/100 km ;171 g CO2/km ;Manual;3700,00;EUR;;;;;;
+Audi A3;2007;245000 km;103 kW ;140 hp;Diesel;5.7 l/100 km ;154 g CO2/km ;Manual;3750,00;EUR;;;;;;
+BMW X5;2001;250000 km;135 kW ;184 hp;Diesel;8.6 l/100 km ;228 g CO2/km ;Automatic;3750,00;EUR;;;;;;
+Peugeot 207;2007;81750 km;110 kW ;150 hp;Gasoline;7.2 l/100 km ;171 g CO2/km ;Manual;3750,00;EUR;;;;;;
+SEAT Leon;2007;163400 km;75 kW ;102 hp;Gasoline;7.6 l/100 km ;180 g CO2/km ;Manual;3780,00;EUR;;;;;;
+Mercedes-Benz A 180;2005;105200 km;80 kW ;109 hp;Diesel;6.1 l/100 km ;159 g CO2/km ;Automatic;3790,00;EUR;;;;;;
+Ford Ranger;2000;222100 km;62 kW ;84 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;3790,00;EUR;;;;;;
+Renault Twingo;2013;129000 km;63 kW ;86 hp;Diesel;3.4 l/100 km ;90 g CO2/km ;Manual;3799,00;EUR;;;;;;
+Audi A3;2004;122513 km;103 kW ;140 hp;Diesel;5.9 l/100 km ;159 g CO2/km ;Automatic;3845,00;EUR;;;;;;
+Fiat Panda;2010;44500 km;40 kW ;54 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;3850,00;EUR;;;;;;
+Volkswagen Golf;2005;161000 km;110 kW ;150 hp;Gasoline;7.2 l/100 km ;187 g CO2/km ;Manual;3850,00;EUR;;;;;;
+Mazda 6;2003;96750 km;122 kW ;166 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;3850,00;EUR;;;;;;
+Ford Fiesta;2009;98200 km;60 kW ;82 hp;Gasoline;5.7 l/100 km ;133 g CO2/km ;Manual;3872,00;EUR;;;;;;
+Audi 100;1990;176000 km;66 kW ;90 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3888,00;EUR;;;;;;
+smart forTwo;2011;113000 km;52 kW ;71 hp;Gasoline;4.2 l/100 km ;97 g CO2/km ;Automatic;3900,00;EUR;;;;;;
+Opel Astra;2001;130000 km;108 kW ;147 hp;Gasoline;8.7 l/100 km ;209 g CO2/km ;Manual;3900,00;EUR;;;;;;
+Renault Twingo;2008;130945 km;56 kW ;76 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;3900,00;EUR;;;;;;
+Ford S-Max;2010;232313 km;103 kW ;140 hp;Diesel;6 l/100 km ;159 g CO2/km ;Manual;3940,00;EUR;;;;;;
+Renault Twingo;2010;123600 km;43 kW ;58 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3945,00;EUR;;;;;;
+Peugeot 107;2011;76600 km;50 kW ;68 hp;Gasoline;4.5 l/100 km ;107 g CO2/km ;Manual;3950,00;EUR;;;;;;
+Volvo 960;1997;295000 km;150 kW ;204 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3950,00;EUR;;;;;;
+SEAT Leon;2000;77000 km;92 kW ;125 hp;Gasoline;8.5 l/100 km ;204 g CO2/km ;Automatic;3950,00;EUR;;;;;;
+Mercedes-Benz C 220;2002;99800 km;105 kW ;143 hp;Diesel;6.7 l/100 km ;178 g CO2/km ;Automatic;3950,00;EUR;;;;;;
+Ford C-Max;2004;118166 km;92 kW ;125 hp;Gasoline;7.1 l/100 km ;172 g CO2/km ;Manual;3980,00;EUR;;;;;;
+Opel Zafira;2007;210800 km;110 kW ;150 hp;Diesel;6.2 l/100 km ;165 g CO2/km ;Manual;3980,00;EUR;;;;;;
+Volkswagen Golf;2004;165000 km;55 kW ;75 hp;Gasoline;7.1 l/100 km ;170 g CO2/km ;Manual;3980,00;EUR;;;;;;
+Volkswagen Golf;2004;142000 km;75 kW ;102 hp;Gasoline;8.2 l/100 km ;195 g CO2/km ;Automatic;3990,00;EUR;;;;;;
+Volkswagen Golf;2007;226000 km;147 kW ;200 hp;Gasoline;8.1 l/100 km ;189 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Chevrolet Cruze;2012;179564 km;120 kW ;163 hp;Diesel;5.4 l/100 km ;143 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Renault Megane;2005;85000 km;83 kW ;113 hp;Gasoline;7 l/100 km ;166 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Mazda CX-7;2010;207911 km;127 kW ;173 hp;Diesel;7.5 l/100 km ;199 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Peugeot 107;2010;80000 km;50 kW ;68 hp;Gasoline;4.6 l/100 km ;108 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Opel Astra;2008;149000 km;66 kW ;90 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Citroen Nemo;2010;99409 km;50 kW ;68 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Opel Meriva;2004;90580 km;74 kW ;101 hp;Gasoline;7.5 l/100 km ;178 g CO2/km ;Manual;3990,00;EUR;;;;;;
+BMW 318;2009;304738 km;100 kW ;136 hp;Diesel;-/- (l/100 km);125 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Mercedes-Benz C 200;2001;162700 km;120 kW ;163 hp;Gasoline;9.5 l/100 km ;228 g CO2/km ;Automatic;3990,00;EUR;;;;;;
+Chevrolet Spark;2011;79871 km;50 kW ;68 hp;Gasoline;5.1 l/100 km ;119 g CO2/km ;Manual;3990,00;EUR;;;;;;
+Mercedes-Benz 230;1991;261700 km;97 kW ;132 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3990,00;EUR;;;;;;
+Kia Sportage;2005;139800 km;129 kW ;175 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Automatic;3998,00;EUR;;;;;;
+Mazda MX-5;2003;139000 km;107 kW ;145 hp;Gasoline;8.7 l/100 km ;210 g CO2/km ;Manual;3999,00;EUR;;;;;;
+Volvo XC90;2005;334999 km;120 kW ;163 hp;Diesel;9.1 l/100 km ;242 g CO2/km ;Automatic;3999,00;EUR;;;;;;
+Renault Kangoo;2007;87000 km;50 kW ;68 hp;Diesel;5.5 l/100 km ;147 g CO2/km ;Manual;3999,00;EUR;;;;;;
+Mercedes-Benz C 180;2004;185000 km;105 kW ;143 hp;Gasoline;7.9 l/100 km ;190 g CO2/km ;Automatic;3999,00;EUR;;;;;;
+Fiat 500;2009;139980 km;51 kW ;69 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;3999,00;EUR;;;;;;
+Hyundai i10;2010;48000 km;49 kW ;67 hp;Gasoline;5 l/100 km ;119 g CO2/km ;Manual;3999,00;EUR;;;;;;
+Ford Transit Courier;2016;274000 km;55 kW ;75 hp;Diesel;4.1 l/100 km ;109 g CO2/km ;Manual;3999,00;EUR;;;;;;
+Dacia Sandero;2012;66000 km;55 kW ;75 hp;Gasoline;5.9 l/100 km ;139 g CO2/km ;Manual;3999,00;EUR;;;;;;
+Renault Megane;2010;125000 km;74 kW ;101 hp;Gasoline;6.7 l/100 km ;159 g CO2/km ;Manual;3999,00;EUR;;;;;;
+BMW 116;2005;120000 km;85 kW ;116 hp;Gasoline;7.5 l/100 km ;181 g CO2/km ;Manual;3999,00;EUR;;;;;;
+Toyota Avensis;2004;150000 km;95 kW ;129 hp;Gasoline;7.2 l/100 km ;171 g CO2/km ;Manual;3999,00;EUR;;;;;;
+BMW 318;2006;147000 km;95 kW ;129 hp;Gasoline;7.6 l/100 km ;182 g CO2/km ;Manual;3999,00;EUR;;;;;;
+Dacia Sandero;2012;168839 km;62 kW ;84 hp;Gasoline;7.3 l/100 km ;173 g CO2/km ;Manual;4000,00;EUR;;;;;;
+Ford C-Max;2008;85236 km;100 kW ;136 hp;Diesel;6.1 l/100 km ;159 g CO2/km ;Manual;4000,00;EUR;;;;;;
+Mercedes-Benz E 220;2004;145000 km;110 kW ;150 hp;Diesel;6.3 l/100 km ;167 g CO2/km ;Manual;4000,00;EUR;;;;;;
+Honda CR-V;2005;130000 km;103 kW ;140 hp;Diesel;6.7 l/100 km ;177 g CO2/km ;Manual;4100,00;EUR;;;;;;
+Volkswagen Polo;2007;123900 km;59 kW ;80 hp;Diesel;4.5 l/100 km ;118 g CO2/km ;Manual;4180,00;EUR;;;;;;
+Opel Astra;1998;47632 km;74 kW ;101 hp;Gasoline;8.2 l/100 km ;197 g CO2/km ;Automatic;4180,00;EUR;;;;;;
+Hyundai Getz;2008;89990 km;49 kW ;67 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;4199,00;EUR;;;;;;
+Opel Tigra;2005;74200 km;92 kW ;125 hp;Gasoline;7.7 l/100 km ;185 g CO2/km ;Manual;4200,00;EUR;;;;;;
+Skoda Octavia;2006;215000 km;103 kW ;140 hp;Diesel;6 l/100 km ;159 g CO2/km ;Manual;4200,00;EUR;;;;;;
+Citroen DS;2010;139063 km;82 kW ;111 hp;Diesel;4.5 l/100 km ;118 g CO2/km ;Manual;4200,00;EUR;;;;;;
+Renault Twingo;2008;99000 km;74 kW ;101 hp;Gasoline;5.7 l/100 km ;132 g CO2/km ;Manual;4250,00;EUR;;;;;;
+Fiat Punto Evo;2011;150000 km;51 kW ;69 hp;Diesel;4.1 l/100 km ;104 g CO2/km ;Manual;4250,00;EUR;;;;;;
+Ford Focus;2010;264964 km;100 kW ;136 hp;Diesel;5.8 l/100 km ;154 g CO2/km ;Automatic;4250,00;EUR;;;;;;
+Chevrolet Cruze;2013;79000 km;120 kW ;163 hp;Diesel;4.6 l/100 km ;167 g CO2/km ;Automatic;4250,00;EUR;;;;;;
+Citroen C3;2003;81175 km;54 kW ;73 hp;Gasoline;6 l/100 km ;140 g CO2/km ;Automatic;4300,00;EUR;;;;;;
+Fiat Doblo;2011;62000 km;70 kW ;95 hp;Gasoline;7.4 l/100 km ;174 g CO2/km ;Manual;4350,00;EUR;;;;;;
+Audi A4;2008;241000 km;176 kW ;239 hp;Diesel;7.2 l/100 km ;189 g CO2/km ;Manual;4399,00;EUR;;;;;;
+Citroen C1;2014;69000 km;50 kW ;68 hp;Gasoline;4.3 l/100 km ;102 g CO2/km ;Manual;4399,00;EUR;;;;;;
+BMW 116;2009;174900 km;90 kW ;122 hp;Gasoline;3.8 l/100 km ;99 g CO2/km ;Manual;4399,00;EUR;;;;;;
+Chevrolet Spark;2010;85697 km;50 kW ;68 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;4440,00;EUR;;;;;;
+BMW 320;2002;180000 km;125 kW ;170 hp;Gasoline;8.9 l/100 km ;213 g CO2/km ;Manual;4444,00;EUR;;;;;;
+Renault Clio;2011;165930 km;55 kW ;75 hp;Gasoline;-/- (l/100 km);135 g CO2/km ;Manual;4445,00;EUR;;;;;;
+Opel Meriva;2009;91000 km;66 kW ;90 hp;Gasoline;6.2 l/100 km ;148 g CO2/km ;Manual;4450,00;EUR;;;;;;
+Toyota Corolla Verso;2005;129000 km;95 kW ;129 hp;Gasoline;7.5 l/100 km ;179 g CO2/km ;Automatic;4450,00;EUR;;;;;;
+Renault Twingo;2012;91978 km;55 kW ;75 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;4490,00;EUR;;;;;;
+Skoda Citigo;2013;70000 km;55 kW ;75 hp;Gasoline;4.2 l/100 km ;98 g CO2/km ;Manual;4490,00;EUR;;;;;;
+smart forTwo;2009;47000 km;52 kW ;71 hp;Gasoline;4.3 l/100 km ;98 g CO2/km ;Automatic;4490,00;EUR;;;;;;
+Mercedes-Benz Viano;2005;345000 km;110 kW ;150 hp;Diesel;9.8 l/100 km ;258 g CO2/km ;Automatic;4490,00;EUR;;;;;;
+Iveco Daily;2003;182000 km;107 kW ;145 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Manual;4490,00;EUR;;;;;;
+BMW X3;2005;320000 km;150 kW ;204 hp;Diesel;8.4 l/100 km ;224 g CO2/km ;Manual;4499,00;EUR;;;;;;
+Peugeot 307;2005;149917 km;103 kW ;140 hp;Gasoline;8.1 l/100 km ;192 g CO2/km ;Manual;4499,00;EUR;;;;;;
+Volkswagen up!;2012;92000 km;44 kW ;60 hp;Gasoline;4.5 l/100 km ;105 g CO2/km ;Manual;4499,00;EUR;;;;;;
+Renault Wind;2011;61291 km;75 kW ;102 hp;Gasoline;6 l/100 km ;139 g CO2/km ;Manual;4500,00;EUR;;;;;;
+Volkswagen Golf;2010;131099 km;90 kW ;122 hp;Gasoline;6.2 l/100 km ;144 g CO2/km ;Manual;4500,00;EUR;;;;;;
+Suzuki Ignis;2002;60000 km;61 kW ;83 hp;Gasoline;6.4 l/100 km ;150 g CO2/km ;Manual;4500,00;EUR;;;;;;
+Opel Tigra;2007;79000 km;92 kW ;125 hp;Gasoline;7.7 l/100 km ;185 g CO2/km ;Manual;4500,00;EUR;;;;;;
+MINI Cooper Clubman;2009;200000 km;80 kW ;109 hp;Diesel;4.5 l/100 km ;121 g CO2/km ;Manual;4600,00;EUR;;;;;;
+Peugeot 206;2012;60600 km;44 kW ;60 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;4600,00;EUR;;;;;;
+BMW 320;2005;280000 km;120 kW ;163 hp;Diesel;6.7 l/100 km ;179 g CO2/km ;Automatic;4650,00;EUR;;;;;;
+Opel Corsa;2012;79337 km;63 kW ;86 hp;Gasoline;5.3 l/100 km ;125 g CO2/km ;Manual;4650,00;EUR;;;;;;
+Opel Combo;2009;150000 km;55 kW ;75 hp;Diesel;5.2 l/100 km ;140 g CO2/km ;Automatic;4699,00;EUR;;;;;;
+Opel Zafira;1999;64750 km;74 kW ;101 hp;Gasoline;8.3 l/100 km ;200 g CO2/km ;Manual;4699,00;EUR;;;;;;
+Hyundai Getz;2008;49950 km;49 kW ;67 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;4699,00;EUR;;;;;;
+Toyota Land Cruiser;1997;207000 km;92 kW ;125 hp;Diesel;13.2 l/100 km ;-/- (CO2/km);Automatic;4700,00;EUR;;;;;;
+Mercedes-Benz B 200;2007;200000 km;103 kW ;140 hp;Diesel;6.3 l/100 km ;165 g CO2/km ;Automatic;4750,00;EUR;;;;;;
+Audi A6;2007;282380 km;103 kW ;140 hp;Diesel;6.7 l/100 km ;181 g CO2/km ;Automatic;4750,00;EUR;;;;;;
+Opel Astra;2007;118775 km;85 kW ;116 hp;Gasoline;-/- (l/100 km);158 g CO2/km ;Manual;4750,00;EUR;;;;;;
+Daihatsu Sirion;2007;70700 km;67 kW ;91 hp;Gasoline;6.3 l/100 km ;148 g CO2/km ;Automatic;4750,00;EUR;;;;;;
+Volkswagen Polo;2007;122000 km;47 kW ;64 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;4780,00;EUR;;;;;;
+Volkswagen Golf;2006;95600 km;59 kW ;80 hp;Gasoline;6.9 l/100 km ;165 g CO2/km ;Manual;4950,00;EUR;;;;;;
+Volkswagen Golf;2008;141056 km;77 kW ;105 hp;Diesel;5.2 l/100 km ;137 g CO2/km ;Manual;4950,00;EUR;;;;;;
+Ford Ka/Ka+;2012;48000 km;51 kW ;69 hp;Gasoline;4.9 l/100 km ;115 g CO2/km ;Manual;4950,00;EUR;;;;;;
+Mercedes-Benz E 200;2011;324000 km;100 kW ;136 hp;Diesel;5.9 l/100 km ;153 g CO2/km ;Automatic;4950,00;EUR;;;;;;
+Mercedes-Benz E 200;2011;365000 km;100 kW ;136 hp;Diesel;5.9 l/100 km ;153 g CO2/km ;Automatic;4950,00;EUR;;;;;;
+Opel Corsa;2009;114700 km;59 kW ;80 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;4960,00;EUR;;;;;;
+SEAT Ibiza;2012;99620 km;51 kW ;69 hp;Gasoline;5.4 l/100 km ;125 g CO2/km ;Manual;4980,00;EUR;;;;;;
+Audi A3;2004;148200 km;75 kW ;102 hp;Gasoline;7 l/100 km ;168 g CO2/km ;Automatic;4980,00;EUR;;;;;;
+Mercedes-Benz E 280;1996;86353 km;142 kW ;193 hp;Gasoline;7.5 l/100 km ;-/- (CO2/km);Manual;4980,00;EUR;;;;;;
+Mitsubishi Pajero;2004;191722 km;118 kW ;160 hp;Diesel;10.5 l/100 km ;284 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Peugeot 107;2013;18450 km;50 kW ;68 hp;Gasoline;4.3 l/100 km ;99 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Citroen C4 Picasso;2011;99633 km;88 kW ;120 hp;Gasoline;6.9 l/100 km ;159 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Dacia Sandero;2013;70109 km;55 kW ;75 hp;Gasoline;5.8 l/100 km ;135 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Ford Focus;2011;182523 km;70 kW ;95 hp;Diesel;4.2 l/100 km ;109 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Chevrolet Spark;2013;63176 km;50 kW ;68 hp;Gasoline;5 l/100 km ;118 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Volkswagen Touran;2009;238000 km;103 kW ;140 hp;Diesel;6.1 l/100 km ;161 g CO2/km ;Manual;4990,00;EUR;;;;;;
+BMW 316;1994;118000 km;75 kW ;102 hp;Gasoline;7.7 l/100 km ;-/- (CO2/km);Manual;4990,00;EUR;;;;;;
+Opel Zafira;2009;200000 km;110 kW ;150 hp;Diesel;7.2 l/100 km ;194 g CO2/km ;Automatic;4990,00;EUR;;;;;;
+Ford Fiesta;2014;144937 km;60 kW ;82 hp;Gasoline;5.2 l/100 km ;123 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Renault Twingo;2012;98340 km;55 kW ;75 hp;Gasoline;4.5 l/100 km ;105 g CO2/km ;Manual;4990,00;EUR;;;;;;
+BMW 520;2007;170000 km;110 kW ;150 hp;Diesel;6.9 l/100 km ;185 g CO2/km ;Automatic;4990,00;EUR;;;;;;
+Skoda Fabia;2010;88350 km;51 kW ;69 hp;Gasoline;5.9 l/100 km ;140 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Mercedes-Benz C 230;2004;221600 km;141 kW ;192 hp;Gasoline;9.2 l/100 km ;221 g CO2/km ;Automatic;4990,00;EUR;;;;;;
+Volkswagen Golf;2006;120500 km;59 kW ;80 hp;Gasoline;6.6 l/100 km ;156 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Volkswagen Golf;2009;62900 km;59 kW ;80 hp;Gasoline;6.4 l/100 km ;149 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Opel Corsa;2014;95600 km;51 kW ;69 hp;Gasoline;5.5 l/100 km ;130 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Toyota Yaris;2011;113000 km;51 kW ;69 hp;Gasoline;5.4 l/100 km ;127 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Mitsubishi Outlander;2006;171809 km;118 kW ;160 hp;Gasoline;9.8 l/100 km ;233 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Opel Astra;2010;101897 km;66 kW ;90 hp;Gasoline;6.3 l/100 km ;151 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Audi A4;2002;137499 km;96 kW ;131 hp;Gasoline;8.1 l/100 km ;194 g CO2/km ;Automatic;4990,00;EUR;;;;;;
+Kia Ceed / cee'd;2010;67280 km;66 kW ;90 hp;Gasoline;5.8 l/100 km ;139 g CO2/km ;Manual;4990,00;EUR;;;;;;
+BMW 330;2002;292000 km;170 kW ;231 hp;Gasoline;9.1 l/100 km ;218 g CO2/km ;Manual;4990,00;EUR;;;;;;
+BMW 520;2008;234783 km;110 kW ;150 hp;Diesel;-/- (l/100 km);189 g CO2/km ;Automatic;4990,00;EUR;;;;;;
+Nissan Micra;2007;133100 km;65 kW ;88 hp;Gasoline;6.6 l/100 km ;156 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Alfa Romeo 145;1998;43000 km;76 kW ;103 hp;Gasoline;-/- (l/100 km);0 g CO2/km ;Manual;4990,00;EUR;;;;;;
+Mazda RX-8;2004;99455 km;141 kW ;192 hp;Gasoline;10.8 l/100 km ;267 g CO2/km ;Manual;4995,00;EUR;;;;;;
+Audi A4;2003;199799 km;120 kW ;163 hp;Diesel;7.3 l/100 km ;197 g CO2/km ;Automatic;4998,00;EUR;;;;;;
+Opel Insignia;2011;290000 km;118 kW ;160 hp;Diesel;5.6 l/100 km ;149 g CO2/km ;Automatic;4999,00;EUR;;;;;;
+Daihatsu Terios;2006;74300 km;77 kW ;105 hp;Gasoline;7.9 l/100 km ;186 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Fiat Qubo;2016;167000 km;59 kW ;80 hp;Diesel;4.5 l/100 km ;118 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Skoda Octavia;2009;155000 km;75 kW ;102 hp;Gasoline;7.4 l/100 km ;176 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Volkswagen Touran;2006;144767 km;103 kW ;140 hp;Gasoline;7.5 l/100 km ;179 g CO2/km ;Automatic;4999,00;EUR;;;;;;
+Citroen Grand C4 Picasso;2009;96000 km;80 kW ;109 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;4999,00;EUR;;;;;;
+Renault Megane;2011;139000 km;81 kW ;110 hp;Diesel;4.1 l/100 km ;104 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Renault Megane;2008;157000 km;99 kW ;135 hp;Gasoline;8.4 l/100 km ;201 g CO2/km ;Automatic;4999,00;EUR;;;;;;
+Volkswagen Caddy;2012;289000 km;75 kW ;102 hp;Diesel;5.7 l/100 km ;149 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Hyundai i30;2012;113000 km;80 kW ;109 hp;Gasoline;6.1 l/100 km ;142 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Volkswagen T4 California;1994;344000 km;57 kW ;77 hp;Diesel;-/- (l/100 km);-/- (CO2/km);Automatic;4999,00;EUR;;;;;;
+Ford C-Max;2010;115000 km;80 kW ;109 hp;Diesel;4.9 l/100 km ;129 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Peugeot 207;2011;58000 km;54 kW ;73 hp;Gasoline;6.3 l/100 km ;145 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Hyundai i10;2015;90000 km;65 kW ;88 hp;Gasoline;4.7 l/100 km ;108 g CO2/km ;Manual;4999,00;EUR;;;;;;
+Mazda MX-5;2005;83900 km;81 kW ;110 hp;Gasoline;8.1 l/100 km ;196 g CO2/km ;Manual;5000,00;EUR;;;;;;
+Volkswagen Polo;2009;66600 km;59 kW ;80 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;5000,00;EUR;;;;;;
+BMW 318;2006;238000 km;110 kW ;150 hp;Gasoline;7.8 l/100 km ;190 g CO2/km ;Automatic;5000,00;EUR;;;;;;
+Mercedes-Benz CLK 200;2000;94931 km;100 kW ;136 hp;Gasoline;9.6 l/100 km ;225 g CO2/km ;Automatic;5090,00;EUR;;;;;;
+Renault Megane;2010;96133 km;81 kW ;110 hp;Diesel;4.4 l/100 km ;110 g CO2/km ;Automatic;5190,00;EUR;;;;;;
+Opel Corsa;2012;91158 km;64 kW ;87 hp;Gasoline;5.7 l/100 km ;135 g CO2/km ;Manual;5200,00;EUR;;;;;;
+Toyota Yaris;2010;94200 km;51 kW ;69 hp;Gasoline;5 l/100 km ;115 g CO2/km ;Manual;5200,00;EUR;;;;;;
+BMW 116;2008;164145 km;90 kW ;122 hp;Gasoline;-/- (l/100 km);-/- (CO2/km);Manual;5280,00;EUR;;;;;;
+Opel Astra;2013;136000 km;92 kW ;125 hp;Diesel;4.5 l/100 km ;119 g CO2/km ;Manual;5299,00;EUR;;;;;;
+Mercedes Benz CLS 350 Shooting Brake Vollaust. NP 103.811,--;-;91811 km;;;Diesel;;;Automatic;33900,00;EUR;2,987 cc;;;;;
+Mercedes Benz Sprinter 313 Cdi Maxi 9 Sitze Klima Rollstuhllift 6 Gang Euro 5;2013;439482 km;;;Diesel;;;Manual;9900,00;EUR;2,143 cc;;;;;
+Ford Mondeo 1.6 TDCi 85kW DPF ECOnetic Turnier Navi Euro 5;2011;509228 km;;;Diesel;;;Manual;2800,00;EUR;1,560 cc;;;;;
+Land Rover RANGE ROVER 3.6 TDV8;2007;271600 km;;;Diesel;;;Automatic;10950,00;EUR;3,628 cc;;;;;
+Mercedes Benz GLA 200. Automaat.trekhaak.;2016;65243 km;;;Petrol;;;Automatic;23900,00;EUR;1,595 cc;;;;;
+Mercedes Benz SPRINTER 311cdi l2h2 airco 9 persoons;2008;440000 km;;;Diesel;;;Manual;5250,00;EUR;2,148 cc;;;;;
+Nissan NISSAN QASHQAI airco navi qashqai airco navi;2011;210000 km;;;Petrol;;;Manual;8750,00;EUR;1,598 cc;;;;;
+Mercedes Benz E-Klasse AMG E-Klasse 63 S AMG 4-Matic  Black/Black 1.Hand Unfallfrei;2015;29900 km;;;Petrol;;;Automatic;56218,00;EUR;5,461 cc;;;;;
+BMW 5-serie Touring 520i High Executive M pakket Leder 5.317 km;2018;5317 km;;;Petrol;;;Automatic;38900,00;EUR;1,998 cc;;;;;
+Mercedes Benz V-klasse 250d Lang Avantgarde AMG / Night pakket 7 persoons;2017;64235 km;;;Diesel;;;Automatic;45500,00;EUR;2,143 cc;;;;;
+Mercedes Benz 200 E-Klasse 200 SEDAN;1995;255378 km;;;Petrol;;;Manual;5900,00;EUR;1,998 cc;;;;;
+Mercedes Benz C 200 D autom AMG styling C200 D Avant Garde;2016;82102 km;;;Diesel;;;Automatic;22500,00;EUR;2,143 cc;;;;;
+Mercedes Benz C 200 CDI.autom.AMG. C200 D Avant Garde;2016;82102 km;;;Diesel;;;Automatic;22500,00;EUR;2,143 cc;;;;;
+Mercedes Benz E 300 CDI.autom. Avant Garde;2010;236761 km;;;Diesel;;;Automatic;13500,00;EUR;2,987 cc;;;;;
+"Porsche Macan Panoramadak Luchtvering 21 "" Adaptieve stoelen 3.0 D S";2016;60757 km;;;Diesel;;;Automatic;51500,00;EUR;2,967 cc;;;;;
+Land Rover FREELANDER TD 4;2005;168296 km;;;Diesel;;;Automatic;4900,00;EUR;1,951 cc;;;;;
+Volkswagen Golf VII Lim. R 4Motion BMT - 1950 KM!;-;1950 km;;;Petrol;;;Automatic;33000,00;EUR;1,984 cc;;;;;
+Mercedes Benz Citan 111 CDI Tourer Edition Panoramadak Navigatie 2 x schuifdeur;2018;21670 km;;;Diesel;;;Manual;12900,00;EUR;1,461 cc;;;;;
+"Mercedes Benz A-klasse 180 Business Solution Automaat Navigatie 18 ""AMG";2017;59019 km;;;Petrol;;;Automatic;17900,00;EUR;1,595 cc;;;;;
+Ford Focus C-Max 1.8-16V Ghia;2006;227520 km;;;Petrol;;;Manual;1850,00;EUR;1,798 cc;;;;;
+Renault Scénic 1.6-16V Authentique Comfort automaat;2005;166043 km;;;Petrol;;;Automatic;1350,00;EUR;1,598 cc;;;;;
+Mitsubishi Eclipse Cross;2018;23000 km;;;Petrol;;;Manual;24950,00;EUR;1,499 cc;;;;;
+Land Rover Range Rover Evoque SD4 Aut. Dynamic;-;97000 km;;;Diesel;;;Automatic;19784,00;EUR;2,179 cc;;;;;
+Mercedes Benz GLE-klasse 350 d 4MATIC AMG Airmatic Panoramadak Night pakket Distronic;2020;2134 km;;;Diesel;;;Automatic;70900,00;EUR;2,925 cc;;;;;
+Opel Crossland X 1.2 Turbo Innovation 130PK (fabrieksgarantie - clim.ctrl - a...;2019;9979 km;;;Petrol;;;Manual;21900,00;EUR;1,199 cc;;;;;
+Mercedes Benz X-klasse Grijs kenteken 250 5 Persoons;2018;4524 km;;;Diesel;;;Automatic;40950,00;EUR;2,298 cc;;;;;
+Citroen C4 GRAND PICASSO 1.6HDI 7 PERS LEER NAVI CAMERA COMPLEET;2016;141963 km;;;Diesel;;;Automatic;12950,00;EUR;1,560 cc;;;;;
+Mercedes Benz A -Klasse A 150 Elegance;-;133268 km;;;Petrol;;;Manual;3200,00;EUR;1,498 cc;;;;;
+Audi A6 Avant 3.0 TDI quattro S Line ACC Luft HUD AHK;-;167365 km;;;Diesel;;;Automatic;19900,00;EUR;2,967 cc;;;;;
+Toyota RAV 4 2.0 D4D 4X4 SUV left hand drive. SUV;2004;184123 km;;;Diesel;;;Manual;4750,00;EUR;2,000 cc;;;;;
+Mercedes Benz E-klasse E 200 Business Solution AMG Multibeam LED 360* Camera   Automaat;2019;17544 km;;;Petrol;;;Automatic;49900,00;EUR;1,991 cc;;;;;
+Renault Mégane Scénic 1.6 16V , Airco , Benzine/gas;2004;288330 km;;;LPG;;;Manual;950,00;EUR;1,598 cc;;;;;
+Suzuki Celerio 1.0 Comfort | Airco | Bluetooth | 5-Deurs | LED | Radio/MP3 | NAP;2016;91207 km;;;Petrol;;;Manual;6390,00;EUR;998 cc;;;;;
+Toyota Prius 1.5 VVT-i Hybrid Aut. Airco;2007;261751 km;;;Hybrid;;;Automatic;2500,00;EUR;1,497 cc;;;;;
+Audi Q5 sport quattro;-;74158 km;;;Diesel;;;Automatic;29600,00;EUR;1,968 cc;;;;;
+Mercedes Benz Sprinter 213 Cdi 9 Sitze Schiebetür Klima Euro 6;2014;315170 km;;;Diesel;;;Automatic;13900,00;EUR;2,143 cc;;;;;
+Mercedes Benz SPRINTER 311CDI AIRCO PERSOON INVALIDE VERVOER;2010;640000 km;;;Diesel;;;Automatic;7500,00;EUR;2,148 cc;;;;;
+Mercedes Benz SPRINTER 311cdi l2h2 invalide persoonvervoer;2008;500000 km;;;Diesel;;;Automatic;6500,00;EUR;2,148 cc;;;;;
+Mercedes Benz Sprinter Airco 8+1 Pers.;2009;500000 km;;;Diesel;;;Automatic;6750,00;EUR;2,148 cc;;;;;
+Mercedes Benz Sprinter 311 CDI Personen/invalide vervoer incl. airco;2008;550000 km;;;Diesel;;;Automatic;7950,00;EUR;2,148 cc;;;;;
+Mercedes Benz Sprinter 311cdi persoon/invalide vervoer;2007;310000 km;;;Diesel;;;Manual;7000,00;EUR;2,148 cc;;;;;
+Mercedes Benz SL-Klasse 500;2002;133000 km;;;Petrol;;;Automatic;22500,00;EUR;4,966 cc;;;;;
+Mercedes Benz A-klasse 200 Business Solution Automaat | Achteruitrijcamera | LED verli...;2019;11339 km;;;Petrol;;;Automatic;33650,00;EUR;1,332 cc;;;;;
+Volkswagen PASSAT 1.4 TSI Comfortline BlueMotion;2011;270674 km;;;Petrol;;;Automatic;6950,00;EUR;1,390 cc;;;;;
+Volkswagen PASSAT 1.6 BMT 1.6 BMT PASSAT MANUAL PERFECT;2014;167500 km;;;Diesel;;;Manual;7900,00;EUR;1,598 cc;;;;;
+Audi A4 1.6 , Airco;1999;274045 km;;;Petrol;;;Manual;1250,00;EUR;1,595 cc;;;;;
+Smart City-Coupé Smart & Passion Aut. Pano/Airco;2002;129512 km;;;Petrol;;;Automatic;990,00;EUR;599 cc;;;;;
+Peugeot 207 SW 1.4 VTi X-line Airco geen apk/motorstoringlampje brand vaste prijs;2008;219561 km;;;Petrol;;;Manual;1350,00;EUR;1,397 cc;;;;;
+Suzuki JIMNY 4X4 4X4;1999;180000 km;;;Petrol;;;Manual;3750,00;EUR;1,298 cc;;;;;
+Peugeot Expert 2.0 HDI L2H1;2012;180614 km;;;Diesel;;;Manual;5750,00;EUR;1,997 cc;;;;;
+Nissan Qashqai 2.0 dCi Tekna Pack 4WD 150 PK | Panoramadak | Trekhaak | Climate...;2007;228450 km;;;Diesel;;;Manual;4940,00;EUR;1,995 cc;;;;;
+Toyota Aygo 1.0 VVT- I X-NAV (slechts 547 km op de teller, werkelijk nieuwstaat);2018;547 km;;;Petrol;;;Manual;11900,00;EUR;998 cc;;;;;
+Mercedes Benz GLC-klasse Coupé 220 d 4MATIC AMG Night pakket Head Up 360 camera Schuifdak;2016;88667 km;;;Diesel;;;Automatic;37800,00;EUR;2,143 cc;;;;;
+Audi SQ8 4.0 TDI quattro Panoramadak B&O Sound Direct / Lager;2019;3256 km;;;Diesel;;;Automatic;86900,00;EUR;3,956 cc;;;;;
+Ford Mondeo 2.0-16V Limited;2010;127544 km;;;Petrol;;;Manual;7750,00;EUR;1,999 cc;;;;;
+Peugeot 207 1.4 VTi Access;2011;86968 km;;;Petrol;;;Manual;5549,00;EUR;1,397 cc;;;;;
+Peugeot 107 1.0-12V Urban Move;2010;72427 km;;;Petrol;;;Manual;4649,00;EUR;998 cc;;;;;
+Volvo V70 2.4 D Geartronic;2004;481469 km;;;Diesel;;;Automatic;1050,00;EUR;2,401 cc;;;;;
+Ford Ka 1.2 Titanium;2010;115809 km;;;Petrol;;;Manual;3499,00;EUR;1,242 cc;;;;;
+Ford KA KA 3 deurs handgeschakeld;2007;149210 km;;;Petrol;;;Manual;999,00;EUR;1,299 cc;;;;;
+Mercedes Benz ROLSTOELBUS VITO 109 CDI;2006;130709 km;;;Diesel;;;Manual;9950,00;EUR;2,148 cc;;;;;
+Land Rover RANGE ROVER SPORT SE LEER NAVIGATIE TREKHAAK;2006;225134 km;;;Diesel;;;Automatic;9950,00;EUR;2,720 cc;;;;;
+Bentley Continental GT YOUNGTIMER *ORIGINEEL NEDERLANSE AUTO*;2004;91097 km;;;Petrol;;;Automatic;36850,00;EUR;5,998 cc;;;;;
+Audi A4 Sedan 2.5 TDI Pro-Line Automaat;2005;434721 km;;;Diesel;;;Automatic;2950,00;EUR;2,496 cc;;;;;
+Volvo S60 R - S60 2.4 - 120kW;2007;392000 km;;;Diesel;;;Automatic;2900,00;EUR;2,400 cc;;;;;
+Volkswagen Transporter T6.1 2.0 TDI 150 PK DSG L2H1 CARAVELLE EURO 6 D-TEMP CRUISE ...;2020;3 km;;;Diesel;;;Automatic;44500,00;EUR;1,968 cc;;;;;
+Peugeot 206 1.6-16V Gentry;2001;182302 km;;;Petrol;;;Manual;1299,00;EUR;1,587 cc;;;;;
+Honda Civic Sedan 1.3 HYBRID Aut. Airco;2007;221935 km;;;Hybrid;;;Automatic;3200,00;EUR;1,339 cc;;;;;
+Skoda Octavia Combi 1.0 TSI Greentech Ambition Business;2018;29202 km;;;Petrol;;;Automatic;23600,00;EUR;999 cc;;;;;
+Toyota RAV 4 (4WD) AUTOMATIC 2.4 VVT-I   4WD AUT.;2012;49663 km;;;Diesel;;;Automatic;8700,00;EUR;2,399 cc;;;;;
+Mercedes Benz GLE  34.350,- ex btw| Automaat | Trekhaak | Navigatie | Panorama Dak | ...;2016;99983 km;;;Diesel;;;Automatic;34350,00;EUR;2,143 cc;;;;;
+Opel Corsa 1.2 16V , Airco;2000;194528 km;;;Petrol;;;Manual;950,00;EUR;1,199 cc;;;;;
+Maserati GranCabrio 4.7 V8 Sport 338 kw / 460 pk;2019;11145 km;;;Petrol;;;Automatic;89900,00;EUR;4,691 cc;;;;;
+Land Rover Range Rover Evoque 2.0 TD4 SE Dynamic Panoramadak Tech Pack;2018;4170 km;;;Diesel;;;Automatic;35500,00;EUR;1,998 cc;;;;;
+"Land Rover Range Rover Sport 3.0 TDV6 HSE Dynamic Panoramadak 21 "" TFT scherm Navi ...";2017;7089 km;;;Diesel;;;Automatic;65000,00;EUR;2,993 cc;;;;;
+"Mercedes Benz GLE-klasse 300 d 4MATIC AMG 22 ""7 persoons";2019;3157 km;;;Diesel;;;Automatic;72500,00;EUR;1,950 cc;;;;;
+Mercedes Benz GLE-klasse 300 d 4MATIC AMG Panorama Night pakket Distronic Memory;2020;1890 km;;;Diesel;;;Automatic;63900,00;EUR;1,950 cc;;;;;
+Hyundai ix20 1.6i Go! (airco - navi - ml - LMV - radio/cd/mp3 - MF lederen stuur...;2015;71120 km;;;Petrol;;;Manual;13900,00;EUR;1,591 cc;;;;;
+Mercedes Benz C 180 Classic;-;140909 km;;;Petrol;;;Manual;1250,00;EUR;1,998 cc;;;;;
+Peugeot 208 1.2 VTi Allure 82 PK | Airco | Cruise control | Parkeersensoren | Bl...;2012;218057 km;;;Petrol;;;Manual;4990,00;EUR;1,199 cc;;;;;
+Mercedes Benz Sprinter 311 CDI Personenbus | Airco | nette staat | NAP;2007;201689 km;;;Diesel;;;Manual;6450,00;EUR;2,148 cc;;;;;
+Mercedes Benz A-klasse A 180 Business Solution AMG Automaat;2019;22084 km;;;Petrol;;;Automatic;34650,00;EUR;1,332 cc;;;;;
+Toyota Aygo 1.0 12V +;2007;193721 km;;;Petrol;;;Manual;1600,00;EUR;998 cc;;;;;
+Volkswagen lang 2.5 TDI REIMO WoMo Alkoven AHK SHZ;-;239630 km;;;Diesel;;;Manual;9650,00;EUR;2,399 cc;;;;;
+Mercedes Benz sprinter 311cdi 9 persoons met invalide lift;2007;400000 km;;;Diesel;;;Automatic;6750,00;EUR;2,148 cc;;;;;
+Renault Master 170dci L2H2 Automatik AHK 3500kg 6-Sitze;-;6700 km;;;Diesel;;;Automatic;19750,00;EUR;2,299 cc;;;;;
+Mercedes Benz A -Klasse A 140  Lang   TÜV Neu;-;105600 km;;;Petrol;;;Manual;2690,00;EUR;1,397 cc;;;;;
+Mercedes Benz Sprinter 308 CDI personenbus, rolstoel lift , wb 355;2003;271507 km;;;Diesel;;;Manual;3250,00;EUR;2,148 cc;;;;;
+Mercedes Benz V 250d / Avantgard / XL Leder / AHK 2,5t / SHZ;-;43910 km;;;Diesel;;;Automatic;36983,00;EUR;2,143 cc;;;;;
+Mercedes Benz Sprinter | Rolstoelbus | L2H2 | Lift | voorinstap;2007;316494 km;;;Diesel;;;Manual;6250,00;EUR;2,148 cc;;;;;
+Seat Ibiza Rijschool !!  5-Drs 1.2 TDI Ecomotive Style Airco;2012;217118 km;;;Diesel;;;Manual;3300,00;EUR;1,199 cc;;;;;
+Seat Ibiza 1.4-16V Signo airco ecc;2002;134956 km;;;Petrol;;;Manual;1699,00;EUR;1,390 cc;;;;;
+Mercedes Benz Sprinter 311 2.2 CDI 8-PERS.BUS 432 HD;2006;513775 km;;;Diesel;;;Manual;4750,00;EUR;2,148 cc;;;;;
+Toyota 30/11/2012;2012;130920 km;;;Diesel;;;Manual;10500,00;EUR;2,231 cc;;;;;
+Peugeot 308 1.6 VTi X-line airco;2008;98030 km;;;Petrol;;;Manual;4750,00;EUR;1,598 cc;;;;;
+Volkswagen Golf 1.4 TSI DSG Highline Navi,Massage,Pdc,Climat,Stoelverw NAP NL AUTO;2013;187286 km;;;Petrol;;;Automatic;11950,00;EUR;1,395 cc;;;;;
+Volkswagen Golf 1.8 TSI 118kw/160pk Climate control,Navigatie,Stoelverw,Pdc V+A,Enz;2009;271570 km;;;Petrol;;;Manual;5950,00;EUR;1,798 cc;;;;;
+Mercedes Benz SPRINTER 308 CDI;2000;196193 km;;;Diesel;;;Manual;3500,00;EUR;2,148 cc;;;;;
+Toyota Avensis Combi Edition 1.8Multidrive/Nav/AHK/Sitz;-;58000 km;;;Petrol;;;Manual;10299,00;EUR;1,798 cc;;;;;
+Mercedes Benz E-Klasse T-Modell E 250 CDI BlueEfficiency/Navi;-;183000 km;;;Diesel;;;Manual;6896,00;EUR;2,143 cc;;;;;
+Volkswagen Touran Freestyle/Navi/DSG/Klima/Sitzh/AHK;-;140715 km;;;Petrol;;;Automatic;6499,00;EUR;1,390 cc;;;;;
+Ford Galaxy 2,0 TDCi 103kW DPF Trend;-;198100 km;;;Diesel;;;Manual;6500,00;EUR;1,997 cc;;;;;
+Ford Galaxy 2,0 EcoBoost Titanium PowerShift / 7-Sitz;-;77000 km;;;Petrol;;;Automatic;9999,00;EUR;1,999 cc;;;;;
+Mercedes Benz SLK Roadster 280 V6 3,0 L Sportfahrwerk;2005;264000 km;;;Petrol;;;Automatic;13804,00;EUR;2,997 cc;;;;;
+Mercedes Benz 519 CDI Bus armoured armored VR6 11 passengers;-;10 km;;;Diesel;;;Automatic;233000,00;EUR;2,987 cc;;;;;
+Lexus LX570 S gepanzert armoured armored VR7 new stock;-;903 km;;;Petrol;;;Automatic;175000,00;EUR;5,700 cc;;;;;
+Mercedes Benz S560L 4x4  gepanzert armoured armored VR6;-;10 km;;;Petrol;;;Automatic;296500,00;EUR;4,663 cc;;;;;
+Mercedes Benz S 600 L gepanzert armoured armored VR6;-;10 km;;;Petrol;;;Automatic;389000,00;EUR;5,980 cc;;;;;
+Land Rover Freelander 2 DSL A.;-;124000 km;;;Diesel;;;Automatic;9999,00;EUR;2,179 cc;;;;;
+Ford TRANSIT/TOURNEO 4500 NETTO!!!!export;2010;258991 km;;;Diesel;;;Manual;5445,00;EUR;2,198 cc;;;;;
+Peugeot 308 SW 1.6 VTI XT Pano/Airco;2009;194354 km;;;Petrol;;;Manual;2250,00;EUR;1,600 cc;;;;;
+Mercedes Benz GLC 220d AMG Aut9 4Matic Pano/Leer;2016;131275 km;;;Diesel;;;Automatic;20900,00;EUR;2,143 cc;;;;;
+Mercedes Benz SPRINTER 311cdi l2h2 airco 9persoons met invalide lift;2011;700000 km;;;Diesel;;;Automatic;6750,00;EUR;2,148 cc;;;;;
+Mercedes Benz sprinter 311cdi 9 persoons;2007;240000 km;;;Diesel;;;Manual;6750,00;EUR;2,148 cc;;;;;
+Mercedes Benz SPRINTER 311cdi airco 9 persoons;2008;220000 km;;;Diesel;;;Automatic;9250,00;EUR;2,148 cc;;;;;
+Fiat FIAT DUCATO 9 persoons;2012;150000 km;;;Diesel;;;Manual;8750,00;EUR;1,956 cc;;;;;
+BMW 3-serie Touring 318i;2010;148149 km;;;Petrol;;;Manual;7950,00;EUR;1,995 cc;;;;;
+Land Rover Discovery Sport TD4 Aut. SE MOTORSCHADE;-;124000 km;;;Diesel;;;Automatic;11999,00;EUR;1,999 cc;;;;;
+Ford Focus Wagon 1.6-16V Trend airco;2000;240971 km;;;Petrol;;;Manual;699,00;EUR;1,596 cc;;;;;
+Mercedes Benz SPRINTER 315 CDI LANG;2009;253015 km;;;Diesel;;;Automatic;5950,00;EUR;2,148 cc;;;;;
+Opel Corsa 1.2-16V Njoy airco;2003;243173 km;;;Petrol;;;Manual;749,00;EUR;1,199 cc;;;;;
+Volkswagen Transporter T6.1 2.0 TDI 150 PK DSG L2H1 CARAVELLE EURO 6 D-TEMP CRUISE ...;2020;3 km;;;Diesel;;;Automatic;44500,00;EUR;1,968 cc;;;;;
+Toyota 4.5 D-4D V8;2008;461390 km;;;Diesel;;;Automatic;25000,00;EUR;4,461 cc;;;;;
+Mercedes Benz Sprinter 311 2.2 CDI 366 HD;2008;561000 km;;;Diesel;;;Automatic;7950,00;EUR;2,148 cc;;;;;
+Toyota 2.5 D-4D;2009;101997 km;;;Diesel;;;Manual;8500,00;EUR;2,494 cc;;;;;
+Toyota 90 3.0 D-4D;2002;272247 km;;;Diesel;;;Automatic;6500,00;EUR;2,982 cc;;;;;
+Mercedes Benz 500 sel;1981;278000 km;;;LPG;;;Automatic;9750,00;EUR;4,973 cc;;;;;
+Mercedes Benz 190 E 1.8;1993;123000 km;;;Petrol;;;Manual;5500,00;EUR;1,797 cc;;;;;
+Toyota 1.6;2008;226886 km;;;Petrol;;;Manual;4800,00;EUR;1,598 cc;;;;;
+Mercedes Benz SPRINTER 316 ngt aardgas !;2014;248489 km;;;LPG;;;Automatic;14950,00;EUR;1,796 cc;;;;;
+Toyota 90 3.0 D-4D;2001;463349 km;;;Diesel;;;Automatic;6500,00;EUR;2,982 cc;;;;;
+Peugeot Partner Tepee Active *Navi*;2016;27000 km;;;Petrol;;;Manual;12750,00;EUR;1,598 cc;;;;;
+Peugeot 306 XR 1.4 CRYSTAL;1995;207023 km;;;Petrol;;;Manual;950,00;EUR;1,360 cc;;;;;
+Iveco Daily 50 C 14 HPi , 3.0, NO KEYS , immobiliser;2007;1 km;;;Diesel;;;Manual;2750,00;EUR;2,998 cc;;;;;
+Toyota 4.5 D-4D V8;2008;461355 km;;;Diesel;;;Automatic;25000,00;EUR;4,461 cc;;;;;
+Toyota 90 3.0 D-4D;2000;211201 km;;;Diesel;;;Manual;5900,00;EUR;2,982 cc;;;;;
+Audi 2.0 TDI;2012;185657 km;;;Diesel;;;Automatic;14500,00;EUR;1,968 cc;;;;;
+Audi A3 Cabrio 1.2 TFSI Ambition Climate;2012;101298 km;;;Petrol;;;Manual;8900,00;EUR;1,197 cc;;;;;
+Mercedes Benz M-klasse 270 CDI clima, cruise;2003;326370 km;;;Diesel;;;Automatic;3550,00;EUR;2,685 cc;;;;;
+Renault Megane Grandtour 1.5 dCi 110 Eco Dynamique Aut6 Navi;2010;199587 km;;;Diesel;;;Automatic;3300,00;EUR;1,461 cc;;;;;
+Land Rover Range Rover TDV8;-;165000 km;;;Diesel;;;Automatic;17241,00;EUR;4,367 cc;;;;;
+Land Rover Range Rover Evoque TD4 Aut. Pure Technik;-;94000 km;;;Diesel;;;Automatic;19784,00;EUR;2,179 cc;;;;;
+Toyota Corolla-verso 1.8 VVT-i Linea Sol Airco/ECC;2003;185287 km;;;Petrol;;;Manual;1950,00;EUR;1,794 cc;;;;;
+Mercedes Benz SPRINTER 9 persoons l2h2 9x op voorraad vanaf 6500ex btw;2008;240000 km;;;Diesel;;;Manual;6500,00;EUR;2,148 cc;;;;;
+Mercedes Benz sprinter 311cdi;2006;290000 km;;;Diesel;;;Manual;6250,00;EUR;2,148 cc;;;;;
+Mercedes Benz sprinter 311cdi 9 persoons sprinter 311cdi 9 persoons;2007;230000 km;;;Diesel;;;Manual;6500,00;EUR;2,148 cc;;;;;
+Fiat FIAT DUCATO 9 persoons 115000km;2012;115000 km;;;Diesel;;;Manual;8750,00;EUR;1,956 cc;;;;;
+Fiat FIAT DUCATO 9 persoons 115000km;2012;115000 km;;;Diesel;;;Manual;8750,00;EUR;1,956 cc;;;;;
+Fiat FIAT DUCATO 9 persoons 105000km;2012;105000 km;;;Diesel;;;Manual;8750,00;EUR;1,956 cc;;;;;
+Mercedes Benz C-klasse 220 CDI Avantgarde Navigaie LED;2014;91191 km;;;Diesel;;;Manual;17900,00;EUR;2,143 cc;;;;;
+Mitsubishi Space Star 1.0 Bright Automaat | Climate control | Dealer onderhouden | ...;2015;24608 km;;;Petrol;;;Automatic;8740,00;EUR;999 cc;;;;;
+Peugeot 108 1.0 e-VTi Active | Airco | 5-deurs | Lederen multifunctioneel stuurw...;2015;67034 km;;;Petrol;;;Manual;6395,00;EUR;998 cc;;;;;
+Ford Ka 1.3;2007;111630 km;;;Petrol;;;Manual;1500,00;EUR;1,299 cc;;;;;
+Land Rover Range Rover Autobiography  Black  Kühlbox-Voll;-;50 km;;;Petrol;;;Automatic;109900,00;EUR;5,000 cc;;;;;
+Toyota COROLLA VERSO;2004;228552 km;;;Petrol;;;Manual;2800,00;EUR;1,794 cc;;;;;
+Audi A6 Avant 3.0 TDI quattro Pro Line Plus;2013;213443 km;;;Diesel;;;Automatic;12500,00;EUR;2,967 cc;;;;;
+Ford Focus 1.8 TDCi , Airco;2003;197288 km;;;Diesel;;;Manual;550,00;EUR;1,800 cc;;;;;
+Mazda 323 1.4/16V Si;1998;243780 km;;;Petrol;;;Manual;600,00;EUR;1,400 cc;;;;;
+Mercedes Benz AMG GT S;2015;13556 km;;;Petrol;;;Automatic;127500,00;EUR;3,982 cc;;;;;
+Opel Astra Wagon 1.6 Temptation;2008;98540 km;;;Petrol;;;Manual;5149,00;EUR;1,598 cc;;;;;
+Opel Astra 1.6 Sport 32.000 km met nap;1998;32787 km;;;Petrol;;;Manual;3449,00;EUR;1,598 cc;;;;;
+BMW 5-serie 520i Executive Automaat;2004;365427 km;;;Petrol;;;Automatic;3250,00;EUR;2,171 cc;;;;;
+Mercedes Benz GL 63 AMG 4 MATIC - Full spec - 7 seater - Panorama roof - Harman Kardon...;2014;59684 km;;;Petrol;;;Automatic;58900,00;EUR;5,461 cc;;;;;
+Audi Q5;-;31500 km;;;Petrol;;;Automatic;23995,00;EUR;1,984 cc;;;;;
+Peugeot 206 Cabriolet CC Filou       1. Hand.;-;143800 km;;;Petrol;;;Manual;1690,00;EUR;1,587 cc;;;;;
+BMW 1-serie 5-Drs 116i Business Line Airco;2010;214471 km;;;Petrol;;;Manual;3800,00;EUR;1,995 cc;;;;;
+Volkswagen Passat 2.0 FSi , Navi , Leder , Aut.;2006;281221 km;;;Petrol;;;Automatic;2500,00;EUR;1,984 cc;;;;;
+Fiat FIAT DUCATO 9 persoons 100000km;2012;100000 km;;;Diesel;;;Manual;8750,00;EUR;1,956 cc;;;;;
+Mercedes Benz sprinter 316cdi airco persoon invalide vervoer;2013;620000 km;;;Diesel;;;Automatic;14500,00;EUR;2,143 cc;;;;;
+Mercedes Benz SPRINTER 9persoons met invalide lift;2011;500000 km;;;Diesel;;;Automatic;7950,00;EUR;2,148 cc;;;;;
+Opel Vivaro 9 Sitze * 8400,-netto TÜV Neu;-;143000 km;;;Diesel;;;Manual;8400,00;EUR;1,598 cc;;;;;
+Opel Vivaro 9 Sitze;-;165000 km;;;Diesel;;;Manual;8200,00;EUR;1,598 cc;;;;;
+Audi A4 Avant 1.4 TFSI 150pk Pro L. Spring Adv. Avant Navi Klima;2016;121849 km;;;Petrol;;;Manual;12950,00;EUR;1,395 cc;;;;;
+Citroen Jumpy HDi 125 FAP L1 Multispace Attraction;2014;265000 km;;;Diesel;;;Manual;4750,00;EUR;1,997 cc;;;;;
+Mercedes Benz 124type 230 E 124;1985;190000 km;;;Petrol;;;Automatic;7750,00;EUR;2,299 cc;;;;;
+Mercedes Benz 500 SL Airco Automaat Marge SL 500;1991;107000 mi;;;Petrol;;;Automatic;13750,00;EUR;4,973 cc;;;;;
+Mercedes Benz sprinter 311cdi airco 9 persoons l3h2;2008;470000 km;;;Diesel;;;Automatic;6500,00;EUR;2,148 cc;;;;;
+Mercedes Benz 200 E 124 type automaat 157000km;1989;157000 km;;;Petrol;;;Automatic;7750,00;EUR;1,996 cc;;;;;
+Jeep JEEP WRANGLER 4x4 cabrio;1997;160000 km;;;LPG;;;Manual;9750,00;EUR;2,464 cc;;;;;
+Ford Ranger Doppelkabine 4x4 Wildtrak;-;33500 km;;;Diesel;;;Automatic;24900,00;EUR;3,198 cc;;;;;
+Renault Trafic Kasten L1H1 2,7t Komfort;-;6900 km;;;Diesel;;;Manual;14900,00;EUR;1,598 cc;;;;;
+Ford Mondeo TDCI AC-CLIME Mondeo;2006;238000 km;;;Diesel;;;Manual;650,00;EUR;1,998 cc;;;;;
+Fiat 500 1.2 Lounge Aut.NAP Airco,Leer,Pano,Pdc;2010;52281 km;;;Petrol;;;Automatic;7250,00;EUR;1,242 cc;;;;;
+Volkswagen PASSAT Variant 1.6 TDI Diesel Trekhaak- climat control A/C- Navi passat;2015;159000 km;;;Diesel;;;Manual;14900,00;EUR;1,598 cc;;;;;
+Opel Zafira 1.8-16V Selection Airco 7 persoons apk verlopen;2002;190913 km;;;Petrol;;;Manual;950,00;EUR;1,796 cc;;;;;
+Opel Astra Sports Tourer 1.4 Turbo Business + nap airco;2013;149284 km;;;Petrol;;;Manual;8250,00;EUR;1,362 cc;;;;;
+Opel CORSA 1.2 16v Strada 5drs. - APK Jan. 2021 - 7120;1999;241846 km;;;Petrol;;;Manual;650,00;EUR;1,199 cc;;;;;
+Skoda Octavia Combi 1.5 TSI 110kW Ambition Navi;2018;41153 km;;;Petrol;;;Manual;7500,00;EUR;1,498 cc;;;;;
+Toyota Aygo TÜV NEU;-;85000 km;;;Petrol;;;Manual;2999,00;EUR;998 cc;;;;;
+Mercedes Benz E 320 Avantgarde 7 zitter;1998;112500 km;;;Petrol;;;Automatic;4750,00;EUR;3,199 cc;;;;;
+BMW 325I;1993;55205 km;;;Petrol;;;Automatic;5750,00;EUR;2,493 cc;;;;;
+Ford TRANSIT/TOURNEO;2007;334039 km;;;Diesel;;;Manual;4950,00;EUR;2,198 cc;;;;;
+BMW 7-serie 740Le iPerformance High Executive - Ex. Minister auto! -  29.95...;2016;210090 km;;;Hybrid;;;Automatic;29950,00;EUR;1,998 cc;;;;;
+Kia SORENTO 2.5;2003;256000 km;;;Diesel;;;Manual;2250,00;EUR;2,497 cc;;;;;
+Volkswagen Touran 1.6 FSi Business Airco;2006;254323 km;;;Petrol;;;Manual;1650,00;EUR;1,598 cc;;;;;
+Toyota Verso 2.0 D-4D Aspiration 7-pers. Navi/Climate;2012;217799 km;;;Diesel;;;Manual;4900,00;EUR;1,998 cc;;;;;
+Volkswagen Golf Variant 1.4 TSI 118kW Highline Panorama;2011;128175 km;;;Petrol;;;Manual;5300,00;EUR;1,390 cc;;;;;
+Mercedes Benz E 200;2002;254000 km;;;Diesel;;;Manual;1250,00;EUR;2,148 cc;;;;;
+Toyota AVENSIS 1.8 T27 7 PLACES/ZITTEN;2009;160000 km;;;Petrol;;;Automatic;6750,00;EUR;1,798 cc;;;;;
+Ford FOCUS 1.6i Futura Wagon - 7119;2004;227064 km;;;Petrol;;;Manual;1250,00;EUR;1,596 cc;;;;;
+Volkswagen Golf V Lim. United    Wildschaden;-;193560 km;;;Petrol;;;Manual;1690,00;EUR;1,390 cc;;;;;
+Volkswagen T6 Bus Multivan Generation Six 4Mot  neuer Motor;-;145000 km;;;Diesel;;;Automatic;22328,00;EUR;1,968 cc;;;;;
+Mercedes Benz G-klasse 400 CDI Machtige V8 Turbo diesel Young Timer;2005;197841 km;;;Diesel;;;Automatic;31950,00;EUR;3,996 cc;;;;;
+Opel Vectra 2.2-16V Comfort AUTOMAAT AIRCO;2002;112991 km;;;Petrol;;;Automatic;3499,00;EUR;2,198 cc;;;;;
+Audi A5 Sportback 2.0 TDI / XENON / ACC;2015;195613 km;;;Diesel;;;Automatic;14450,00;EUR;1,968 cc;;;;;
+Mazda 5 1.8 , Airco , 7 seats;2007;281244 km;;;Petrol;;;Manual;1750,00;EUR;1,798 cc;;;;;
+Renault Twingo 1.2 , Airco;1999;261305 km;;;Petrol;;;Manual;950,00;EUR;1,149 cc;;;;;
+Opel Astra 1.6 GL;1999;124409 km;;;Petrol;;;Manual;1399,00;EUR;1,598 cc;;;;;
+Opel Corsa 1.2-16V Business;2008;174442 km;;;Petrol;;;Manual;3399,00;EUR;1,229 cc;;;;;
+Alfa Romeo Giulietta 1.7 TBi Quadrifoglio Verde 240PK (climate control - cruise con...;2013;115536 km;;;Petrol;;;Manual;14900,00;EUR;1,742 cc;;;;;
+Fiat Panda 0.9 TwinAir Young (airco - electr. ramen - radio/cd/mp3);2014;102554 km;;;Petrol;;;Manual;5950,00;EUR;964 cc;;;;;
+Opel Vectra B cc , 1.6 16V;1998;264022 km;;;Petrol;;;Manual;1250,00;EUR;1,598 cc;;;;;
+Volkswagen GOLF 1.6 TDI BM VARIANT;2012;83639 km;;;Diesel;;;Automatic;5450,00;EUR;1,598 cc;;;;;
+Volkswagen TRANSPORTER 9P DSG;2013;288935 km;;;Diesel;;;Automatic;6950,00;EUR;1,968 cc;;;;;
+Nissan Almera 1.5 SLX , Airco;1997;260764 km;;;Petrol;;;Manual;950,00;EUR;1,498 cc;;;;;
+Mercedes Benz C-Klasse Lim. C 200 Kompressor Automatik / Navi;-;241000 km;;;Petrol;;;Automatic;2700,00;EUR;1,796 cc;;;;;
+Volkswagen Tiguan Sport & Style 4Motion;2012;160000 km;;;Diesel;;;Automatic;11750,00;EUR;1,968 cc;;;;;
+Audi A4 Avant, Navi, Sitzheizung, Bussines-Paket;-;190302 km;;;Diesel;;;Manual;11700,00;EUR;1,968 cc;;;;;
+Toyota Aygo 1.0-12V Cool;2011;198795 km;;;Petrol;;;Manual;2850,00;EUR;998 cc;;;;;
+Peugeot 308 CC HDi FAP 140 Premium *Ahk*PDC*Alu*;-;116000 km;;;Diesel;;;Manual;6950,00;EUR;1,997 cc;;;;;
+Suzuki Swift 1.0;2001;58899 km;;;Petrol;;;Manual;850,00;EUR;993 cc;;;;;
+Suzuki Alto 1.0 , Airco;2002;177477 km;;;Petrol;;;Manual;950,00;EUR;1,061 cc;;;;;
+Dacia Logan 1.5 DCi , Airco , not running!!;2007;356852 km;;;Diesel;;;Manual;750,00;EUR;1,461 cc;;;;;
+Skoda Kodiaq Sportline 1.5 TSI DSG NAVI/TREKHAAK/STOELVERW.;2020;1013 km;;;Petrol;;;Automatic;47750,00;EUR;1,498 cc;;;;;
+Skoda Octavia Combi 1.6 TDI Greenline Ambition Businessline Diesel kan al bij ...;2015;78834 km;;;Diesel;;;Manual;13900,00;EUR;1,598 cc;;;;;
+Opel Corsa 5-Drs 1.4 Turbo OPC-Line;2013;82617 km;;;Petrol;;;Manual;4500,00;EUR;1,400 cc;;;;;
+Opel Meriva 1.8-16V Cosmo Climate 92kW;2004;188429 km;;;Petrol;;;Manual;1250,00;EUR;1,796 cc;;;;;
+Mazda 5 1.8 Touring 7 PERSOONS ,APK JUNI 2021, CLIMATE CONTROLE;2005;273196 km;;;Petrol;;;Manual;2450,00;EUR;1,798 cc;;;;;
+Mazda CX-9 3.7 GT-L LPG G3 7 Persoons PRACHTIGE AUTO!;2008;172192 mi;;;LPG;;;Automatic;8500,00;EUR;3,726 cc;;;;;
+Alfa Romeo 159 1.9 JTS Distinctive;2006;218932 km;;;Petrol;;;Manual;2999,00;EUR;1,859 cc;;;;;
+Ford EcoSport 1.0 EcoBoost Trend 125PK (airco - ML- electr. ramen - radio/cd ...;2015;34416 km;;;Petrol;;;Manual;12700,00;EUR;998 cc;;;;;
+Nissan X-Trail SE 4X4;2011;169000 km;;;Diesel;;;Automatic;9999,00;EUR;1,994 cc;;;;;
+Nissan Micra Visia;2009;122000 km;;;Petrol;;;Manual;2950,00;EUR;1,240 cc;;;;;
+Opel Signum 3.2 V6 Cosmo;2004;296116 km;;;Petrol;;;Manual;999,00;EUR;3,175 cc;;;;;
+Peugeot 107 1.0-12V Black & Silver 5-Deurs | Airco | Alcantara | Privacy Glass |...;2012;137260 km;;;Petrol;;;Manual;4190,00;EUR;998 cc;;;;;
+Opel Corsa 1.0 Turbo Innovation OPC-Line | Carplay | Dealer onderhouden | Air...;2017;16246 km;;;Petrol;;;Manual;11990,00;EUR;999 cc;;;;;
+Audi Q5 3.0 tdi v6 S-line S-tronic;2015;121353 km;;;Diesel;;;Automatic;29950,00;EUR;2,967 cc;;;;;
+BMW 730i OLDTIMER;-;272596 km;;;Petrol;;;Automatic;7900,00;EUR;2,986 cc;;;;;
+Mercedes Benz E 220 d DRIVE PILOT - Widescreen;-;124237 km;;;Diesel;;;Automatic;23500,00;EUR;1,950 cc;;;;;
+Mini Mini 1.6 Cooper Chili cabrio airco;2004;162192 km;;;Petrol;;;Manual;4650,00;EUR;1,598 cc;;;;;
+Ford Transit Custom 310L L2 H1 2.0 TDCI 130pk Trend 9-persoons Airco Cruise P...;2017;101152 km;;;Diesel;;;Manual;17850,00;EUR;1,997 cc;;;;;
+BMW 3-serie Coupé 320Ci Executive;2001;306681 km;;;Petrol;;;Manual;2200,00;EUR;2,171 cc;;;;;
+Renault ESPACE TCE 200 PK Initiale Paris, 7 Pers.DVD, 1e eigenaar;2017;46551 km;;;Petrol;;;Automatic;32750,00;EUR;1,618 cc;;;;;
+Opel Astra 1.6-16V Centennial airco 5 deurs;1999;259690 km;;;Petrol;;;Manual;999,00;EUR;1,598 cc;;;;;
+Ford Focus 1.6-16V Ghia;1999;203228 km;;;Petrol;;;Manual;999,00;EUR;1,596 cc;;;;;
+Fiat Panda 0.9 TwinAir Edizione Cool (airco - electr. ramen voor - radio/cd -...;2014;71882 km;;;Petrol;;;Manual;6840,00;EUR;964 cc;;;;;
+Mercedes Benz CITAN TOURER 1090CDI;2016;82000 km;;;Diesel;;;Manual;9900,00;EUR;1,461 cc;;;;;
+Mercedes Benz E-Klasse E 220 CDI  9-G-Tronic LED Avantgarde;-;219000 km;;;Diesel;;;Automatic;11200,00;EUR;2,143 cc;;;;;
+Volkswagen Golf 7 /VII Variant Trendline BMT 4800,-netto;-;299000 km;;;Diesel;;;Manual;4800,00;EUR;1,598 cc;;;;;
+Seat Alhambra Reference 1,4;-;69000 km;;;Petrol;;;Manual;13991,00;EUR;1,395 cc;;;;;
+Seat Ateca 2.0 TDI 110kW 4x4   Full link 11200,-netto;-;144000 km;;;Diesel;;;Manual;11200,00;EUR;1,968 cc;;;;;
+Mercedes Benz E 200 KOMPRESSOR T ELEGANCE Automatic;-;225000 km;;;Petrol;;;Automatic;3990,00;EUR;1,796 cc;;;;;
+Mercedes Benz E-Klasse Lim. E 200 Kompressor Elegance;-;181000 km;;;Petrol;;;Automatic;6900,00;EUR;1,796 cc;;;;;
+Volkswagen Touareg 3.0 V6 TDI Tiptronic BMT NAVI Automatik;-;246000 km;;;Diesel;;;Automatic;11200,00;EUR;2,967 cc;;;;;
+Volkswagen Passat Variant 2.0 FSI Highline Climat,Cruise,Pdc,Stoelverwarming;2006;263952 km;;;Petrol;;;Manual;3250,00;EUR;1,984 cc;;;;;
+Audi A6 Lim. 2.5 TDI;-;309400 km;;;Diesel;;;Automatic;790,00;EUR;2,496 cc;;;;;
+Mercedes Benz SPRINTER 5600 NETTO;2009;524573 km;;;Diesel;;;Manual;6776,00;EUR;2,148 cc;;;;;
+Mercedes Benz C-klasse C 180 Exclusive Int. & Ext. / Stoelverwarming / Spoorassistent ...;2015;90420 km;;;Petrol;;;Automatic;22900,00;EUR;1,595 cc;;;;;
+Mercedes Benz V-klasse 250d Extra Lang Avantgarde L3H1 XL CAMERA NAVIGATIE CRUISE CONT...;2019;25000 km;;;Diesel;;;Automatic;41900,00;EUR;2,143 cc;;;;;
+Mercedes Benz V-klasse 250d Extra Lang Avantgarde L3H1 XL CAMERA NAVIGATIE CRUISE CONT...;2019;26000 km;;;Diesel;;;Automatic;41900,00;EUR;2,143 cc;;;;;
+Mercedes Benz C-Klasse 240 ,combi ,;1998;341930 km;;;Petrol;;;Automatic;1250,00;EUR;2,398 cc;;;;;
+Saab 9-3 Sport Sedan 1.9 TiD Linear;2008;179967 km;;;Diesel;;;Manual;5745,00;EUR;1,910 cc;;;;;
+Audi A6 3.0 TDI (DPF) tiptronic quattro Avant;-;381506 km;;;Diesel;;;Automatic;6285,00;EUR;2,967 cc;;;;;
+Skoda Rapid Spaceback 1.2 TSI Greentech Edition | Navigatie | Airco | Trekhaak...;2015;144031 km;;;Petrol;;;Manual;8990,00;EUR;1,197 cc;;;;;
+Toyota LAND CRUISER 90 SERIES;1999;335490 km;;;Diesel;;;Manual;4500,00;EUR;2,982 cc;;;;;
+Maybach 57 57;2004;162000 km;;;Petrol;;;Automatic;62500,00;EUR;5,513 cc;;;;;
+Hyundai I20 5 Deurs Airco Prachtige auto;2010;200552 km;;;Petrol;;;Manual;3450,00;EUR;1,248 cc;;;;;
+Ford Focus Wagon 1.6 TDCI Lease Trend Prachtige staat Apk Mei 2021;2014;187091 km;;;Diesel;;;Manual;5999,00;EUR;1,560 cc;;;;;
+Lancia Delta 1.4-16V Oro;2009;227599 km;;;Petrol;;;Manual;3500,00;EUR;1,368 cc;;;;;
+Mazda 6 2.0 CiTD Touring II Dealer onderhouden.;2005;277918 km;;;Diesel;;;Manual;1499,00;EUR;1,998 cc;;;;;
+Skoda Octavia Combi 1.2 TSI Ambition Business Line Apk maart 2021 Nette auto;2010;221251 km;;;Petrol;;;Manual;4250,00;EUR;1,197 cc;;;;;
+Toyota Land Cruiser PRADO 150;2014;140627 km;;;Diesel;;;Automatic;24000,00;EUR;2,982 cc;;;;;
+Toyota Land Cruiser PRADO 150;2014;130000 km;;;Diesel;;;Automatic;24000,00;EUR;2,982 cc;;;;;
+Toyota Land Cruiser PRADO 150;2014;130000 km;;;Diesel;;;Automatic;24000,00;EUR;2,982 cc;;;;;
+Toyota Land Cruiser PRADO 150;2014;130000 km;;;Diesel;;;Automatic;24000,00;EUR;2,982 cc;;;;;
+Opel Tour 1.6 Njoy Apk Aug. 2021 Airco;2002;180835 km;;;Petrol;;;Manual;2750,00;EUR;1,598 cc;;;;;
+Peugeot 106 1.6 Rallye S2;-;254000 km;;;Petrol;;;Manual;2950,00;EUR;1,587 cc;;;;;
+Fiat Croma 1.9 JTD Corporate;2008;195398 km;;;Diesel;;;Automatic;2900,00;EUR;1,910 cc;;;;;
+Volvo XC60 Momentum 2WD*Navi*T-Leder*EURO6*;2014;179900 km;;;Diesel;;;Manual;13534,00;EUR;1,969 cc;;;;;
+Mercedes Benz G 63 AMG Mod. 2020*Auslieferung*Sofort*;-;25 km;;;Petrol;;;Automatic;179998,00;EUR;3,982 cc;;;;;
+Skoda Octavia Combi Classic;-;223990 km;;;Diesel;;;Manual;3353,00;EUR;1,598 cc;;;;;
+Fiat Punto Evo 0.9 TwinAir Turbo Sempre 100 PK | Navigatie | Cruise Control |...;2018;21514 km;;;Petrol;;;Manual;11890,00;EUR;875 cc;;;;;
+Volkswagen T-Roc Design 1.0 TSI 85 kW / 115 PK;2018;52959 km;;;Petrol;;;Manual;23500,00;EUR;999 cc;;;;;
+Skoda Octavia Combi 1.4 TSI Greentech Style Business NAVI/PANO/CAMERA/XENON;2017;42202 km;;;Petrol;;;Automatic;22800,00;EUR;1,395 cc;;;;;
+Mercedes Benz C200 CDI AUTOMAAT*ZETELVERWARMING*NAVI*;2013;70993 km;;;Diesel;;;Automatic;14900,00;EUR;2,143 cc;;;;;
+Mercedes Benz B 180 parktronic*automatic*navi;2014;64790 km;;;Petrol;;;Automatic;12400,00;EUR;1,595 cc;;;;;
+Mercedes Benz E220 Verwarmde zetels*parktronic*navigatie;2016;36391 km;;;Diesel;;;Automatic;35000,00;EUR;1,950 cc;;;;;
+Seat Leon Comfort Limited;-;177000 km;;;Diesel;;;Automatic;2999,00;EUR;1,896 cc;;;;;
+Opel MOKKA X 4X4 Turbo 140 PK, Leder, Navi, Automaat;2016;70901 km;;;Petrol;;;Automatic;17950,00;EUR;1,364 cc;;;;;
+Nissan Micra 1.4 , Airco;2002;196981 km;;;Petrol;;;Manual;750,00;EUR;1,348 cc;;;;;
+Volkswagen POLO POLO GT 1.4 TSI BMT + NAVI + PANO + CAMERA + FULL+ MARGE;2015;71000 km;;;Petrol;;;Manual;13950,00;EUR;1,395 cc;;;;;
+Suzuki Swift 1.2 Base;2011;122573 km;;;Petrol;;;Manual;4750,00;EUR;1,242 cc;;;;;
+Opel Insignia 1.6 T Sport;2010;107906 km;;;Petrol;;;Manual;9499,00;EUR;1,598 cc;;;;;
+Skoda Karoq Style 1.5 TSI DSG NAVI/TREKHAAK/LED;2020;1023 km;;;Petrol;;;Automatic;35900,00;EUR;1,498 cc;;;;;
+Mercedes Benz E-Klasse E280 CDI SPORT Advandgarde NIEUWSTAAT;2007;363000 km;;;Diesel;;;Automatic;8900,00;EUR;2,987 cc;;;;;
+Mercedes Benz Viano 2.2 CDI Trend Lang;2007;191000 km;;;Diesel;;;Automatic;11950,00;EUR;2,148 cc;;;;;
+Opel Corsa 1.2-16V Business;2008;175002 km;;;Petrol;;;Manual;2949,00;EUR;1,229 cc;;;;;
+Hyundai I30 CW 1.4i i-Drive Cool;2011;137661 km;;;Petrol;;;Manual;5749,00;EUR;1,396 cc;;;;;
+Mercedes Benz SPRINTER 313 CDI LANG AIRCO;2010;323424 km;;;Diesel;;;Manual;4450,00;EUR;2,143 cc;;;;;
+Chevrolet Epica 2.5i Executive BOMVOL OPTIES 1e eigenaar!;2006;114063 km;;;Petrol;;;Automatic;2999,00;EUR;2,492 cc;;;;;
+Mercedes Benz V-KLASSE 250 CDI marge 8-persoons;2014;271526 km;;;Diesel;;;Automatic;29900,00;EUR;2,143 cc;;;;;
+Kia Optima 1.7CRDI Optima 1.7CRDI Euro5b;2014;110500 km;;;Diesel;;;Automatic;12500,00;EUR;1,685 cc;;;;;
+Volkswagen Caddy Maxi 1.6 Comfortline 7p. Apk feb. 2021;2010;216645 km;;;Petrol;;;Manual;8000,00;EUR;1,595 cc;;;;;
+Suzuki Swift 1.5 Exclusive Airco;2007;247009 km;;;Petrol;;;Manual;1400,00;EUR;1,490 cc;;;;;
+Opel Mokka Innovation ecoFlex vast Voll ausstatung;2013;113000 km;;;Diesel;;;Manual;9999,00;EUR;1,686 cc;;;;;
+Alfa Romeo Spider 1.8 TBI PKW Cabrio;2009;44500 km;;;Petrol;;;Manual;19900,00;EUR;1,742 cc;;;;;
+Renault Clio 1.5 dCi Zen AUTOMAAT  NAVI KLIMA;2017;126823 km;;;Diesel;;;Automatic;4500,00;EUR;1,461 cc;;;;;
+Opel Astra 1.6 CDTI 81KW BSN SPORTS TOURER NAVI KLIMA;2016;151702 km;;;Diesel;;;Manual;4950,00;EUR;1,598 cc;;;;;
+Volkswagen Beetle Lim. 2.0;-;212000 km;;;Petrol;;;Manual;690,00;EUR;1,984 cc;;;;;
+Volkswagen T5 Transporter Kasten 1,9 TDi Anhängerkupplung;2006;354000 km;;;Diesel;;;Manual;2500,00;EUR;1,896 cc;;;;;
+Toyota Avensis Wagon 2.0 D-4D EXECUTIVE AIRCO NIEUWE APK;2005;379234 km;;;Diesel;;;Manual;2400,00;EUR;1,995 cc;;;;;
+Mercedes Benz SPRINTER;2012;356618 km;;;Diesel;;;Manual;8950,00;EUR;2,143 cc;;;;;
+Renault Mégane Scénic 2.0 , Airco;2001;267839 km;;;Petrol;;;Manual;750,00;EUR;1,998 cc;;;;;
+Opel Agila 1.2-16V Color Edition Hoge instap;2003;201029 km;;;Petrol;;;Manual;1250,00;EUR;1,199 cc;;;;;
+Suzuki Splash 1.0 VVT Comfort airco;2011;112682 km;;;Petrol;;;Manual;4799,00;EUR;996 cc;;;;;
+Kia KIA RIO 1.3 RS Visto Sedan - Airco - 7116;2004;155919 km;;;Petrol;;;Manual;1250,00;EUR;1,343 cc;;;;;
+Nissan Micra 1.3 SE , Airco;1999;133522 km;;;Petrol;;;Manual;750,00;EUR;1,275 cc;;;;;
+Toyota Aygo 1.0-12V Access airco (airco - radio/cd/mp3/AUX;2010;173770 km;;;Petrol;;;Manual;3340,00;EUR;998 cc;;;;;
+Ford Transit Kombi 300S 2.0TDdi 9 PERS/ APK;2004;297790 km;;;Diesel;;;Manual;2195,00;EUR;1,998 cc;;;;;
+Skoda Fabia 1.2 Active (radio/cd - trekhaak);2013;66674 km;;;Petrol;;;Manual;5850,00;EUR;1,198 cc;;;;;
+BMW 740D XDRIVE INDIVIDUAL DVD-ENTERTAINMENT;2013;151746 km;;;Diesel;;;Automatic;23950,00;EUR;2,993 cc;;;;;
+Mitsubishi Colt 1.5 Invite Nette auto!;2005;223835 km;;;Petrol;;;Manual;1750,00;EUR;1,499 cc;;;;;
+Volkswagen T5 Bus Multivan Highline;2014;183000 km;;;Diesel;;;Automatic;24900,00;EUR;1,968 cc;;;;;
+Land Rover Discovery Sport TD4 Pure;-;45700 km;;;Diesel;;;Manual;19784,00;EUR;1,999 cc;;;;;
+Audi A5 2.0 TDI DPF S-Line *Navi*Teil-Leder*Alu*;-;85000 km;;;Diesel;;;Automatic;17999,00;EUR;1,968 cc;;;;;
+Land Rover Range Rover Sport SDV6 HSE Dynamic *Pano-Dach*;-;197000 km;;;Diesel;;;Automatic;28017,00;EUR;2,993 cc;;;;;
+Skoda Fabia Combi 1.2 TDI Greenline Businessline;2013;179729 km;;;Diesel;;;Manual;6900,00;EUR;1,199 cc;;;;;
+Peugeot 206 SW 1.4-16V XS (airco - trekhaak - electr. ramen voor - radio-cd);2004;136678 km;;;Petrol;;;Manual;2740,00;EUR;1,360 cc;;;;;
+Toyota Land Cruiser 150 (J15) 2.8D Grijs kent. Airco Keyles entry;2017;34422 km;;;Diesel;;;Manual;33820,00;EUR;2,755 cc;;;;;
+Porsche Panamera GTS Matrix/ACC/Head-Up/Softclo/21Turbo;-;6700 km;;;Petrol;;;Automatic;109159,00;EUR;3,996 cc;;;;;
+Opel VIVARO 9-Persoons 2.0 CDTI L1H1 Airco;2011;214396 km;;;Diesel;;;Manual;8000,00;EUR;1,995 cc;;;;;
+Mercedes Benz Sprinter II Kasten 319 V6 3,0 CDI;2014;374000 km;;;Diesel;;;Manual;13804,00;EUR;2,987 cc;;;;;
+Opel Zafira 1.8 111 years Edition airco-nap;2010;184422 km;;;Petrol;;;Manual;5749,00;EUR;1,796 cc;;;;;
+Chevrolet Kalos 1.4 Spirit 5 Deurs Airco Apk Dec. 2020;2005;176277 km;;;Petrol;;;Manual;1450,00;EUR;1,399 cc;;;;;
+Peugeot 206 SW 1.4 Pop Art 55kW;2004;255901 km;;;Petrol;;;Manual;700,00;EUR;1,360 cc;;;;;
+Honda Civic HYBRID 1.3 Automaat Airco;2008;330962 km;;;Hybrid;;;Automatic;2450,00;EUR;1,300 cc;;;;;
+Peugeot 206 SW 1.6-16V XS;2003;229721 km;;;Petrol;;;Manual;600,00;EUR;1,587 cc;;;;;
+Mercedes Benz Vito 9 persoons XXL autm 113 CDI 343 incl btw (aftrekbaar) 15999 excl;2013;165000 km;;;Diesel;;;Automatic;19350,00;EUR;2,143 cc;;;;;
+Mercedes Benz Vito 113 CDI 343 9 persoons XXL excl btw;2013;165000 km;;;Diesel;;;Automatic;15999,00;EUR;2,143 cc;;;;;
+Skoda Rapid 1.6 TDI Greentech Style;2016;85483 km;;;Diesel;;;Manual;12900,00;EUR;1,596 cc;;;;;
+Nissan QASHQAI + Manual + airco + navi;2013;40956 km;;;Petrol;;;Manual;11950,00;EUR;1,598 cc;;;;;
+"Volkswagen Golf 2.0 TSI GTI Performance 19 "" LED Navi Camera Facelift";2017;47944 km;;;Petrol;;;Manual;24500,00;EUR;1,984 cc;;;;;
+Mercedes Benz GLA-klasse GLA 180 Business Solution AMG Automaat;2019;15556 km;;;Petrol;;;Automatic;33900,00;EUR;1,595 cc;;;;;
+Mercedes Benz GLA-klasse GLA 180 Sport Edition AMG Line Automaat;2019;502 km;;;Petrol;;;Automatic;39900,00;EUR;1,595 cc;;;;;
+Mercedes Benz CLA-klasse CLA 180 Progressive / Advantage pack / Apple Carplay;2020;4085 km;;;Petrol;;;Automatic;39900,00;EUR;1,332 cc;;;;;
+Mercedes Benz G 320 CDI 5 deurs Lang Facelift;2007;235000 km;;;Diesel;;;Automatic;36950,00;EUR;2,987 cc;;;;;
+Toyota Land Cruiser 120 3.0 D-4D Executive;2005;304370 km;;;Diesel;;;Automatic;9950,00;EUR;2,982 cc;;;;;
+Volkswagen Caddy maxi 1.9 TDI Rolstoel vervoer Airco;2009;456219 km;;;Diesel;;;Manual;2950,00;EUR;1,896 cc;;;;;
+Ford Ka 1.2 Trend (radio/cd/mp3 - electr. ramen voor - centr.deurvergr. met a...;2009;129360 km;;;Petrol;;;Manual;3450,00;EUR;1,242 cc;;;;;
+Opel Grandland X 1.2 Turbo Automaat 120 Jaar Edition (airco - cruise control ...;2019;10965 km;;;Petrol;;;Automatic;29900,00;EUR;1,199 cc;;;;;
+Mercedes Benz SPRINTER 315 CDI LANG AIRCO;2009;251340 km;;;Diesel;;;Automatic;4250,00;EUR;2,148 cc;;;;;
+Volvo XC90 2.0 T8 Twin Engine AWD Momentum | 7 PERS. | PANO-DAK | LUCHTVERING ...;2015;203016 km;;;Hybrid;;;Automatic;28950,00;EUR;1,969 cc;;;;;
+Audi A1 Ambition;-;83600 km;;;Petrol;;;Manual;7990,00;EUR;1,390 cc;;;;;
+BMW Seria 5 BMW Seria 5 E61 rok grudzieñ 2008;2008;290000 km;;;Diesel;;;;39000.0;PLN;2993 cm33;[];;;;
+BMW Seria 5 530d M Pakiet xdrive;2011;240000 km;;;Diesel;;;;78900.0;PLN;3000 cm33;[];;;;
+Kia Soul Salon Polska mo¿liwa Zamiana;2015;190000 km;;;Diesel;;;;38900.0;PLN;1600 cm33;[];;;;
+Infiniti QX30 Premium Sport 2018r. 2.0T 211KM.BLINIAK Mercedes GLA Przebieg 22ty;2018;25000 km;;;Petrol;;;;89900.0;PLN;1991 cm33;[];;;;
+Audi A5 Salon Polska;2012;304950 km;;;Petrol;;;;39990.0;PLN;1798 cm33;[];;;;
+Kia Stonic Polski Salon,  Serwis ASO, Bezwypadkowy , Gwarancja, FVAT 23%;2019;21417 km;;;Petrol;;;;62900.0;PLN;1368 cm33;[];;;;
+Volkswagen Multivan VW T6 highline 4x4 bitdi 204 KM 2xel przesuwane drzwi 7 osób kamera;2017;55000 km;;;Diesel;;;;238000.0;PLN;1968 cm33;[];;;;
+Triumph Daytona sprzedam fantastyczny motocykl Triumph Daytona 675 R stan idealny;2016;10000 km;;;;;;;42500.0;PLN;675 cm33;['Sport'];;;;
+BMW Seria 5 BMW 520xd, 1 w³. salon PL, katalogowa cena 350 tys z³, WEBASTO, vat23%;2018;72000 km;;;Diesel;;;;160000.0;PLN;1995 cm33;[];;;;
+Mini Cooper bezwypadkowy, sprawny;2005;145000 km;;;Petrol;;;;16000.0;PLN;1598 cm33;[];;;;
+Renault Megane ***121tys***BOSE***1/2 Skóra***KolorNavi**Op³acona***Gwarancja***;2012;121000 km;;;Petrol;;;;27700.0;PLN;1197 cm33;[];;;;
+Renault Megane **2.0Benzyna**180KM**Alu**Climatronic**Op³acona**Gwarancja**;2009;171000 km;;;Petrol;;;;22900.0;PLN;1998 cm33;[];;;;
+Mercedes-Benz Sprinter LONG  9 Osobowy nowa zabudowa;2018;178000 km;;;;;;;125000.0;PLN;2143 cm33;['Sprinter LONG '];;;;
+Peugeot partner  idealny 94 Tys Led Navi czujniki Brutto;2016;94000 km;;;;;;;34000.0;PLN;1600 cm33;['partner '];;;;
+Audi A3 1.9 TDI 105 km 5 drzwi, klima zarejestrowany;2007;360000 km;;;Diesel;;;;18999.0;PLN;1896 cm33;[];;;;
+Ford Mondeo;2016;100000 km;;;Diesel;;;;55000.0;PLN;1997 cm33;[];;;;
+Mercedes-Benz Klasa E Mercedes Klasa E W212 Coupe 350 CDI Blueefficienty 231km SALON PL;2009;205000 km;;;Diesel;;;;47500.0;PLN;2987 cm33;[];;;;
+Audi S7 Audi S7 2016 4,0 V8 BiTurbo 450KM, przebieg tylko 61000 km !!!;2016;62100 km;;;Petrol;;;;208000.0;PLN;4000 cm33;[];;;;
+Toyota Yaris sprzedaje prywatnie NAJWY¯SZA WERSJA podgrzewane fotele klima;2009;201065 km;;;Diesel;;;;12900.0;PLN;1364 cm33;[];;;;
+Renault Espace Renault Espace;2004;197000 km;;;Diesel;;;;5900.0;PLN;2188 cm33;[];;;;
+BMW Seria 4 430i Facelift Cabrio 1 575 km Sport;2018;1588 km;;;Petrol;;;;129999.0;PLN;1998 cm33;[];;;;
+Iveco STRALIS  Iveco Stralis HI WAY E6 460;2015;350000 km;;;;;;;105000.0;PLN;0;['STRALIS '];;;;
+Wacker Neuson WL55  £adowarka ko³owa WACKER NEUSON WL55;2008;0;;;;;;;70000.0;PLN;0;[];;;;
+BMW Seria 3 BMW 330i F30 M Pakiet 328i 320i;2017;43000 km;;;Petrol;;;;81900.0;PLN;1998 cm33;[];;;;
+Toyota RAV4 2,2 D4D 150KM 4x4, pe³na elektryka, 2 kpl. opon zima/lato;2013;81420 km;;;Diesel;;;;56900.0;PLN;2231 cm33;[];;;;
+Jeep Renegade WYPRZEDA¯ *2019* Limited 120KM M6 *Srebrny* Promocja;2019;3 km;;;Petrol;;;;74680.0;PLN;999 cm33;[];;;;
+Jeep Wrangler 2019' SAHARA 200KM MJD 8AT 4x4 FullTime *Czarna* SUPER;2019;5 km;;;Diesel;;;;219900.0;PLN;2143 cm33;[];;;;
+Jeep Compass WYPRZEDA¯ *liczny Limited 140KM 1,4 MAir 6 Manualna 2019 * !!!;2019;6 km;;;Petrol;;;;99425.0;PLN;1368 cm33;[];;;;
+Saab 9-3 Saab 9 3 1.9TiDS Vector 2005;2005;318000 km;;;Diesel;;;;9900.0;PLN;1910 cm33;[];;;;
+Volkswagen T-Roc Advance 2.0 TSI 190 KM, 4 Motion, dosotepny od reki !;2020;1 km;;;Petrol;;;;127900.0;PLN;1984 cm33;[];;;;
+BMW 7 oryginalne ko³a;0;0;;;;;;;4500.0;PLN;0;['BMW', 'Ko³a'];;;;
+Case IH CT5080  Pierwszy w³aciciel / Bardzo dobry stan / W trakcie pracy!;2003;0;;;;;;;145000.0;PLN;0;[];;;;
+Mercedes-Benz Klasa E 220d 4MATIC All Terrain (194KM) Pojazd Demonstracyjny AKCJA SPECJALNA;2019;13200 km;;;Diesel;;;;285749.0;PLN;1950 cm33;[];;;;
+VW GOLF 4 IV czarne reflektory lampy przednie prawa lewa TUNING 1997-2003 EUROPEJSKIE;0;0;;;;;;;259.0;PLN;0;['Volkswagen', 'Nadwozie i owietlenie'];;;;
+Mercedes-Benz GLC 63 S AMG 4MATIC+ Coupe FL (510KM);2019;5 km;;;Petrol;;;;434333.0;PLN;3982 cm33;[];;;;
+Ford Explorer III XLT 4.0 V6 BENZYNA 210KM Automat II.w³aciciel 7osób HAK;2004;124963 km;;;Petrol;;;;21950.0;PLN;4015 cm33;[];;;;
+Mercedes-Benz GLE 400d 4MATIC (330 KM) Wyprzeda¿ 2019! Promocyjny Leasing 101%;2019;10 km;;;Diesel;;;;492000.0;PLN;2925 cm33;[];;;;
+Mercedes-Benz CLS 53 AMG 4MATIC (435KM) Wyprzeda¿ rocznika 2019! Promocyjny Leasing 100%;2019;10 km;;;Petrol;;;;477000.0;PLN;2996 cm33;[];;;;
+Mercedes-Benz GLC 250 4MATIC 9G Tronic (211 KM) Samochód demonstracyjny!;2019;12000 km;;;Petrol;;;;227000.0;PLN;1991 cm33;[];;;;
+Mercedes-Benz Klasa C 200 4Matic 9G Tronic (184KM), Samochód demonstracyjny;2019;10622 km;;;Petrol;;;;175455.0;PLN;1497 cm33;[];;;;
+Mercedes-Benz GLC 250 4Matic Coupe 9G Tronic (211KM) Promocyjny leasing 101%!;2019;10 km;;;Petrol;;;;249500.0;PLN;1991 cm33;[];;;;
+Mercedes-Benz Klasa B 200d 8G DCT (150KM) Samochód demonstracyjny AKCJA SPECJALNA;2019;13500 km;;;Diesel;;;;136451.0;PLN;1950 cm33;[];;;;
+Mercedes-Benz GLC GLB 200d 4Matic 8G DCT (150KM) Samochód demonstracyjny!;2019;5 km;;;Diesel;;;;226000.0;PLN;1950 cm33;[];;;;
+Mercedes-Benz Klasa B 180 7G DCT (136KM) Promocyjny Leasing 101%! B klasa taniej o VAT!!!;2019;5 km;;;Petrol;;;;117000.0;PLN;1332 cm33;[];;;;
+Mercedes-Benz GLC 63 AMG S Coupe 9G Tronic (510KM) Promocyjny Leasing 101%!;2019;10 km;;;Petrol;;;;445000.0;PLN;3982 cm33;[];;;;
+Mercedes-Benz GLE 350d 4Matic 9G Tronic (272KM) Promocyjny leasing 100%!;2019;5 km;;;Diesel;;;;364500.0;PLN;2925 cm33;[];;;;
+"Mercedes-Benz Klasa B ""Promocyjny leasing 101%""";2019;5 km;;;Petrol;;;;128800.0;PLN;1332 cm33;[];;;;
+Mercedes-Benz Klasa B 180d 7G DCT (116KM) Wyprzeda¿ 2019 Leasing 100%;2019;1 km;;;Petrol;;;;127317.0;PLN;1461 cm33;[];;;;
+Mercedes-Benz Klasa B Promocyjny Leasing 100%, Wyprzeda¿ 2019!;2019;5 km;;;Diesel;;;;126867.0;PLN;1494 cm33;[];;;;
+Mercedes-Benz Klasa B 180d 7G DCT (116KM) Wyprzeda¿ 2019 lub 1% Majówka!;2019;10 km;;;Diesel;;;;127453.0;PLN;1461 cm33;[];;;;
+Mercedes-Benz Klasa B 180d 7G DCT (116KM) Wyprzeda¿ 2019;2019;5 km;;;Diesel;;;;125526.0;PLN;1461 cm33;[];;;;
+BMW M5 Alpina B5 E60 SUPERCHARGED nr 204/428 OKAZJA!!!;2006;60500 km;;;Petrol;;;;159900.0;PLN;4400 cm33;[];;;;
+Mercedes-Benz GLE GLE450 SUV 4Matic, Promocyjny leasing 100%!;2019;5 km;;;Petrol;;;;414125.0;PLN;2999 cm33;[];;;;
+Mercedes-Benz CLA CLA200 Shooting Brake,Promocyjny Leasing 100%, Wyprzeda¿ w ASO;2019;163 km;;;Petrol;;;;146600.0;PLN;1332 cm33;[];;;;
+Mercedes-Benz GLC GLC 63s AMG, 510KM, Promocyjny Leasing 101%;2019;1 km;;;Petrol;;;;444792.0;PLN;3982 cm33;[];;;;
+Mercedes-Benz Klasa C Mercedes C200 4Matic, demo dealera, AKCJA SPECJALNA;2019;11500 km;;;Petrol;;;;207530.0;PLN;1497 cm33;[];;;;
+Mercedes-Benz GLS GLS350d, demo dealera, AKCJA SPECJALNA;2019;9900 km;;;Diesel;;;;371387.0;PLN;2987 cm33;[];;;;
+Mercedes-Benz Klasa E E400d Coupe 4Matic, Nowy Rocznik 2020!;2020;5 km;;;Diesel;;;;421600.0;PLN;2925 cm33;[];;;;
+Väderstad Carrier 650  Brona talerzowa Vaderstad Carrier 650;1900;0;;;;;;;42000.0;PLN;0;[];;;;
+Alfa Romeo Giulia GIULIA 2,0 280 KM AT8 Q4 Veloce nowa Seria 2020.;2019;1 km;;;Petrol;;;;199900.0;PLN;1995 cm33;[];;;;
+Skuter Elektryczny EcoScooty City 1.5 z homologacj¹ EU;2020;1 km;;;;;;;3999.0;PLN;0;['Touring'];;;;
+MAZDA 6 II GH LIFT lampa LEWA XENON Z PRZETWORNIC¥ KOMPLET 08-12 EU! Ksenon!;0;0;;;;;;;350.0;PLN;0;['Mazda', 'Nadwozie i owietlenie'];;;;
+Case 888  Koparka ko³owa Case 888;1900;0;;;;;;;32500.0;PLN;0;[];;;;
+Fiat 500X CROSS 1.0 120KM RP2020;2020;1 km;;;Petrol;;;;84550.0;PLN;999 cm33;[];;;;
+Mercedes-Benz GLC AMG 63S coupe *cesja leasing 24 miesi¹ce* folia, pow³oka, gw. 4 lata;2019;9500 km;;;Petrol;;;;399000.0;PLN;3982 cm33;[];;;;
+Renault Master 2.3 Dci Maxi Skrzynia DOKA 7 Osobowy TYLKO 55 tys km  Master 2.3 Dci Maxi Skrzynia 7 Osobowy TYLKO 55 tys km;2015;55123 km;;;;;;;44900.0;PLN;2300 cm33;['Master 2.3 Dci Maxi Skrzynia DOKA 7 Osobowy TYLKO 55 tys km '];;;;
+koda Citigo iV Wersja FULL OD RÊKI ***CESJA leasingu*** GWARANCJA 4 lata;2019;2200 km;;;;;;;79000.0;PLN;0;['EV'];;;;
+Audi A8 O skrêtna pakiet skórzany pakiet chrom pojedyncze fotele;2018;51195 km;;;Petrol;;;;344900.0;PLN;2995 cm33;[];;;;
+Suzuki Marauder Zadbany. Przepiêkny. Marauder.;2000;28700 km;;;;;;;14900.0;PLN;805 cm33;['Chopper'];;;;
+Kia Sportage Kia Sportage 2.0 CRDI 140 KM 4x4 serwis ASO GWARANCJA;2009;165666 km;;;Diesel;;;;22666.0;PLN;1995 cm33;[];;;;
+Chevrolet Captiva 7 osób Salon Polska 1 w³ nawigacja kupiona w 2014 automat;2014;107000 km;;;Diesel;;;;45500.0;PLN;2231 cm33;[];;;;
+Citroën Jumpy Combi faktura VAT marza;2017;56000 km;;;Diesel;;;;45000.0;PLN;0;[];;;;
+Volkswagen Polo faktura VAT marza;2015;106000 km;;;Diesel;;;;27800.0;PLN;0;[];;;;
+LAND ROVER FREELANDER I REFLEKTORY PRAWY i LEWY WERSJA EU 1997-2006;0;0;;;;;;;350.0;PLN;0;['Land Rover', 'Nadwozie i owietlenie'];;;;
+Iveco Daily 35c17  Doka 7 osobowy webasto 170 KM Faktura VAT Polecam;2011;306000 km;;;;;;;40000.0;PLN;2998 cm33;['Daily 35c17 '];;;;
+Schaffer 5058z  £adowarka schaffer 5058Z;2011;0;;;;;;;67500.0;PLN;0;[];;;;
+BMW Seria 4 bmw 430i x drive, Salon PL;2016;92000 km;;;Petrol;;;;112000.0;PLN;1999 cm33;[];;;;
+Fiat Bravo Fiat bravo, gaz zamontowany W 08/2017 WA¯NA HOMOL. KLIMA OKAZJA Polska;2009;159492 km;;;Petrol+LPG;;;;15900.0;PLN;1368 cm33;[];;;;
+BMW Seria 3 Zamiana E30 2.8 N52B28 Zbudowana od podstaw, szpera p³ytkowa;1988;1000 km;;;Petrol;;;;20999.0;PLN;2494 cm33;[];;;;
+Opel Vectra Lift 2.0 TURBO 175PS GTS Xenon Skóra Klima alu ZOBACZ!!!;2007;235000 km;;;Petrol;;;;15900.0;PLN;1998 cm33;[];;;;
+Wiola  Przyczepa burtowa, ciê¿arowa;2015;0;;;;;;;8300.0;PLN;0;[];;;;
+BMW Seria 5 2015r.525d xDrive 218kM Automat Panorama Hak Salon Pl FV 23% I Rêka;2015;200000 km;;;Diesel;;;;68888.0;PLN;1995 cm33;[];;;;
+Nissan Qashqai 1.6 Benzyna! Nawigacja !Bezwypadkowy!Manual! Serwis ASO! Op³acony!;2011;169000 km;;;Petrol;;;;33900.0;PLN;1600 cm33;[];;;;
+Chrysler 200 CABRIO COUPE, 3.6 benzyna, Limited, 100% oryginalny przebieg!!;2013;11000 km;;;Petrol;;;;54999.0;PLN;3604 cm33;[];;;;
+Audi Q3 AudiQ3/salonPL/model2012/cena brutto/faktura VAT23% bezpor.od w³acic;2011;263000 km;;;Petrol;;;;47074.0;PLN;1984 cm33;[];;;;
+JCB 436 HT 426  caterpillar 924k 930 hitachi lx170 na PE£NE KO£A do recyklingu;2002;0;;;;;;;84000.0;PLN;0;[];;;;
+Doosan DX300LC 2013 dx 300 LC-3  Leasing 103% jak 30 ton volvo ec300 , cat 329 ,;2013;0;;;;;;;299000.0;PLN;0;[];;;;
+Doosan Dx140 2014 rok 14 ton 220 dx  Volvo ec 140 lub 160 Hyundai Robex 140 jcb 130 caterpillar;2014;0;;;;;;;177000.0;PLN;0;[];;;;
+Caterpillar 950K  G H M 20 Ton  2013rok , 966 938 Pe³ne ko³a Recykling 928 966 jak 972 962 lub 980 930;2013;0;;;;;;;298000.0;PLN;0;[];;;;
+Doosan DX225LC DX 225 LC  22 Tony  2014 rok ,Leasing 103 % dx 225 LC 255 Hyundai 220 235 HITACHI 210;2014;0;;;;;;;257000.0;PLN;0;[];;;;
+Terex TW130 LONG max 2008 tw 130 ATLAS NOWY SILNIK  1505 D³ugie 1305 komatsu pw TW 150 110;2008;0;;;;;;;169000.0;PLN;0;[];;;;
+Komatsu PC 210LC 2014 rok PC210 LC  GWARANCJA volvo LC 210 220 lub 240 20 ton;2014;0;;;;;;;299999.0;PLN;0;[];;;;
+koda Octavia Laurin & Klement #LED #Panorama #2.0TDI 150KM;2015;211272 km;;;Diesel;;;;42500.0;PLN;1980 cm33;[];;;;
+Kia Pro_cee'd Niski przebieg! Piêkna!;2013;75000 km;;;Diesel;;;;32999.0;PLN;1582 cm33;[];;;;
+MAN TGA 32.360 / 6x4 / Hydroburta / Manual  Stan bardzo dobry;2007;279000 km;;;;;;;139600.0;PLN;0;['TGA 32.360 / 6x4 / Hydroburta / Manual '];;;;
+BMW Seria 3 Sprzedam bmw 335xd;2013;81500 km;;;Diesel;;;;98000.0;PLN;2993 cm33;[];;;;
+Mercedes-Benz Klasa C C 180 Avangarde;2014;42410 km;;;Petrol;;;;72900.0;PLN;1595 cm33;[];;;;
+Carnehl;1997;0;;;;;;;53500.0;PLN;0;[];;;;
+koda Octavia II FL 2010/2011 r. 144 tys. km Salon PL;2010;144000 km;;;Petrol;;;;19500.0;PLN;1197 cm33;[];;;;
+Renault Scenic LIFT#rozrz¹d wymieniony#nowe klocki#godny polecenia#bez wk³adu;2006;199815 km;;;Petrol+LPG;;;;13900.0;PLN;1598 cm33;[];;;;
+Audi Q5 Audi Q5 salon Polska;2014;121000 km;;;Diesel;;;;89000.0;PLN;2000 cm33;[];;;;
+Fiat Ducato Maxi Furgon L4H3 2,3 140 KM 17 M3  Nowy Fiat Ducato Maxi Furgon L4H2 2.3 140 KM Doposa¿ony !;2020;1 km;;;;;;;78100.0;PLN;2300 cm33;['Ducato Maxi Furgon L4H3 2,3 140 KM 17 M3 '];;;;
+Fiat Ducato L3H2 2.3 140 KM  Nowy Fiat Ducato Furgon L3H2 2.3 140 KM Doposa¿ony !;2020;1 km;;;;;;;75900.0;PLN;2300 cm33;['Ducato L3H2 2.3 140 KM '];;;;
+Renault Laguna;2011;141000 km;;;Petrol;;;;29000.0;PLN;1997 cm33;[];;;;
+Volvo XC 60 2,4D/4x4/Ocean Race/Polestar220KM/PL/sprzeda¿ lub CESJA Leasingu;2016;192000 km;;;Diesel;;;;7217642.0;PLN;2400 cm33;[];;;;
+Fiat Ducato Maxi Furgon L4H2 2,3 140 KM  Nowy Fiat Ducato Maxi Furgon L4H2 2.3 140 KM Doposa¿ony !;2020;1 km;;;;;;;77900.0;PLN;2300 cm33;['Ducato Maxi Furgon L4H2 2,3 140 KM '];;;;
+Citroën Berlingo  G W A R A N C J A, doskona³y.;2013;169000 km;;;;;;;14670.0;PLN;0;['Berlingo '];;;;
+Fiat Punto Evo G W A R A N C J A, Rejestracja 04.2011, NOWY ROZRZ¥D.;2010;146000 km;;;Diesel;;;;12800.0;PLN;1248 cm33;[];;;;
+Audi A3 £ADNE, klima, Asystent parkowania, 2 komplety kó³.;2010;206000 km;;;Diesel;;;;23800.0;PLN;1598 cm33;[];;;;
+Mazda 3 BN 2017r. 2.5 Grand Touring 18tys km Najbogatsza wersja Stan idealny;2017;18218 km;;;Petrol;;;;66999.0;PLN;2500 cm33;[];;;;
+Ford Focus wygodny, ekonomiczny, G W A R A N C J A.;2015;132000 km;;;Petrol;;;;34850.0;PLN;999 cm33;[];;;;
+Volvo EC 55;2011;0;;;;;;;10400.0;PLN;0;[];;;;
+Massey Ferguson 6475;2008;0;;;;;;;13600.0;PLN;0;[];;;;
+JCB 3CX Sitemaster 4x4;2010;0;;;;;;;12500.0;PLN;0;[];;;;
+Claas FAHR AGROTRON M620;2012;0;;;;;;;17200.0;PLN;0;[];;;;
+Takeuchi TB 235;2008;0;;;;;;;9800.0;PLN;0;[];;;;
+John Deere 7920;2005;0;;;;;;;11600.0;PLN;0;[];;;;
+Komatsu SK1020;2007;0;;;;;;;7500.0;PLN;0;[];;;;
+Caterpillar 262C;2011;0;;;;;;;12000.0;PLN;0;[];;;;
+JCB 3CX ECO;2010;0;;;;;;;14500.0;PLN;0;[];;;;
+Claas FAHR AGROTRON M620;2012;0;;;;;;;17200.0;PLN;0;[];;;;
+Claas FAHR AGROTRON M615;2011;0;;;;;;;18400.0;PLN;0;[];;;;
+Claas ARION 630 CEBIS;2013;0;;;;;;;15400.0;PLN;0;[];;;;
+Hyundai Robex 140W-7A;2007;0;;;;;;;15600.0;PLN;0;[];;;;
+Caterpillar M318C;2005;0;;;;;;;13500.0;PLN;0;[];;;;
+JCB 535-140;2014;0;;;;;;;14500.0;PLN;0;[];;;;
+John Deere 6170M;2014;0;;;;;;;23000.0;PLN;0;[];;;;
+Caterpillar 272C;2008;0;;;;;;;9300.0;PLN;0;[];;;;
+Manitou MLT 627 TURBO;2010;0;;;;;;;12000.0;PLN;0;[];;;;
+Bobcat E26 EM;2015;0;;;;;;;9200.0;PLN;0;[];;;;
+Claas AXION 830;2015;0;;;;;;;30000.0;PLN;0;[];;;;
+Claas FAHR AGROTRON M410;2012;0;;;;;;;15800.0;PLN;0;[];;;;
+JCB 531-70;2011;0;;;;;;;13800.0;PLN;0;[];;;;
+JCB 416HT;2007;0;;;;;;;12600.0;PLN;0;[];;;;
+John Deere 6930;2008;0;;;;;;;16500.0;PLN;0;[];;;;
+John Deere 7920;2006;0;;;;;;;17000.0;PLN;0;[];;;;
+Volvo ECR 88;2011;0;;;;;;;12100.0;PLN;0;[];;;;
+Case IH JXU 105;2009;0;;;;;;;9300.0;PLN;0;[];;;;
+Massey Ferguson 7626;2014;0;;;;;;;21000.0;PLN;0;[];;;;
+JCB 3CX Contractor Easycontrol;2013;0;;;;;;;16400.0;PLN;0;[];;;;
+Manitou MT 1337SLT;2000;0;;;;;;;8000.0;PLN;0;[];;;;
+Volvo L150E;2004;0;;;;;;;14500.0;PLN;0;[];;;;
+Kubota KX 61;2004;0;;;;;;;7000.0;PLN;0;[];;;;
+Caterpillar 320 BL;1998;0;;;;;;;12100.0;PLN;0;[];;;;
+McCormick X70.70;2013;0;;;;;;;15200.0;PLN;0;[];;;;
+Caterpillar 325BL;2000;0;;;;;;;13200.0;PLN;0;[];;;;
+Merlo P 38.13;2013;0;;;;;;;14200.0;PLN;0;[];;;;
+New Holland T7.185;2012;0;;;;;;;19200.0;PLN;0;[];;;;
+Volvo EC210CL;2010;0;;;;;;;14500.0;PLN;0;[];;;;
+Caterpillar IT38G;2006;0;;;;;;;11500.0;PLN;0;[];;;;
+Volvo EW 140 B;2005;0;;;;;;;12800.0;PLN;0;[];;;;
+Bobcat E 45;2014;0;;;;;;;12200.0;PLN;0;[];;;;
+JCB FASTRAC 2170 Plus;2007;0;;;;;;;13800.0;PLN;0;[];;;;
+Massey Ferguson 6290;2002;0;;;;;;;10600.0;PLN;0;[];;;;
+Volvo MC90B;2006;0;;;;;;;6000.0;PLN;0;[];;;;
+Fendt 712;2001;0;;;;;;;10800.0;PLN;0;[];;;;
+Bobcat S250;2010;0;;;;;;;12600.0;PLN;0;[];;;;
+Volvo L 90 E;2006;0;;;;;;;14600.0;PLN;0;[];;;;
+Bobcat S185;2008;0;;;;;;;9200.0;PLN;0;[];;;;
+New Holland TS 125 A;2004;0;;;;;;;12200.0;PLN;0;[];;;;
+Bobcat S250;2010;0;;;;;;;12600.0;PLN;0;[];;;;
+Bobcat 950K;2013;0;;;;;;;28000.0;PLN;0;[];;;;
+Hitachi ZX210LC-3;2007;0;;;;;;;16500.0;PLN;0;[];;;;
+Komatsu WB93R;2006;0;;;;;;;10800.0;PLN;0;[];;;;
+Bomag BW138AD-5;2013;0;;;;;;;12300.0;PLN;0;[];;;;
+JCB 531-70;2010;0;;;;;;;11800.0;PLN;0;[];;;;
+JCB 524-50;2009;0;;;;;;;9000.0;PLN;0;[];;;;
+Manitou MLT 523;2010;0;;;;;;;12500.0;PLN;0;[];;;;
+Volvo EW180C;2007;0;;;;;;;13800.0;PLN;0;[];;;;
+Komatsu PC350LC-8;2010;0;;;;;;;16200.0;PLN;0;[];;;;
+Caterpillar 312E;2012;0;;;;;;;24000.0;PLN;0;[];;;;
+JCB 515-40;2010;0;;;;;;;7000.0;PLN;0;[];;;;
+JCB 4CX;2007;0;;;;;;;13200.0;PLN;0;[];;;;
+Case IH MXU 135;2005;0;;;;;;;12500.0;PLN;0;[];;;;
+Atlas 160W;2012;0;;;;;;;18200.0;PLN;0;[];;;;
+Hitachi ZX130LCN;2016;0;;;;;;;14000.0;PLN;0;[];;;;
+Caterpillar 432E EVOLUTION;2009;0;;;;;;;12800.0;PLN;0;[];;;;
+Volvo BL70;2008;0;;;;;;;14000.0;PLN;0;[];;;;
+JCB 3CX CONTRACTOR;2007;0;;;;;;;13790.0;PLN;0;[];;;;
+Case IH JX95 4WD;2007;0;;;;;;;9500.0;PLN;0;[];;;;
+JCB 8045 ZTS;2007;0;;;;;;;11200.0;PLN;0;[];;;;
+Caterpillar 140H;2007;0;;;;;;;16800.0;PLN;0;[];;;;
+JCB 520-50;2007;0;;;;;;;7800.0;PLN;0;[];;;;
+Caterpillar 303.5CCR;2010;0;;;;;;;12500.0;PLN;0;[];;;;
+JCB 8055 RTS;2008;0;;;;;;;10900.0;PLN;0;[];;;;
+Terex TX760B;2007;0;;;;;;;11700.0;PLN;0;[];;;;
+Komatsu PC228USL;2007;0;;;;;;;18500.0;PLN;0;[];;;;
+Manitou MT1235S;2006;0;;;;;;;10800.0;PLN;0;[];;;;
+Hyundai Robex 145 LCR-9;2012;0;;;;;;;15300.0;PLN;0;[];;;;
+JCB 3 CX Eco;2011;0;;;;;;;15400.0;PLN;0;[];;;;
+New Holland TM 155;2003;0;;;;;;;9200.0;PLN;0;[];;;;
+Caterpillar 938G;1998;0;;;;;;;16400.0;PLN;0;[];;;;
+New Holland TS135A;2005;0;;;;;;;11200.0;PLN;0;[];;;;
+Hitachi ZX 170;2008;0;;;;;;;16400.0;PLN;0;[];;;;
+Massey Ferguson 5455;2008;0;;;;;;;12800.0;PLN;0;[];;;;
+JCB 2CX;2011;0;;;;;;;12000.0;PLN;0;[];;;;
+Case IH MAXXUM 125;2010;0;;;;;;;14000.0;PLN;0;[];;;;
+Caterpillar 308E2CR;2014;0;;;;;;;18900.0;PLN;0;[];;;;
+Fendt Favorit 515 C;2000;0;;;;;;;9500.0;PLN;0;[];;;;
+Caterpillar 257D;2016;0;;;;;;;16500.0;PLN;0;[];;;;
+Caterpillar 938G;1998;0;;;;;;;16400.0;PLN;0;[];;;;
+Hyundai ROBEX 55W-9;2012;0;;;;;;;13500.0;PLN;0;[];;;;
+Manitou MLT940-120H LSU;2011;0;;;;;;;19000.0;PLN;0;[];;;;
+Volvo ECR145DL;2013;0;;;;;;;25000.0;PLN;0;[];;;;
+Case IH FARMALL 105U;2009;0;;;;;;;12600.0;PLN;0;[];;;;
+Hamm GRW280-16;2010;0;;;;;;;18500.0;PLN;0;[];;;;
+Bobcat 425;2008;0;;;;;;;9500.0;PLN;0;[];;;;
+Massey Ferguson 5455;2007;0;;;;;;;10600.0;PLN;0;[];;;;
+Caterpillar 226 B;2005;0;;;;;;;7800.0;PLN;0;[];;;;
+Kobelco SK35SR-5;2009;0;;;;;;;7200.0;PLN;0;[];;;;
+Caterpillar 320C LU;2002;0;;;;;;;14600.0;PLN;0;[];;;;
+Caterpillar 906;2005;0;;;;;;;9800.0;PLN;0;[];;;;
+Kubota KX057-4;2014;0;;;;;;;16400.0;PLN;0;[];;;;
+JCB 409;2014;0;;;;;;;13500.0;PLN;0;[];;;;
+Komatsu PC78MR-6;2004;0;;;;;;;9500.0;PLN;0;[];;;;
+Komatsu PC80 MR-3;2010;0;;;;;;;15000.0;PLN;0;[];;;;
+Caterpillar 907H;2008;0;;;;;;;13000.0;PLN;0;[];;;;
+Kubota KX080;2014;0;;;;;;;18500.0;PLN;0;[];;;;
+Hitachi ZX30U-2;2008;0;;;;;;;9900.0;PLN;0;[];;;;
+Komatsu WA480-6;2011;0;;;;;;;18000.0;PLN;0;[];;;;
+Manitou 160ATJ;2007;0;;;;;;;9000.0;PLN;0;[];;;;
+Komatsu PC26MR-3;2012;0;;;;;;;9300.0;PLN;0;[];;;;
+Bomag BW174AD 4;2006;0;;;;;;;10500.0;PLN;0;[];;;;
+Bomag BW177D-4;2008;0;;;;;;;18900.0;PLN;0;[];;;;
+Honda FR-V 1.8 VTec 140KM Orygina³ Bez KOROZJI! SERWIS! OKAZJA!!!;2007;217000 km;;;Petrol;;;;25500.0;PLN;1799 cm33;[];;;;
+Honda Civic Honda Civic VIII sedan;2007;441472 km;;;Petrol;;;;10000.0;PLN;1799 cm33;[];;;;
+Ford Kuga 1.5 EcoBoost, 182km 4WD Titanium Plus;2015;108600 km;;;Petrol;;;;69900.0;PLN;1499 cm33;[];;;;
+Mercedes-Benz Atego  Sprzedam Samochód Pomocy Drogowej Osobowe i Busy;2013;261570 km;;;;;;;220000.0;PLN;7201 cm33;['Atego '];;;;
+Audi A3 Sprzedam Audi A3 2.0TDI 11.2006.Auto bardzo zadbane;2006;301000 km;;;Diesel;;;;14900.0;PLN;1968 cm33;[];;;;
+BMW Seria 5 F11 525d xDrive TwinTurbo 218KM KeyLess. Navi Prof. Efficient Dynamics;2012;221000 km;;;Diesel;;;;58500.0;PLN;1995 cm33;[];;;;
+Audi RS7 Audi RS7 B&O Google Maps Doci¹gi drzwi APR;2016;70000 km;;;Petrol;;;;249000.0;PLN;3993 cm33;[];;;;
+koda Superb Skoda Superb Salon Polska, 2,0 TDI 4X4, webasto;2015;154000 km;;;Diesel;;;;55000.0;PLN;1968 cm33;[];;;;
+Audi A5 Sportback S line 2.0 TFSI quattro 245 KM S tronic Dealer;2020;10 km;;;Petrol;;;;288297.0;PLN;1984 cm33;[];;;;
+Volvo C30 G W A R A N C J A, Niepospolite, P I Ê K N E, Oszczêdne;2012;108000 km;;;Diesel;;;;29800.0;PLN;1560 cm33;[];;;;
+BMW Seria 5 Bmw G31 520d Xdrive M Sport Touring 190km..2018R Alpine White;2018;72000 km;;;Diesel;;;;168500.0;PLN;1995 cm33;[];;;;
+Lexus LS 600h, bia³a per³a, oryginalny przebieg;2007;181828 km;;;;;;;59999.0;PLN;4969 cm33;['Hybrid'];;;;
+Mercedes-Benz 41.41  Mercedes Actros Betonomieszarka LIEBHERR 9m3, Kiper Skibniewski 13m3;2004;550410 km;;;;;;;165000.0;PLN;0;['41.41 '];;;;
+BMW Seria 3 318i Touring doinwestowany, prywatnie;2008;252000 km;;;Petrol;;;;23500.0;PLN;1995 cm33;[];;;;
+Lamborghini Aventador Lamborghini Aventador LP700 4;2013;60400 km;;;Petrol;;;;849000.0;PLN;6498 cm33;[];;;;
+Citroën Jumper  163KM L4H2 /1 wl /Bezwypadkowy/ Gwarancja fabryczna /Leasing / F-Vat;2019;14126 km;;;;;;;69900.0;PLN;1997 cm33;['Jumper '];;;;
+BMW Seria 6 BMW 6 Gran Coupe 650I X Drive M Pakiet Face Lifting.;2016;46000 km;;;Petrol;;;;233000.0;PLN;4400 cm33;[];;;;
+Volkswagen Golf 1.6 TDI 115 KM Comfortline Faktura VAT Gwarancja;2017;149355 km;;;Diesel;;;;51900.0;PLN;1598 cm33;[];;;;
+Mercedes-Benz Klasa B Skrzynia automatyczna CVT, chipowany 158km, serwisowany;2007;253500 km;;;Diesel;;;;19900.0;PLN;1992 cm33;[];;;;
+Volkswagen Polo VW POLO 6R 2010r. 1.2 TSI 105KM;2010;182600 km;;;Petrol;;;;21500.0;PLN;1197 cm33;[];;;;
+koda Fabia Bardzo ³adna FABIA,bezwypadkowy,1 wszy w³aciciel ,Salon Polska;2005;238000 km;;;Petrol;;;;7200.0;PLN;1198 cm33;[];;;;
+Land Rover Discovery Land Rover III 2008 Oryginalny Przebieg Bezwypadkowy 7 osobowy, Hak;2008;291000 km;;;Diesel;;;;55000.0;PLN;2720 cm33;[];;;;
+Mercedes-Benz Klasa S Sprzedam liczn¹ S63 , niski przebieg;2008;150000 km;;;Petrol;;;;90000.0;PLN;6208 cm33;[];;;;
+BMW Seria 1 Bezwypadkowy, Stan idealny, 1 w³aciciel, Salon polska;2016;109183 km;;;Diesel;;;;80000.0;PLN;1995 cm33;[];;;;
+Laverda M306  Pierwszy w³aciciel / Bardzo dobry stan / W trakcie pracy!;2003;0;;;;;;;169000.0;PLN;0;[];;;;
+BMW X5 2,5d XDRIVE BEZWYPADKOWY, SALON ,M PAKIET pierwszy w³aciel, serwis ,;2015;178500 km;;;Diesel;;;;127000.0;PLN;2000 cm33;[];;;;
+Audi A6 4x4 Skóra Navi Fakt.Vat 23%;2013;153000 km;;;Petrol;;;;53900.0;PLN;1984 cm33;[];;;;
+SsangYong REXTON REXTON, 4x4, wersja 7 miejscowa, salon Polska;2014;125000 km;;;Diesel;;;;58000.0;PLN;1998 cm33;[];;;;
+Volvo V70 S+V70 dla mi³oników marki;2006;245000 km;;;Petrol;;;;13200.0;PLN;2435 cm33;[];;;;
+Toyota Corolla Comfort+Tech 1.2 T 116km 2019r Kamera Asystent Park. Salon Plolska!!!;2019;7400 km;;;Petrol;;;;58900.0;PLN;1197 cm33;[];;;;
+MG MGB GT oryginalny z 1967 roku po glebokiej profesjonalnej renowacji!;1967;55800 km;;;Petrol;;;;57000.0;PLN;1800 cm33;[];;;;
+koda Octavia Skoda Octavia led ksenon vat 23;2016;159000 km;;;Diesel;;;;49900.0;PLN;1986 cm33;[];;;;
+Audi A3 Wyj¹tkowy kabriolet;2018;22000 km;;;Petrol;;;;119000.0;PLN;2000 cm33;[];;;;
+Citroen Peugeot FABRYCZNIE NOWE Radio CD Siemens 96624490XT, PSARCD411-52;0;0;;;;;;;149.0;PLN;0;['Citroën', 'Uk³ad elektryczny i audio'];;;;
+BMW X5 Pierwszy w³aciciel, krajowy, 3.0D XDrive, osoba prywatna, 75tys km;2014;75000 km;;;Diesel;;;;148000.0;PLN;3000 cm33;[];;;;
+Audi S4;2017;52600 km;;;Petrol;;;;176900.0;PLN;0;[];;;;
+Renault Talisman 160kM prywatnie full led radar automat masa¿e du¿y monitor;2016;163959 km;;;Diesel;;;;49800.0;PLN;1598 cm33;[];;;;
+Mini Clubman Mini Clubman Pierwszy Wlasciciel;2017;59000 km;;;Petrol;;;;59000.0;PLN;1499 cm33;[];;;;
+koda Superb stan idealny, pierwszy w³aciciel;2019;39000 km;;;Diesel;;;;75741.0;PLN;1968 cm33;[];;;;
+Volvo V70 super stan, bogate wyposa¿enie;2013;500000 km;;;Diesel;;;;24000.0;PLN;1560 cm33;[];;;;
+TMT Ruchoma pod³oga 92m3 Pod³oga 10 mm 2019 rok  Mo¿liwy Wynajem;2019;0;;;;;;;194000.0;PLN;0;[];;;;
+Ford Ranchero Amazing Ford Ranchero GT 1977;1977;43690 km;;;Petrol;;;;132999.0;PLN;6600 cm33;[];;;;
+Opel ORYGINALNE dekielki dekle komplet 4 szt 09223038HX;0;0;;;;;;;55.0;PLN;0;['Opel', 'Akcesoria'];;;;
+Porsche Cayenne Porsche Cayenne 3,0 340KM;2019;9960 km;;;Petrol;;;;368000.0;PLN;2995 cm33;[];;;;
+BMW Seria 5 BMW 520i (F10) Extra Prywatna Oferta !!!;2014;200000 km;;;Petrol;;;;66000.0;PLN;1997 cm33;[];;;;
+BMW 1M E82 coupe 426KM, 604Nm, bardzo szybkie, osoba prv, baza 135i;2009;123189 km;;;Petrol;;;;60000.0;PLN;2979 cm33;[];;;;
+Audi S6 AUDI S6 2017 4.0TFSI 450km;2017;46000 km;;;Petrol;;;;186999.0;PLN;3999 cm33;[];;;;
+Goldhofer NACZEPA D£U¯YCA ROZCI¥GANA DO 39m 4-OSIE BPW 2005r  Platforma D³u¿yca Rozci¹gana 4 Osie BPW 2005r;2005;0;;;;;;;112000.0;PLN;0;[];;;;
+Opel Corsa 1.0 12V Szyberdach , Alufelgi , Zadbany !!!;2000;204200 km;;;Petrol;;;;1950.0;PLN;973 cm33;[];;;;
+Kia Stonic 1.0 T GDI 120 KM, manual, Wersja XL + Pakiet Bezpieczeñstwa;2019;990 km;;;Petrol;;;;77900.0;PLN;998 cm33;[];;;;
+Ford EDGE 2.0TDCi 210KM*SPORT*Radary*Panorama*AWD*Full Led*Pe³en Serwis ASO*;2016;198890 km;;;Diesel;;;;89900.0;PLN;1997 cm33;[];;;;
+Maserati Levante Maserati Levante! SALON PL!!! Idea³! 43900km 1w³!;2017;43900 km;;;Petrol;;;;343170.0;PLN;2979 cm33;[];;;;
+Chevrolet Tahoe Chevrolet Tahoe LTZ zamiana najbogatsza wersja , idealny;2011;170000 km;;;Petrol+LPG;;;;75000.0;PLN;5300 cm33;[];;;;
+Jaguar XJ 2016 XJL AWD 3.0 V6 340KM 36500 km przebieg CENA DO NEGOCJACJI;2016;36500 km;;;Petrol;;;;85000.0;PLN;3000 cm33;[];;;;
+MAZDA 3 BK lift Panel klimatyzacji nawiewów 03 06 Europa K1900BP4N;0;0;;;;;;;99.0;PLN;0;['Mazda', 'Elementy wnêtrza'];;;;
+Porsche 911 Turbo S na Gwarancji do 07/2022;2013;86000 km;;;Petrol;;;;539000.0;PLN;3800 cm33;[];;;;
+Kymco Agility 16+ 125 4T Euro 4 od MUDDY Warszawa Wyprzeda¿ rocznika w ASO;2019;1 km;;;;;;;8000.0;PLN;125 cm33;['Scooter'];;;;
+Mercedes-Benz Klasa S Sprzedam Mercedesa S klase ZAPRASZAM;2006;222000 km;;;Diesel;;;;59999.0;PLN;2987 cm33;[];;;;
+Lag  Stan idealny,niski przebieg,4 komory;2015;0;;;;;;;131000.0;PLN;0;[];;;;
+Stokota  Stan bardzo dobry, zaci¹g z do³u, dodatkowe czujniki itp;2005;0;;;;;;;85000.0;PLN;0;[];;;;
+Toyota Avensis Toyota Avensis kombi t25 2.0 diesel skóra alu felgi navi;2007;229000 km;;;Diesel;;;;18400.0;PLN;1998 cm33;[];;;;
+Mercedes-Benz Klasa V V 300d 4x4 Exclusive Wyprzeda¿ Rocznika !!!;2019;11 km;;;Diesel;;;;269500.0;PLN;1950 cm33;[];;;;
+BMW Seria 5 BMW Seria 5 F10;2011;132000 km;;;Diesel;;;;74000.0;PLN;2993 cm33;[];;;;
+Yamaha X-max Faktura VAT23%, gwarancja, Wroclaw;2019;958 km;;;;;;;16000.0;PLN;125 cm33;['Scooter'];;;;
+Mercedes-Benz SLK SLK 200 KOMPESSOR 163KM Skóry Navi Zadbany;2004;217954 km;;;Petrol;;;;29950.0;PLN;1795 cm33;[];;;;
+CF Moto  C FORCE 520 LONG 500 od Muddy Wyprzeda¿ rocznika w ASO;2017;1 km;;;;;;;23500.0;PLN;500 cm33;['Quad'];;;;
+Volkswagen Amarok VW Amarok 2.0 BI Turbo CANYON Higline;2014;195000 km;;;Diesel;;;;78000.0;PLN;1968 cm33;[];;;;
+Claas Dominator 108 sl;1998;0;;;;;;;99999.0;PLN;0;[];;;;
+BMW X3 wersja xLine !!!;2017;70500 km;;;Petrol;;;;77000.0;PLN;2000 cm33;[];;;;
+Audi Q7;2009;203000 km;;;Diesel;;;;63000.0;PLN;2967 cm33;[];;;;
+Opel Insignia Opel Insignia 2.0;2010;160000 km;;;Diesel;;;;23000.0;PLN;1956 cm33;[];;;;
+Ford Focus Vignale A8.;2019;16000 km;;;Petrol;;;;92000.0;PLN;1499 cm33;[];;;;
+Jaguar XF Jaguar XF S 3.0 380 KM;2017;58000 km;;;Petrol;;;;145000.0;PLN;2995 cm33;[];;;;
+Mercedes-Benz Klasa E AMG, Bluetec, 9G Tronic, 258KM;2014;193000 km;;;Diesel;;;;83900.0;PLN;0;[];;;;
+Opel Insignia 2.0CDTI *COSMO * Virtual Cocpit * Bi xenon * Skóra * 18 Alu * Navi PL*;2015;208000 km;;;Diesel;;;;34700.0;PLN;2000 cm33;[];;;;
+Audi A6 Audi A6 C6;2007;279000 km;;;Diesel;;;;25500.0;PLN;2967 cm33;[];;;;
+Lexus GS OKAZJA!!! OFERTA ograniczona czasowo: LEXUS GS450h PRESTIGE, salon PL!;2017;45000 km;;;;;;;202000.0;PLN;3456 cm33;['Hybrid'];;;;
+Mercedes-Benz SL Mercedes Benz R107 450 SL 1978R. 85000 km;1978;178000 km;;;Petrol;;;;46000.0;PLN;450 cm33;[];;;;
+Volkswagen Tiguan Volkswagen Tiguan I LIFT 1.4 TSI , 4MOTION (4x4);2011;94000 km;;;Petrol;;;;39000.0;PLN;1390 cm33;[];;;;
+Case 821E;2008;0;;;;;;;120000.0;PLN;0;[];;;;
+Volvo XC 60 volvo xc60 t6;2015;103000 km;;;Petrol+LPG;;;;84500.0;PLN;2953 cm33;[];;;;
+Toyota RAV4 Toyota RAV4 2.5 Hybrid SELECTION 4X2 + NAVI + Kamera FULL SERWIS;2017;31304 km;;;;;;;109900.0;PLN;2494 cm33;['Hybrid'];;;;
+Mercedes-Benz Klasa E PANORAMA, wiat³a ILS full led, AMG Line, 18tki felgi AMG;2013;235000 km;;;Petrol;;;;61000.0;PLN;2000 cm33;[];;;;
+Honda Legend Idealna ,salon Polska,pe³ny serwis ASO, Faktura Vat;2010;257300 km;;;Petrol+LPG;;;;52000.0;PLN;3664 cm33;[];;;;
+Peugeot 508 Full opcja ,automat;2011;206300 km;;;Diesel;;;;30000.0;PLN;1997 cm33;[];;;;
+Can-Am Maverick X3 DS 172KM, Model 2018;2017;11658 km;;;;;;;69950.0;PLN;900 cm33;['Quad'];;;;
+Mercedes-Benz GLC 43AMG Coupe. Salon PL. Pneumatyka. Gwarancja do 03.2022 !;2018;16000 km;;;Petrol;;;;279900.0;PLN;2996 cm33;[];;;;
+Jeep Grand Cherokee Jepp Grand Cherokee 5.7 HEMI (PB+ LPG);2013;102000 km;;;Petrol+LPG;;;;69900.0;PLN;5654 cm33;[];;;;
+Kymco Downtown New DOWNTOWN 350i ABS Noodoe MUDDY Warszawa Wyprzeda¿ rocznika w ASO;2019;1 km;;;;;;;19500.0;PLN;320 cm33;['Scooter'];;;;
+Seat Leon SEAT LEON III hatchback 5 d Salon Polska.TURBO .zamiana na suw a;2019;37290 km;;;Petrol;;;;45900.0;PLN;999 cm33;[];;;;
+Opel MOVANO 2.3 BiTurbo 135KM  WYWROTKA tylnozsypowa L3 2.3 BiTurbo 135KM;2020;1 km;;;;;;;102800.0;PLN;2299 cm33;['MOVANO 2.3 BiTurbo 135KM '];;;;
+Opel  Zafira Life Vip 2.0 177KM AT8 wersja 7 os. Long d³. 4,95 m/rok 2020;2020;8000 km;;;Diesel;;;;164900.0;PLN;1998 cm33;[];;;;
+Opel Crossland X CROSSLAND X 120LAT F1.2XE MT5 82KM / Model 2020;2019;10 km;;;Petrol;;;;73900.0;PLN;1199 cm33;[];;;;
+Opel Corsa OPEL CORSA EDITION 1.2 Turbo 100KM MT6 Start&Stop;2019;10 km;;;Petrol;;;;58900.0;PLN;1199 cm33;[];;;;
+Opel Crossland X CROSSLAND X 120LAT F1.2XE MT5 82KM / bogaty std. !!!;2019;10 km;;;Petrol;;;;68800.0;PLN;1199 cm33;[];;;;
+Opel Corsa CORSA EDITION 1.2 Turbo 100KM MT6 Start&Stop ma³y przebieg;2019;9200 km;;;Petrol;;;;59900.0;PLN;1199 cm33;[];;;;
+Volvo S90 Volvo S90 cesja leasingu;2018;72000 km;;;Diesel;;;;115000.0;PLN;1969 cm33;[];;;;
+Iveco daily  Iveco 70C18 Wywrotka, Skrzynia, ¯uraw, HDS cesja lesasing 46000netto;2020;3000 km;;;;;;;2311109.0;PLN;3000 cm33;['daily '];;;;
+BMW X5 BMW X5 E70 3.0 D Polski Salon , 1 W³aciciel;2013;160512 km;;;Diesel;;;;105000.0;PLN;2993 cm33;[];;;;
+Audi A4 Audi A4B8 1.8T 160KM *2009* Navi * Bixenon/Led !!!;2009;240000 km;;;Petrol;;;;28900.0;PLN;1798 cm33;[];;;;
+BMW Seria 3 BMW 3, 316D, F30, 170KM, 350Nm, DRUGI W£. SALON PL;2013;178000 km;;;Diesel;;;;44900.0;PLN;1998 cm33;[];;;;
+Volkswagen Amarok Comfortline 3.0 TDI 204 KM 4Motion! Hak, Alarm, Bi ksenon! 2020!;2020;10 km;;;Diesel;;;;166120.0;PLN;2967 cm33;[];;;;
+Volkswagen Amarok Aventura 3.0 TDi 258KM! Hak, Alarm, Pakiet Zimowy! OD RÊKI!;2020;10 km;;;Diesel;;;;189530.0;PLN;2967 cm33;[];;;;
+Indian Scout Motocykl INDIAN SCOUT Bobber 1200 Thunder Black Smoke / Salon KRAKÓW;2020;1 km;;;;;;;62900.0;PLN;1131 cm33;['Cruiser'];;;;
+Volvo XC 90 salon PL FULL opcja Masa¿ Wentylacja Pneumatyka;2018;170000 km;;;Diesel;;;;192000.0;PLN;0;[];;;;
+"MAN ETGE 1.140  Auto podlega dotacji ""E VAN"" Transport na terenie PL GRATIS!!!";2019;4100 km;;;;;;;132900.0;PLN;0;['ETGE 1.140 '];;;;
+Volkswagen Amarok Highline 3.0 TDi 204KM! ROCZNIK 2020! OD RÊKI!;2020;10 km;;;Diesel;;;;152120.0;PLN;2967 cm33;[];;;;
+Volkswagen T-Roc Volkswagen T Roc 1,5 TSI 150 koni Premium Full;2018;37097 km;;;Petrol;;;;89900.0;PLN;0;[];;;;
+Mercedes-Benz Sprinter 319 cdi 9 miejsc Ready !;2020;99 km;;;Diesel;;;;245000.0;PLN;3000 cm33;[];;;;
+Chevrolet Captiva Chevrolet Captiva 2.2 , Automat, Polski Salon;2011;132946 km;;;Diesel;;;;42900.0;PLN;2231 cm33;[];;;;
+Fiat DUCATO  FIAT DUCATO III L3H2 Kamera cofania, Webasto,Kierownica wielofunkcyjna;2018;123000 km;;;;;;;69000.0;PLN;2300 cm33;['DUCATO '];;;;
+BMW Seria 1 Stan idelany niski przebieg;2008;88000 km;;;Diesel;;;;31900.0;PLN;1995 cm33;[];;;;
+Ford C-MAX Energi Plug in HYBRID, automat, ledy, panorama;2017;52880 km;;;;;;;60900.0;PLN;1999 cm33;['Hybrid'];;;;
+Volkswagen Golf Volkswagen Golf 7.5 R Variant 515hp/605nm;2017;22000 km;;;Petrol;;;;165000.0;PLN;1984 cm33;[];;;;
+Land Rover Discovery Land Rover 4;2013;253770 km;;;Diesel;;;;67000.0;PLN;2993 cm33;[];;;;
+Renault Megane Renault Megane Grandtour GT 205 EDC;2017;35500 km;;;Petrol;;;;82900.0;PLN;1618 cm33;[];;;;
+MAN F2000  Pompogruszka Man F2000 Cifa 28;2000;283000 km;;;;;;;150000.0;PLN;0;['F2000 '];;;;
+Citroën Jumper Maxi  2.2 HDI 130 KM Skrzynia 420CM Klima Tempomat;2012;197900 km;;;;;;;38500.0;PLN;2198 cm33;['Jumper Maxi '];;;;
+Kverneland Accord S-drill Pro  Agregat uprawowo siewny 4m;2011;0;;;;;;;40000.0;PLN;0;[];;;;
+Suzuki Intruder 1400 VS Doinwestowany;1993;74000 km;;;;;;;14900.0;PLN;1400 cm33;['Chopper'];;;;
+Mercedes-Benz ATEGO 1318 Serwis Warsztat Mobilny Wulkanizacja Piaskowanie Malowanie Agregat Kompresor rubowy Atlas Copco Mega wydajny Kontener Winda Dopel Kabina 7 Osób B¹dz sypialna 100m przy³¹cza 8ton ³adownoæi 139tys Km!!  ATEGO 1318 Serwis Warsztat Mobilny Wulkanizacja Kontener Agregat Kompr;2008;139374 km;;;;;;;68900.0;PLN;4250 cm33;['ATEGO 1318 Serwis Warsztat Mobilny Wulkanizacja Piaskowanie Malowanie Agregat Kompresor rubowy Atlas Copco Mega wydajny Kontener Winda Dopel Kabina 7 Osób B¹dz sypialna 100m przy³¹cza 8ton ³adownoæi 139tys Km!! '];;;;
+Mercedes-Benz AMG GT Mercedes-AMG GT R  MB Motors Piaseczno;2020;5 km;;;Petrol;;;;1093799.0;PLN;3982 cm33;[];;;;
+BMW X5 BMW X5 pierwszy w³aciciel salon Polska;2014;185000 km;;;Diesel;;;;140000.0;PLN;2993 cm33;[];;;;
+Volkswagen Tiguan Allspace Highline 2.0 TSI 4MOTION DSG R Line Bogate Wyposa¿enie;2019;39800 km;;;Petrol;;;;158000.0;PLN;1984 cm33;[];;;;
+Land Rover Range Rover Evoque benzyna 2.0, 240 KM! 2017r.;2017;35000 km;;;Petrol;;;;119999.0;PLN;2000 cm33;[];;;;
+Renault Megane Renault megane 2013 niski przebieg salon pl;2013;106000 km;;;Diesel;;;;19900.0;PLN;1461 cm33;[];;;;
+Alfa Romeo Giulia Alfa Romeo GIULIA;2017;42000 km;;;Petrol;;;;70000.0;PLN;1995 cm33;[];;;;
+BMW Seria 8 BMW M850i xDrive;2018;16000 km;;;Petrol;;;;418000.0;PLN;4395 cm33;[];;;;
+Audi Q7 AUDI Q7 TFSI wersja Premium Plus;2016;153000 km;;;Petrol;;;;170000.0;PLN;3000 cm33;[];;;;
+BMW Seria 7 BMW 750Xi M pakiet full opcja;2018;53000 km;;;Petrol;;;;289900.0;PLN;4395 cm33;[];;;;
+Renault Trafic  Vivaro L1H1/ KLIMA / NAVI / KAMERA / TEMPOMAT / Serwis / Gwarancja !!!;2015;93000 km;;;;;;;42900.0;PLN;1600 cm33;['Trafic '];;;;
+BMW Seria 3 Op³acona! 218 koni;2006;143000 km;;;Petrol;;;;26999.0;PLN;2497 cm33;[];;;;
+Chevrolet Camaro Piêkne Camaro;2019;8700 km;;;Petrol;;;;250000.0;PLN;6200 cm33;[];;;;
+Mercedes-Benz SL W107 Zabytkowy w idealnym stanie;1981;142500 km;;;Petrol;;;;90000.0;PLN;3839 cm33;[];;;;
+Yamaha Majesty Yamaha Majesty 125, stan b. Dobry.;2004;16900 km;;;;;;;3700.0;PLN;125 cm33;['Scooter'];;;;
+Nissan Qashqai 2,0 Benzyna Automat4x4 BiXenon NaviKameraSkóryPanoramaMEGA FUUL UNIKAT;2011;167078 km;;;Petrol;;;;41900.0;PLN;1997 cm33;[];;;;
+Green taxi cab car LTI tx4 2009 plate van 5 door;2009;263,819 miles;;;Diesel;;;;1200.0;GBP;;[];2,499 cc;;;
+2009 Bmw 116i Sport Low mileage;2009;76,200 miles;;;Petrol;;;;2890.0;GBP;;[];1,995 cc;;;
+2016 MINI Paceman 1.6 Cooper ALL4 3dr Coupe Petrol Manual;2016;35,867 miles;;;Petrol;;;;9489.0;GBP;;['Seller typeTrade'];1,600 cc;;;
+2005 LAND ROVER DISCOVERY 3 TDV6 ### AUTOMATIC ## ### MOT/D SEPTEMBER 2020 ###;2005;163,000 miles;;;Diesel;;;;3995.0;GBP;;['Seller typeTrade'];2,720 cc;;;
+2013 kia rio 2 Ecodynamics GRDI;2013;106,074 miles;;;Diesel;;;;3895.0;GBP;;['Seller typeTrade'];1,120 cc;;;
+Saab 9-3 1.9TiD ( 150bhp ) 2005MY Vector Sport;2005;118,000 miles;;;Diesel;;;;1000.0;GBP;;['Seller typeTrade'];1,910 cc;;;
+BMW X5;2006;168,000 miles;;;Diesel;;;;3265.0;GBP;;[];2,999 cc;;;
+VW GOLF GTI PERFORMANCE PACK. VERY LOW MILES. FULL VWSH;2015;21,500 miles;;;Petrol;;;;17000.0;GBP;;[];1,984 cc;;;
+Low miles and lovely looking car;2008;65,000 miles;;;Petrol;;;;3000.0;GBP;;[];1,798 cc;;;
+Honda jazz 2008. 1.2 Engine;2008;118,000 miles;;;Petrol;;;;595.0;GBP;;[];1,246 cc;;;
+VW GOLF Grey 12 MONTHS MOT;2006;142,000 miles;;;Diesel;;;;1500.0;GBP;;[];1,968 cc;;;
+2010 Volkswagen Passat Estate 2.0TDI R Line , mot - July 2021 ,4 month warranty;2010;144,000 miles;;;Diesel;;;;2795.0;GBP;;['Seller typeTrade'];1,968 cc;;;
+2009 Ford FIESTA 1.4 tdci style 9;2009;72,000 miles;;;Diesel;;;;2695.0;GBP;;['Seller typeTrade'];1,399 cc;;;
+2017 Hyundai Tucson 1.7 CRDi Blue Drive SE Nav 5dr 2WD Estate Diesel Manual;2017;19,032 miles;;;Diesel;;;;13989.0;GBP;;['Seller typeTrade'];1,700 cc;;;
+Land Rover Range Rover Evoque TD4 HSE DYNAMIC LUX PAN ROOF 55+MPG;2016;33,000 miles;;;Diesel;;;;25980.0;GBP;;['Seller typeTrade'];1,999 cc;;;
+Land Rover Range Rover TDV6 VOGUE SE - PAN ROOF - PACK;2016;43,000 miles;;;Diesel;;;;39990.0;GBP;;['Seller typeTrade'];2,993 cc;;;
+2014 Mercedes-Benz A-CLASS 2.1 A200 CDI SPORT 5d 136 BHP Semi Auto Hatchback Die;2014;29,584 miles;;;Diesel;;;;12500.0;GBP;;['Seller typeTrade'];2,143 cc;;;
+Mitsubishi shogun warrior swb;2006;169,000 miles;;;Diesel;;;;3295.0;GBP;;[];3,200 cc;;;
+2016 Vauxhall Viva 1.0 SE AC 5d 74 BHP Hatchback Petrol Manual;2016;23,362 miles;;;Petrol;;;;5895.0;GBP;;['Seller typeTrade'];999 cc;;;
+BMW E46 3 series;2004;130,000 miles;;;Diesel;;;;1250.0;GBP;;[];1,995 cc;;;
+MGTF;2004;58,000 miles;;;Diesel;;;;3000.0;GBP;;[];1,600 cc;;;
+Ford fiesta 1.25;2012;76,000 miles;;;Petrol;;;;3000.0;GBP;;[];1,242 cc;;;
+VERY LOW MILEAGE;2015;7,820 miles;;;Diesel;;;;14950.0;GBP;;[];2,143 cc;;;
+Audi TT white black edition!;2011;81,000 miles;;;Diesel;;;;9700.0;GBP;;[];2 cc;;;
+Vauxhall Astra 5 door;2014;60,617 miles;;;Petrol;;;;3200.0;GBP;;[];1,398 cc;;;
+Reluctant sale due to wanting a camper.;2014;39,414 miles;;;Diesel;;;;11500.0;GBP;;[];1,995 cc;;;
+Skoda Fabio;2009;103,000 miles;;;Petrol;;;;1000.0;GBP;;[];1,598 cc;;;
+Toyota Corolla 2.0 D4D diesel manual;2005;173,000 miles;;;Diesel;;;;675.0;GBP;;[];2,000 cc;;;
+2013 AUDT A3 1,6 TDI SPORT 7 AUTO/ 9;2013;83,746 miles;;;Diesel;;;;7995.0;GBP;;['Seller typeTrade'];1,598 cc;;;
+skodia fabia;2007;88,391 miles;;;Petrol;;;;1100.0;GBP;;[];1,198 cc;;;
+2014 Volkswagen Scirocco 2.0 GT TDI BLUEMOTION TECHNOLOGY 2d 140 BHP Coupe Diese;2014;85,545 miles;;;Diesel;;;;8500.0;GBP;;['Seller typeTrade'];1,968 cc;;;
+2013 Mercedes Benz E CLASS 2.1 E300 BLUETEC HYBRID AMG SPORT 5d 202 BHP Auto Est;2013;89,625 miles;;;Other;;;;11995.0;GBP;;['Seller typeTrade'];2,143 cc;;;
+2018 Mercedes Benz C Class C200 Sport 5dr Estate 9G Tronic Automatic Estate Petr;2018;7,794 miles;;;Petrol;;;;19989.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+Citroen DS3;2013;44,000 miles;;;Diesel;;;;4500.0;GBP;;[];1,560 cc;;;
+Audi A4 1.9tdi swap px;2002;170,000 miles;;;Diesel;;;;995.0;GBP;;[];1,896 cc;;;
+MINI Cooper S Chili Pack For Sale 2006/56;2006;48,000 miles;;;Petrol;;;;3000.0;GBP;;[];1,598 cc;;;
+2103 SEAT EXEO 2.0 TDI SE ECOMOTIVE ### DEMO + ONE OWNER ### FULL SERVICE HISTORY ###;2013;105,000 miles;;;Diesel;;;;4750.0;GBP;;['Seller typeTrade'];1,968 cc;;;
+Renault Scenic;2002;184,552 miles;;;Diesel;;;;325.0;GBP;;[];1,870 cc;;;
+Fiat 500 lounge;2012;55,636 miles;;;Petrol;;;;3800.0;GBP;;[];1,242 cc;;;
+2010 Ford Focus 1.8 TITANIUM 5d 125 BHP Hatchback Petrol Manual;2010;81,000 miles;;;Petrol;;;;3495.0;GBP;;['Seller typeTrade'];1,798 cc;;;
+2010 Nissan 370Z 3.7 V6 GT 3d 328 BHP Coupe Petrol Manual;2010;55,619 miles;;;Petrol;;;;12250.0;GBP;;['Seller typeTrade'];3,696 cc;;;
+2016 Skoda Octavia 20 TDI SE;2016;73,752 miles;;;Diesel;;;;7495.0;GBP;;['Seller typeTrade'];1,968 cc;;;
+RENAULT CLIO 1.5 DYNAMIQUE NAV DCI,2016,Sat Nav,Bluetooth, 85mpg,Zero Road Tax,Spotless;2016;24,811 miles;;;Diesel;;;;6995.0;GBP;;['Seller typeTrade'];1,461 cc;;;
+Renault clio 2007;2007;99,000 miles;;;Petrol;;;;350.0;GBP;;[];1,390 cc;;;
+Ford Focus 1.6 Zetec -5 Door-2009;2009;45,300 miles;;;Petrol;;;;2150.0;GBP;;[];1,596 cc;;;
+1.6 Vauxhall Astra;2003;105,000 miles;;;Petrol;;;;300.0;GBP;;[];1,598 cc;;;
+Nissan Micra 2014(64) 1.2 Petrol LOW MILEAGE EXAMPLE;2014;12,500 miles;;;Petrol;;;;3795.0;GBP;;[];1,198 cc;;;
+Renault Twingo Dynamique;2012;46,000 miles;;;Petrol;;;;1750.0;GBP;;[];1,149 cc;;;
+Bmw 645 v8;2004;121 miles;;;Petrol;;;;4200.0;GBP;;[];4,398 cc;;;
+VAUXHALL zafira diesel CDTI design eco flex;2013;57,000 miles;;;Diesel;;;;2950.0;GBP;;[];1,686 cc;;;
+2012 Volkswagen 20TDI 4motion;2012;126,000 miles;;;Diesel;;;;5995.0;GBP;;['Seller typeTrade'];1,968 cc;;;
+Mercedes-Benz A Class A-Class A140 Elegance 1.4 Manual Petrol;2004;132,506 miles;;;Petrol;;;;475.0;GBP;;[];1,397 cc;;;
+2020 Mazda CX-30 2.0 Skyactiv-G MHEV Sport Lux Manual Petrol Hatchback;2020;1,000 miles;;;Petrol;;;;24000.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+2017 Land Rover Range Rover Evoque 2.0 TD4 SE Tech 5dr Automatic Diesel Hatchbac;2017;33,200 miles;;;Diesel;;;;22750.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+2018 Land Rover Range Rover Evoque 2.0 SD4 HSE Dynamic 5dr Automatic Diesel Hatc;2018;32,000 miles;;;Diesel;;;;30000.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+2018 Ford Fiesta 1.0 EcoBoost 125 Active X 5dr Manual Petrol Hatchback;2018;13,557 miles;;;Petrol;;;;13500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2018 Jaguar E-PACE 2.0 R-Dynamic SE 5dr Automatic Petrol Estate;2018;9,992 miles;;;Petrol;;;;31000.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+2017 Ford Focus 1.0 EcoBoost 125 Titanium Automatic Petrol Hatchback;2017;8,656 miles;;;Petrol;;;;12500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2014 Ford Kuga 2.0 TDCi 150 Zetec Powershift Automatic Diesel MPV;2014;42,742 miles;;;Diesel;;;;10000.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+2018 Ford Focus 1.0 EcoBoost 125 Titanium X 5d Manual Petrol Hatchback;2018;21,868 miles;;;Petrol;;;;12500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2015 Ford Ka 1.2 Zetec (Start Stop) Manual Petrol Hatchback;2015;36,000 miles;;;Petrol;;;;6000.0;GBP;;['Seller typeTrade'];1,200 cc;;;
+2020 Aston Martin Vantage 2dr ZF 8 Speed Automatic Petrol Coupe;2019;3,560 miles;;;Petrol;;;;107995.0;GBP;;['Seller typeTrade'];4,000 cc;;;
+Skoda Fabia 1.9TDi Elegance - SERVICE HISTORY;2003;105,038 miles;;;Diesel;;;;1495.0;GBP;;['Seller typeTrade'];1,896 cc;;;
+2017 Ford Fiesta 1.25 82 Zetec (Nav) 5dr Manual Petrol Hatchback;2017;15,304 miles;;;Petrol;;;;9500.0;GBP;;['Seller typeTrade'];1,200 cc;;;
+2016 Kia Ceed 1.6 CRDi ISG 3 5dr Manual Diesel Hatchback;2016;31,100 miles;;;Diesel;;;;9500.0;GBP;;['Seller typeTrade'];1,600 cc;;;
+2017 Ford Focus 1.0 EcoBoost 125ps Zetec Editi Automatic Petrol Estate;2017;14,798 miles;;;Petrol;;;;12500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2018 Mercedes-Benz A-Class A200 AMG Line Premium Automatic Petrol Hatchback;2018;9,152 miles;;;Petrol;;;;21000.0;GBP;;['Seller typeTrade'];1,300 cc;;;
+2018 Ford Kuga 1.5 EcoBoost 182ps Titanium AW Automatic Petrol Estate;2018;6,228 miles;;;Petrol;;;;18500.0;GBP;;['Seller typeTrade'];1,500 cc;;;
+2019 Ford C-MAX 1.0 EcoBoost 125ps Zetec 5dr Manual Petrol Estate;2019;1,129 miles;;;Petrol;;;;15000.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2017 Ford Focus 1.0 EcoBoost 125 Titanium Automatic Petrol Hatchback;2017;8,656 miles;;;Petrol;;;;12500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2020 Ford Fiesta 1.0 EcoBoost 95 ST-Line Editio Manual Petrol Hatchback;2020;1,005 miles;;;Petrol;;;;15500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2017 Ford Fiesta 1.0 EcoBoost ST-Line 5dr Manual Petrol Hatchback;2017;36,474 miles;;;Petrol;;;;10000.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2014 Ford Focus 1.0 125 EcoBoost Zetec 5dr Manual Petrol Hatchback;2014;44,803 miles;;;Petrol;;;;7500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2019 Hyundai Tucson 1.6 GDI PREMIUM (S/S) 5DR HEATED LEATHER SEATS R/CAMERA 4;2019;10,495 miles;;;Petrol;;;;17990.0;GBP;;['Seller typeTrade'];1,600 cc;;;
+2012 MINI HATCH ONE 1.6 ONE D 3d 90 BHP Hatchback Diesel Manual;2012;33,000 miles;;;Diesel;;;;6500.0;GBP;;['Seller typeTrade'];1,598 cc;;;
+2019 Mazda CX-5 2.0 Sport Nav+ 5dr Estate Petrol Manual;2019;10 miles;;;Petrol;;;;23980.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+1999 Porsche 911 996 Carrera C2 Convertible - Hardtop;1999;97,000 miles;;;Petrol;;;;15750.0;GBP;;['Seller typeTrade'];3,387 cc;;;
+2014 Ford Focus 1.0 125 EcoBoost Zetec 5dr Manual Petrol Hatchback;2014;44,803 miles;;;Petrol;;;;7500.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2017 Vauxhall Viva Se Ac Hatchback Petrol Manual;2017;14,800 miles;;;Petrol;;;;7499.0;GBP;;['Seller typeTrade'];999 cc;;;
+2010 BMW 1 Series 2.0 116I M SPORT 5d 121 BHP Hatchback Petrol Manual;2010;62,000 miles;;;Petrol;;;;4999.0;GBP;;['Seller typeTrade'];1,995 cc;;;
+1972 Dodge Demon 340 V8 R/T Auto - Huge Upgrades;1972;22,000 miles;;;Petrol;;;;26995.0;GBP;;['Seller typeTrade'];5,123 cc;;;
+Bmw f30 2l diesel msport;2012;70,000 miles;;;Diesel;;;;7450.0;GBP;;[];1,995 cc;;;
+2007 BMW 1 Series 116i ES 5dr HATCHBACK Petrol Manual;2007;91,000 miles;;;Petrol;;;;2595.0;GBP;;['Seller typeTrade'];1,596 cc;;;
+2011 Volvo S60 D3 [163] SE 4dr SALOON Diesel Manual;2011;82,000 miles;;;Diesel;;;;5290.0;GBP;;['Seller typeTrade'];1,984 cc;;;
+2016 Honda HR-V HR-V 1.5 i-VTEC SE Manual Hatchback Petrol Manual;2016;42,262 miles;;;Petrol;;;;12995.0;GBP;;['Seller typeTrade'];1,498 cc;;;
+2010 Vauxhall Astra Se Auto Hatchback Petrol Automatic;2010;60,000 miles;;;Petrol;;;;5499.0;GBP;;['Seller typeTrade'];1,598 cc;;;
+2014 Mercedes-Benz C-CLASS 2.1 C220 CDI EXECUTIVE SE PREMIUM PLUS 4d 168 BHP Aut;2014;22,000 miles;;;Diesel;;;;12500.0;GBP;;['Seller typeTrade'];2,143 cc;;;
+2015 Volkswagen Golf 1.6 TDI 110 Match 5dr DSG HATCHBACK Diesel Automatic;2015;130 miles;;;Diesel;;;;6375.0;GBP;;['Seller typeTrade'];1,598 cc;;;
+2017 Vauxhall Astra 1.6 CDTi 16V ecoFLEX Tech Line Manual Diesel Estate;2017;9,558 miles;;;Diesel;;;;10500.0;GBP;;['Seller typeTrade'];1,600 cc;;;
+2013 Mercedes-Benz E-CLASS 2.1 E220 CDI AMG SPORT 4d 168 BHP Auto Saloon Diesel;2013;48,000 miles;;;Diesel;;;;12000.0;GBP;;['Seller typeTrade'];2,143 cc;;;
+2019 Honda NSX NSX 3.5h V6 E-DCT AWD Auto Coupe PETROL/ELECTRIC Automatic;2019;4,000 miles;;;Petrol;;;;112990.0;GBP;;['Seller typeTrade'];3,493 cc;;;
+2012 Mercedes-Benz E-CLASS 2.1 E220 CDI BLUEEFFICIENCY EXECUTIVE SE 4d 170 BHP S;2012;61,000 miles;;;Diesel;;;;8500.0;GBP;;['Seller typeTrade'];2,143 cc;;;
+2017 Mazda 3 2.0 Sport Nav Automatic Petrol Hatchback;2017;11,597 miles;;;Petrol;;;;14000.0;GBP;;['Seller typeTrade'];2,000 cc;;;
+2017 Mercedes-Benz E Class E 220 D AMG LINE Auto Estate Diesel Automatic;2017;31,605 miles;;;Diesel;;;;20175.0;GBP;;['Seller typeTrade'];1,950 cc;;;
+2015 BMW 2 Series BMW 2 series M235i Auto Coupe Petrol Automatic;2015;50,000 miles;;;Petrol;;;;18990.0;GBP;;['Seller typeTrade'];2,997 cc;;;
+2006 Porsche Cayenne 4.5 TURBO S 5d 520 BHP Auto Estate Petrol Automatic;2006;85,000 miles;;;Petrol;;;;9975.0;GBP;;['Seller typeTrade'];4,511 cc;;;
+2009 Ford Kuga 2.0 TDCi Titanium 5dr 4x4 - 77,000 miles ESTATE Diesel Manual;2009;77,000 miles;;;Diesel;;;;5995.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2015 BMW 4 Series 2.0 420I M SPORT 2d 181 BHP Coupe Petrol Manual;2015;32,303 miles;;;Petrol;;;;16495.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2014 Vauxhall Zafira 1.7 EXCLUSIV CDTI ECOFLEX 5d 108 BHP MPV Diesel Manual;2014;81,879 miles;;;Diesel;;;;4495.0;GBP;;['Seller typeTrade'];1,686 cc;;;
+2008 Land Rover Discovery 2.7 3 TDV6 HSE 5d 188 BHP Auto Estate Diesel Automatic;2008;111,049 miles;;;Diesel;;;;7995.0;GBP;;['Seller typeTrade'];2,720 cc;;;
+2012 12 PEUGEOT 3008 1.6 ALLURE E-HDI FAP 5D 112 BHP DIESEL;2012;59,928 miles;;;Diesel;;;;5700.0;GBP;;['Seller typeTrade'];1,560 cc;;;
+Volkswagen Golf GTI;2014;44,000 miles;;;Petrol;;;;12890.0;GBP;;['Seller typeTrade'];1,984 cc;;;
+2016 DS DS 3 1.2 PURETECH ELEGANCE S/S 3d 109 BHP Hatchback Petrol Manual;2016;13,771 miles;;;Petrol;;;;8495.0;GBP;;['Seller typeTrade'];1,200 cc;;;
+BMW X3 XDRIVE20D SE;2012;102,000 miles;;;Diesel;;;;6930.0;GBP;;['Seller typeTrade'];1,995 cc;;;
+2018 Nissan Juke 1.5 dCi N-Connecta 5-Door Hatchback Hatchback Diesel Manual;2018;11,619 miles;;;Diesel;;;;11257.0;GBP;;['Seller typeTrade'];1,461 cc;;;
+2013 Kia Sorento 2.2 CRDI KX-2 5d 194 BHP Estate Diesel Manual;2013;51,114 miles;;;Diesel;;;;11500.0;GBP;;['Seller typeTrade'];2,199 cc;;;
+2017 Ford Fiesta 1.6 ST-2 3d 180 BHP Hatchback Petrol Manual;2017;30,000 miles;;;Petrol;;;;10990.0;GBP;;['Seller typeTrade'];1,596 cc;;;
+2008 Ford Focus 1.6L STYLE 5d 100 BHP Hatchback Petrol Manual;2008;72,000 miles;;;Petrol;;;;2500.0;GBP;;['Seller typeTrade'];1,596 cc;;;
+2015 Mazda 6 SE-L Nav 2.2d Tourer Estate Diesel Manual;2015;88,200 miles;;;Diesel;;;;7295.0;GBP;;['Seller typeTrade'];2,191 cc;;;
+2010 Kia Ceed 1.6 CRDi 3 5dr ESTATE Diesel Manual;2010;88,500 miles;;;Diesel;;;;1995.0;GBP;;['Seller typeTrade'];1,582 cc;;;
+LATE 2007 NISSAN QASHQAI 2.0 2WD CVT VISIA 5 DOOR AUTOMATIC BLUE PX SWAP SWOP;2007;110,000 miles;;;Petrol;;;;3250.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2018 Ford Fiesta 1.0 EcoBoost Zetec 5dr Manual Petrol Hatchback;2018;5,940 miles;;;Petrol;;;;12495.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2018 Ford KA Plus 1.2 85 Zetec 5dr Manual Petrol Hatchback;2018;12,514 miles;;;Petrol;;;;8500.0;GBP;;['Seller typeTrade'];1,200 cc;;;
+2017 Ford Kuga 1.5 EcoBoost 182 Zetec Automatic Petrol Estate;2017;22,629 miles;;;Petrol;;;;15000.0;GBP;;['Seller typeTrade'];1,500 cc;;;
+2018 Aston Martin DB11 V8 2dr Touchtronic Automatic Petrol Coupe;2017;12,150 miles;;;Petrol;;;;95900.0;GBP;;['Seller typeTrade'];4,000 cc;;;
+2019 Jaguar E-PACE 2.0d (180) R-Dynamic S 5dr Automatic Diesel Estate;2020;1,950 miles;;;Diesel;;;;40000.0;GBP;;['Seller typeTrade'];0 cc;;;
+2017 Ford Mustang 5.0 V8 GT 2dr Automatic Petrol Coupe;2017;20,000 miles;;;Petrol;;;;30000.0;GBP;;['Seller typeTrade'];5,000 cc;;;
+2015 65 VAUXHALL CORSA 1.4 LIMITED EDITION 3D 89 BHP;2015;22,750 miles;;;Petrol;;;;7050.0;GBP;;['Seller typeTrade'];1,398 cc;;;
+2018 Dacia Sandero 1.0 SCe Ambiance 5dr Hatchback Petrol Manual;2018;22,672 miles;;;Petrol;;;;6250.0;GBP;;['Seller typeTrade'];998 cc;;;
+2014 Land Rover Range Rover 3.0 TDV6 AUTOBIOGRAPHY 5d 258 BHP All Terrain Diesel;2014;62,000 miles;;;Diesel;;;;34750.0;GBP;;['Seller typeTrade'];2,993 cc;;;
+2014 LAND ROVER DISCOVERY 4 3.0SDV6 255 XS AUTO...FULL HISTORY;2014;99,000 miles;;;Diesel;;;;16995.0;GBP;;['Seller typeTrade'];2,993 cc;;;
+Ford Galaxy 2.0TDCi ( 138bhp ) 2010.5MY Zetec 3 owner 82781 miles 7 seater;2010;82,781 miles;;;Diesel;;;;4995.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2017 FORD FOCUS ZETEC EDITION HATCHBACK PETROL;2017;21,693 miles;;;Petrol;;;;10799.0;GBP;;['Seller typeTrade'];999 cc;;;
+2020 Ford Fiesta 1.0T ECOBOOST ST-LINE X (S/S) 5DR | FROM 6.9% APR AVAILABLE O;2020;8,786 miles;;;Petrol;;;;16349.0;GBP;;['Seller typeTrade'];1,000 cc;;;
+2018 Renault Kadjar 1.5 dCi Dynamique Nav 5dr Hatchback Diesel Manual;2018;42,000 miles;;;Diesel;;;;11500.0;GBP;;['Seller typeTrade'];1,461 cc;;;
+2017 Renault Zoe ZOE DYN NAV QUICK CHRG ZE Auto Hatchback Electric Automatic;2017;23,445 miles;;;Electric;;;;12250.0;GBP;;['Seller typeTrade'];1 cc;;;
+Mercedes B220 4MATIC AMG LINE PREMIUM PLUS - PANORAMIC ROOF;2019;3,000 miles;;;Petrol;;;;28490.0;GBP;;['Seller typeTrade'];1,991 cc;;;
+2010 Ford KA 1.2 Edge 3dr HATCHBACK Petrol Manual;2010;50,000 miles;;;Petrol;;;;2990.0;GBP;;['Seller typeTrade'];1,242 cc;;;
+BMW Z3 1.9 140bhp 2DR MANUAL CONVERTIBLE ROADSTER WARRANTIED LOW MILEAGE FSH;1998;56,500 miles;;;Petrol;;;;3950.0;GBP;;['Seller typeTrade'];1,895 cc;;;
+2018 Renault Kadjar 1.5 Blue dCi S Edition 5dr Hatchback Diesel Manual;2018;6,609 miles;;;Diesel;;;;18995.0;GBP;;['Seller typeTrade'];1,461 cc;;;
+2019 Ford TOURNEO COURIER 1.0 EcoBoost Zetec EU6 5dr MPV Petrol Manual;2019;8,000 miles;;;Petrol;;;;11950.0;GBP;;['Seller typeTrade'];999 cc;;;
+2011 Volkswagen Touran 2.0 TDI Sport DSG 5dr (7 Seats) Auto MPV Diesel Automatic;2011;57,000 miles;;;Diesel;;;;7950.0;GBP;;['Seller typeTrade'];1,968 cc;;;
+2014 Ford B-MAX 1.6 TITANIUM 5d 104 BHP Auto MPV Petrol Automatic;2014;23,400 miles;;;Petrol;;;;7495.0;GBP;;['Seller typeTrade'];1,596 cc;;;
+12 MONTHS WARRANTY AND BREAKDOWN COVER **CAT S FULLY REPAIRED;2017;24,751 miles;;;Petrol;;;;6499.0;GBP;;['Seller typeTrade'];998 cc;;;
+2019 Peugeot 2008;2019;1,395 miles;;;Petrol;;;;12495.0;GBP;;['Seller typeTrade'];1,199 cc;;;
+Jaguar XF 3.0 V6 auto 2010 Luxury;2010;52,000 miles;;;Petrol;;;;7995.0;GBP;;['Seller typeTrade'];2,968 cc;;;
+Volvo C30 2.0 D R-Design Stunning Low Mileage R-Design with Full Service History;2010;63,943 miles;;;Diesel;;;;4997.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2017 Vauxhall Corsa;2017;9,625 miles;;;Petrol;;;;9716.0;GBP;;['Seller typeTrade'];1,398 cc;;;
+2008 Fiat Panda 1.2 Dynamic 5dr;2008;47,000 miles;;;Petrol;;;;1995.0;GBP;;['Seller typeTrade'];1,242 cc;;;
+2017 Peugeot 3008 SUV;2017;11,214 miles;;;Diesel;;;;22795.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2018 Land Rover Range Rover Sport 3.0 SD V6 HSE Dynamic Auto 4WD (s/s) 5dr;2018;14,300 miles;;;Diesel;;;;53995.0;GBP;;['Seller typeTrade'];2,993 cc;;;
+2015 Ford Kuga 2.0 TITANIUM X SPORT TDCI 5d 177 BHP Hatchback Diesel Manual;2015;61,411 miles;;;Diesel;;;;11995.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2018 Peugeot 3008 SUV;2018;20,082 miles;;;Diesel;;;;23995.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2017 Suzuki Vitara;2017;33,320 miles;;;Petrol;;;;9595.0;GBP;;['Seller typeTrade'];1,586 cc;;;
+2018 Peugeot 3008 SUV;2018;20,082 miles;;;Diesel;;;;23995.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2017 Suzuki Vitara;2017;33,320 miles;;;Petrol;;;;9595.0;GBP;;['Seller typeTrade'];1,586 cc;;;
+2018 Vauxhall Crossland X;2018;13,000 miles;;;Petrol;;;;13000.0;GBP;;['Seller typeTrade'];1,199 cc;;;
+2019 Vauxhall Mokka X;2019;9,105 miles;;;Petrol;;;;14000.0;GBP;;['Seller typeTrade'];1,364 cc;;;
+2019 Peugeot 308 SW;2019;9,674 miles;;;Diesel;;;;13999.0;GBP;;['Seller typeTrade'];1,499 cc;;;
+2018 Citroen C1;2018;22,987 miles;;;Petrol;;;;7195.0;GBP;;['Seller typeTrade'];1,199 cc;;;
+2017 Peugeot 3008 SUV;2017;13,994 miles;;;Diesel;;;;21895.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2019 Citroen C1;2019;13,769 miles;;;Petrol;;;;8995.0;GBP;;['Seller typeTrade'];998 cc;;;
+Volkswagen Golf R32 black manual 3 door 2006;2006;87,500 miles;;;Petrol;;;;7500.0;GBP;;[];3,189 cc;;;
+2020 Citroen C4 Cactus;2020;1,000 miles;;;Diesel;;;;16500.0;GBP;;['Seller typeTrade'];1,499 cc;;;
+FORD ESCORT 100E ESTATE - SUPER RARE + STUNNING CONDITION THROUGHOUT - PX;1961;41,000 miles;;;Petrol;;;;15995.0;GBP;;['Seller typeTrade'];1,172 cc;;;
+2017 Peugeot 108;2017;7,674 miles;;;Petrol;;;;7144.0;GBP;;['Seller typeTrade'];1,199 cc;;;
+2017 Peugeot 2008;2017;16,540 miles;;;Petrol;;;;8990.0;GBP;;['Seller typeTrade'];1,199 cc;;;
+2017 Peugeot 208;2017;11,726 miles;;;Petrol;;;;9990.0;GBP;;['Seller typeTrade'];1,199 cc;;;
+2019 DS Automobiles DS 7 CROSSBACK;2019;12,463 miles;;;Diesel;;;;28000.0;GBP;;['Seller typeTrade'];1,997 cc;;;
+2019 Peugeot 3008 SUV;2019;8,132 miles;;;Diesel;;;;20995.0;GBP;;['Seller typeTrade'];1,499 cc;;;
+2019 Peugeot 508;2019;3,214 miles;;;Petrol;;;;21995.0;GBP;;['Seller typeTrade'];1,598 cc;;;
+2019 Peugeot 3008 SUV;2019;3,397 miles;;;Petrol;;;;24399.0;GBP;;['Seller typeTrade'];1,199 cc;;;
+2016 AUDI S3 2.0 S3 SPORTBACK QUATTRO 370 BHP;2016;32,358 miles;;;Petrol;;;;22925.0;GBP;;['Seller typeTrade'];1,984 cc;;;
+2017 Audi A6 Saloon 2.0 TDI ultra SE Executive S Tronic (s/s) 4dr;2017;27,897 miles;;;Diesel;;;;15490.0;GBP;;['Seller typeTrade'];1,968 cc;;;
+2015 Ford Focus 1.5 TDCi Zetec Powershift (s/s) 5dr;2015;63,860 miles;;;Diesel;;;;7995.0;GBP;;['Seller typeTrade'];1,498 cc;;;
+2016 66 VAUXHALL CORSA ENERGY ECOFLEX HEATED SEATS & STEERING WHEEL SVC HISTORY;2016;23,250 miles;;;Petrol;;;;6795.0;GBP;;['Seller typeTrade'];1,398 cc;;;
+2016 Volkswagen Golf 1.6 TDI 110 Match Edition TURBO DIESEL ESTATE Estate Diesel;2016;108,000 miles;;;Diesel;;;;6995.0;GBP;;['Seller typeTrade'];1,598 cc;;;
+2013 63 RENAULT CAPTUR 1.5 EXPRESSIONPLUS CONVENIENCE ENERGYTCE S/S 5D 90 BHP DI;2013;74,994 miles;;;Diesel;;;;5670.0;GBP;;['Seller typeTrade'];1,461 cc;;;
+2019 Toyota Prius Plus 1.8 VVTi Excel TSS 5dr CVT Auto PETROL/ELECTRIC brown CVT;2019;4,330 miles;;;Petrol;;;;25990.0;GBP;;['Seller typeTrade'];1,798 cc;;;
+56 3 door Freelander 2 litre Diesel Auto&quot;2006;63,800 miles;;;Diesel;;;;2400.0;GBP;;[];1,951 cc;;;
+Chevrolet Traverse LT with 1LT AWD;2012;126877 miles;;;;;;;8499,00;USD;;;;0.0;gold ; black 
+Acura RDX AWD;2010;109056 miles;;;;;;;7700,00;USD;;;;3.0;black ; beige 
+Mazda Mazda3 Touring 5-Door Automatic;2018;19530 miles;;;;;;;19788,00;USD;;;;0.0;gray ; black 
+Chrysler Town & Country Touring;2014;177152 miles;;;;;;;18495,00;USD;;;;0.0;red ; black 
+Lexus GX GX 460;2013;40424 miles;;;;;;;29919,00;USD;;;;0.0;gold ; brown 
+Land Rover Range Rover Velar P250;2019;21609 miles;;;;;;;42998,00;USD;;;;0.0;white ; unknown 
+"Mercedes-Benz Metris Passenger Van Standard Roof 126"" Wheelbase Worker";2019;23282 miles;;;;;;;23998,00;USD;;;;0.0;black ; black 
+"Ram 1500 Limited Crew Cab 5'7"" Box 4WD";2019;26992 miles;;;;;;;49999,00;USD;;;;0.0;white ; black 
+Jeep Wrangler Unlimited Sahara (JK);2018;48374 miles;;;;;;;36898,00;USD;;;;0.0;silver ; black 
+Nissan Altima SL FWD;2019;40995 miles;;;;;;;18498,00;USD;;;;0.0;black ; black 
+Kia Optima LX Automatic;2020;22519 miles;;;;;;;15500,00;USD;;;;0.0;white ; black 
+Toyota Corolla LE CVT;2020;27078 miles;;;;;;;16497,00;USD;;;;0.0;white ; unknown 
+Dodge Grand Caravan SXT;2019;47064 miles;;;;;;;15991,00;USD;;;;0.0;white ; black 
+Toyota Camry LE Automatic;2019;31506 miles;;;;;;;16486,00;USD;;;;0.0;white ; black 
+Ford Focus SE Hatchback;2014;113892 miles;;;;;;;5785,00;USD;;;;0.0;white ; unknown 
+Dodge Grand Caravan SXT;2019;38878 miles;;;;;;;14447,00;USD;;;;0.0;silver ; black 
+Nissan Rogue SV FWD;2019;174 miles;;;;;;;18490,00;USD;;;;0.0;white ; black 
+Chevrolet Malibu LT with 1LT;2019;2665 miles;;;;;;;15977,00;USD;;;;0.0;white ; black 
+Ford Fusion SEL FWD;2019;17837 miles;;;;;;;17695,00;USD;;;;0.0;white ; unknown 
+Kia Soul + Automatic;2019;32354 miles;;;;;;;11400,00;USD;;;;0.0;red ; black 
+Honda Civic LX Sedan Automatic;2012;138989 miles;;;;;;;4900,00;USD;;;;1.0;silver ; gray 
+Nissan Rogue SV FWD;2019;8847 miles;;;;;;;17995,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;33246 miles;;;;;;;17450,00;USD;;;;0.0;black ; black 
+Ford Fusion Hybrid SE FWD;2019;26904 miles;;;;;;;15590,00;USD;;;;0.0;black ; beige 
+Kia Soul + Automatic;2019;27554 miles;;;;;;;12990,00;USD;;;;0.0;silver ; black 
+Dodge Journey GT AWD;2019;26347 miles;;;;;;;20999,00;USD;;;;0.0;black ; black 
+Nissan Sentra SV CVT;2019;26830 miles;;;;;;;13097,00;USD;;;;0.0;white ; black 
+Nissan Versa SV Sedan CVT;2019;26502 miles;;;;;;;7991,00;USD;;;;0.0;black ; black 
+Kia Soul + Automatic;2019;22000 miles;;;;;;;12198,00;USD;;;;0.0;red ; black 
+Toyota Highlander XLE V6 AWD;2017;25154 miles;;;;;;;23995,00;USD;;;;0.0;black ; beige 
+Ford Fusion Hybrid SE FWD;2019;29476 miles;;;;;;;15999,00;USD;;;;0.0;black ; black 
+Nissan Altima SL FWD;2019;27720 miles;;;;;;;17500,00;USD;;;;0.0;gray ; black 
+Ford Fusion Hybrid SE FWD;2019;26354 miles;;;;;;;15333,00;USD;;;;0.0;red ; black 
+Honda Civic LX Sedan CVT;2017;37068 miles;;;;;;;14455,00;USD;;;;0.0;black ; beige 
+Ford Fusion Hybrid SE FWD;2019;37132 miles;;;;;;;14995,00;USD;;;;0.0;white ; unknown 
+Honda Accord Hybrid Touring Sedan;2017;129781 miles;;;;;;;13305,00;USD;;;;2.0;black ; black 
+Dodge Grand Caravan SXT;2019;31510 miles;;;;;;;15984,00;USD;;;;0.0;gray ; black 
+Kia Soul + Automatic;2019;35689 miles;;;;;;;11688,00;USD;;;;0.0;white ; black 
+Nissan Rogue SV FWD;2019;17906 miles;;;;;;;18070,00;USD;;;;0.0;black ; black 
+Chevrolet Express Passenger 3500 LT LWB;2019;23130 miles;;;;;;;22595,00;USD;;;;0.0;white ; gray 
+Kia Soul + Automatic;2019;46991 miles;;;;;;;14000,00;USD;;;;0.0;white ; black 
+Toyota Corolla LE CVT;2020;18223 miles;;;;;;;14300,00;USD;;;;1.0;white ; gray 
+Dodge Grand Caravan SXT;2019;38079 miles;;;;;;;15900,00;USD;;;;0.0;black ; black 
+Nissan Versa SV Sedan CVT;2019;26502 miles;;;;;;;7991,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;31304 miles;;;;;;;17995,00;USD;;;;0.0;white ; black 
+Nissan Altima 2.5 S;2015;60384 miles;;;;;;;8259,00;USD;;;;2.0;gray ; black 
+Chevrolet Express Passenger 3500 LT LWB;2019;26865 miles;;;;;;;22695,00;USD;;;;0.0;white ; gray 
+Nissan Rogue SV FWD;2019;23388 miles;;;;;;;17697,00;USD;;;;0.0;white ; black 
+Dodge Challenger R/T RWD;2019;22070 miles;;;;;;;24679,00;USD;;;;1.0;black ; black 
+Chevrolet Malibu LT;2020;5801 miles;;;;;;;18988,00;USD;;;;0.0;gray ; black 
+Kia Optima LX Automatic;2020;15464 miles;;;;;;;14990,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;45034 miles;;;;;;;15541,00;USD;;;;0.0;black ; black 
+Toyota Camry LE Automatic;2019;31506 miles;;;;;;;16486,00;USD;;;;0.0;white ; black 
+Chevrolet Express Passenger 3500 LT LWB;2019;27768 miles;;;;;;;22790,00;USD;;;;0.0;white ; gray 
+Dodge Grand Caravan SXT;2019;42607 miles;;;;;;;17014,00;USD;;;;0.0;gray ; black 
+Chrysler 300 Limited RWD;2019;18805 miles;;;;;;;21988,00;USD;;;;0.0;black ; black 
+Kia Optima LX;2019;24707 miles;;;;;;;14800,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;28796 miles;;;;;;;18197,00;USD;;;;0.0;white ; black 
+Dodge Grand Caravan SXT;2019;34088 miles;;;;;;;14991,00;USD;;;;0.0;black ; black 
+Nissan Rogue SV FWD;2019;35060 miles;;;;;;;16495,00;USD;;;;0.0;black ; black 
+Hyundai Elantra SEL 2.0L Automatic;2019;37206 miles;;;;;;;10875,00;USD;;;;1.0;black ; gray 
+Dodge Grand Caravan SXT;2019;21033 miles;;;;;;;18495,00;USD;;;;0.0;red ; black 
+Dodge Grand Caravan SXT;2019;40882 miles;;;;;;;14557,00;USD;;;;0.0;silver ; black 
+Dodge Grand Caravan SXT;2019;32658 miles;;;;;;;17000,00;USD;;;;0.0;red ; black 
+Nissan Sentra SV CVT;2017;44909 miles;;;;;;;10999,00;USD;;;;0.0;black ; black 
+Toyota 4Runner SR5 4WD;2019;29678 miles;;;;;;;29500,00;USD;;;;0.0;silver ; black 
+Hyundai Elantra SEL 2.0L Automatic;2019;28290 miles;;;;;;;12989,00;USD;;;;0.0;white ; beige 
+Hyundai Elantra SEL 2.0L Automatic;2019;41477 miles;;;;;;;14327,00;USD;;;;1.0;black ; gray 
+Hyundai Elantra GT Hatchback Automatic;2017;56289 miles;;;;;;;9250,00;USD;;;;0.0;silver ; black 
+Nissan Sentra SV CVT;2019;31624 miles;;;;;;;13000,00;USD;;;;0.0;white ; black 
+Honda Accord LX Sedan CVT;2017;38375 miles;;;;;;;14995,00;USD;;;;1.0;gray ; black 
+Toyota Corolla LE CVT;2020;6302 miles;;;;;;;15977,00;USD;;;;0.0;gray ; gray 
+Nissan Sentra SV CVT;2017;44909 miles;;;;;;;10999,00;USD;;;;0.0;black ; black 
+Nissan Rogue SV FWD;2019;37627 miles;;;;;;;16697,00;USD;;;;0.0;silver ; black 
+Toyota Camry LE Automatic;2019;27738 miles;;;;;;;15898,00;USD;;;;0.0;white ; black 
+Nissan Sentra SV CVT;2019;22420 miles;;;;;;;12995,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;34745 miles;;;;;;;15600,00;USD;;;;0.0;black ; black 
+Kia Soul + Automatic;2019;34626 miles;;;;;;;11999,00;USD;;;;0.0;gray ; black 
+Nissan Sentra SV CVT;2019;38195 miles;;;;;;;11445,00;USD;;;;0.0;white ; black 
+Volkswagen Passat 2.0T Wolfsburg Edition;2019;37859 miles;;;;;;;13497,00;USD;;;;0.0;silver ; black 
+Kia Soul + Automatic;2019;16836 miles;;;;;;;12591,00;USD;;;;0.0;white ; black 
+Lexus ES ES 350;2008;164187 miles;;;;;;;6064,00;USD;;;;0.0;black ; beige 
+Toyota Corolla L CVT;2017;64968 miles;;;;;;;9900,00;USD;;;;0.0;black ; gray 
+Kia Forte LX Sedan Automatic;2018;61563 miles;;;;;;;9285,00;USD;;;;1.0;white ; black 
+Hyundai Elantra GLS Sedan Automatic;2013;79672 miles;;;;;;;6999,00;USD;;;;1.0;silver ; gray 
+Dodge Grand Caravan SXT;2019;51381 miles;;;;;;;16469,00;USD;;;;0.0;white ; black 
+Ford Fusion Hybrid SE FWD;2019;24635 miles;;;;;;;15391,00;USD;;;;0.0;silver ; gray 
+Chevrolet Express Passenger 3500 LT LWB;2019;23130 miles;;;;;;;22595,00;USD;;;;0.0;white ; gray 
+Toyota Camry LE Automatic;2019;29085 miles;;;;;;;16400,00;USD;;;;0.0;black ; unknown 
+Hyundai Elantra GT Hatchback Automatic;2017;56289 miles;;;;;;;9250,00;USD;;;;0.0;silver ; black 
+Dodge Grand Caravan SXT;2019;41260 miles;;;;;;;16482,00;USD;;;;0.0;black ; black 
+Ford Fusion Hybrid SE FWD;2019;31239 miles;;;;;;;16784,00;USD;;;;1.0;white ; black 
+Honda Civic Si Sedan Manual;2017;38724 miles;;;;;;;16995,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;34099 miles;;;;;;;16795,00;USD;;;;0.0;silver ; black 
+Ford Fusion SE FWD;2019;96 miles;;;;;;;17290,00;USD;;;;0.0;black ; black 
+Kia Optima LX;2019;24707 miles;;;;;;;14800,00;USD;;;;0.0;black ; black 
+Ford Focus SE Sedan;2014;90846 miles;;;;;;;6499,00;USD;;;;0.0;white ; beige 
+"Ram 1500 Big Horn/Lone Star Crew Cab 5'7"" Box 2WD";2019;1044 miles;;;;;;;24500,00;USD;;;;0.0;silver ; black 
+Nissan Sentra SV CVT;2019;25202 miles;;;;;;;11995,00;USD;;;;0.0;gray ; black 
+Volkswagen Passat V6 SEL Premium DSG;2017;52563 miles;;;;;;;15998,00;USD;;;;0.0;silver ; gray 
+Dodge Grand Caravan  ;2019;32457 miles;;;;;;;18885,00;USD;;;;0.0;blue ; black 
+Mercedes-Benz GLC GLC 43 AMG 4MATIC SUV;2017;52770 miles;;;;;;;36885,00;USD;;;;0.0;silver ; beige 
+Nissan Altima 2.5 SL;2017;24020 miles;;;;;;;17448,00;USD;;;;0.0;white ; black 
+Kia Optima LX 2.4L Automatic;2012;111596 miles;;;;;;;7771,00;USD;;;;0.0;silver ; beige 
+Jeep Wrangler Unlimited Sport S;2020;6 miles;;;;;;;37888,00;USD;;;;0.0;red ; black 
+"Ram 1500 Rebel Quad Cab 6'4"" Box 4WD";2019;29569 miles;;;;;;;37488,00;USD;;;;0.0;silver ; black 
+Honda Insight LX;2013;79865 miles;;;;;;;7985,00;USD;;;;0.0;unknown ; unknown 
+Jeep Wrangler Unlimited Sport;2015;139144 miles;;;;;;;28050,00;USD;;;;0.0;silver ; black 
+Toyota 4Runner SR5 V6 RWD;2009;221767 miles;;;;;;;7900,00;USD;;;;1.0;gray ; black 
+Jeep Cherokee Limited 4WD;2019;11327 miles;;;;;;;26895,00;USD;;;;0.0;white ; black 
+Kia Sedona EX;2020;7400 miles;;;;;;;28652,00;USD;;;;0.0;gray ; gray 
+Ford Fusion SEL FWD;2019;32867 miles;;;;;;;16490,00;USD;;;;0.0;gold ; gray 
+Dodge Grand Caravan  ;2019;36567 miles;;;;;;;18499,00;USD;;;;0.0;white ; black 
+Ford Fusion SE FWD;2016;65734 miles;;;;;;;11249,00;USD;;;;0.0;blue ; unknown 
+Nissan Sentra SV CVT;2016;48067 miles;;;;;;;10989,00;USD;;;;0.0;white ; black 
+Honda Accord EX-L 1.5T CVT;2018;26211 miles;;;;;;;21695,00;USD;;;;0.0;silver ; black 
+Toyota Highlander XLE V6 FWD;2018;10895 miles;;;;;;;29995,00;USD;;;;0.0;gray ; unknown 
+Ford Focus SE Hatchback;2017;28164 miles;;;;;;;13595,00;USD;;;;0.0;red ; black 
+Toyota Highlander XLE V6 AWD;2017;31736 miles;;;;;;;31293,00;USD;;;;0.0;brown ; black 
+Ford Mustang EcoBoost Fastback;2017;49416 miles;;;;;;;20995,00;USD;;;;0.0;red ; black 
+Honda Civic EX Hatchback CVT;2018;31749 miles;;;;;;;22999,00;USD;;;;0.0;silver ; black 
+Mercedes-Benz GLS GLS 550 4MATIC;2017;38828 miles;;;;;;;51995,00;USD;;;;0.0;white ; beige 
+Lexus LS LS 460 RWD;2017;15244 miles;;;;;;;46995,00;USD;;;;0.0;black ; gray 
+Nissan Rogue S FWD;2011;133263 miles;;;;;;;6499,00;USD;;;;0.0;gray ; black 
+Nissan Altima 2.5 SR;2018;29119 miles;;;;;;;16099,00;USD;;;;1.0;black ; black 
+Honda Civic LX Sedan CVT;2018;39589 miles;;;;;;;15799,00;USD;;;;0.0;black ; black 
+Kia Soul Base Automatic;2016;41889 miles;;;;;;;9299,00;USD;;;;0.0;black ; black 
+Toyota Corolla LE CVT;2020;13233 miles;;;;;;;15500,00;USD;;;;0.0;unknown ; unknown 
+Nissan Altima 2.5 S;2015;60384 miles;;;;;;;8259,00;USD;;;;2.0;gray ; black 
+Kia Sportage LX FWD;2017;139210 miles;;;;;;;8950,00;USD;;;;1.0;blue ; black 
+Toyota Camry LE Automatic;2019;23165 miles;;;;;;;17948,00;USD;;;;0.0;white ; black 
+Honda Civic LX Sedan CVT;2017;31121 miles;;;;;;;14712,00;USD;;;;0.0;white ; beige 
+Nissan Rogue SV FWD;2019;35060 miles;;;;;;;16495,00;USD;;;;0.0;black ; black 
+Toyota Corolla LE CVT;2020;10350 miles;;;;;;;15995,00;USD;;;;0.0;white ; gray 
+Ford Fusion Hybrid SE FWD;2019;32352 miles;;;;;;;14950,00;USD;;;;0.0;silver ; black 
+Ford Fusion SEL FWD;2019;39154 miles;;;;;;;13944,00;USD;;;;0.0;silver ; black 
+Nissan Rogue SV AWD;2017;43164 miles;;;;;;;13999,00;USD;;;;2.0;blue ; black 
+Nissan Rogue Sport S FWD;2019;32504 miles;;;;;;;14393,00;USD;;;;0.0;white ; black 
+Toyota Camry Hybrid LE;2018;89961 miles;;;;;;;14998,00;USD;;;;0.0;black ; unknown 
+Chevrolet Express Passenger 3500 LT LWB;2019;27768 miles;;;;;;;22790,00;USD;;;;0.0;white ; gray 
+Toyota Camry LE Automatic;2019;33714 miles;;;;;;;15999,00;USD;;;;0.0;white ; black 
+Toyota Corolla LE CVT;2020;17410 miles;;;;;;;15668,00;USD;;;;0.0;white ; black 
+Toyota Corolla LE CVT;2020;17939 miles;;;;;;;14941,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;45034 miles;;;;;;;15541,00;USD;;;;0.0;black ; black 
+Mercedes-Benz SL SL 500 Roadster;2005;19340 miles;;;;;;;22950,00;USD;;;;0.0;black ; black 
+Chevrolet Malibu LS;1997;167832 miles;;;;;;;1500,00;USD;;;;0.0;white ; beige 
+Nissan Sentra SV CVT;2018;31980 miles;;;;;;;9500,00;USD;;;;1.0;red ; black 
+Jeep Grand Cherokee Laredo 4WD;1999;170196 miles;;;;;;;3985,00;USD;;;;0.0;black ; beige 
+Dodge Grand Caravan SXT;2019;42607 miles;;;;;;;17014,00;USD;;;;0.0;gray ; black 
+Kia Forte LX Sedan Automatic;2017;111504 miles;;;;;;;6599,00;USD;;;;0.0;gray ; gray 
+Ford Fusion Hybrid SE FWD;2019;41216 miles;;;;;;;14391,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;28796 miles;;;;;;;18197,00;USD;;;;0.0;white ; black 
+Honda Accord LX Sedan CVT;2017;21606 miles;;;;;;;14900,00;USD;;;;0.0;white ; beige 
+Nissan Sentra SV CVT;2019;37176 miles;;;;;;;11800,00;USD;;;;0.0;black ; black 
+Kia Soul Base Automatic;2013;126315 miles;;;;;;;4999,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;34088 miles;;;;;;;14991,00;USD;;;;0.0;black ; black 
+Kia Soul + Automatic;2019;46991 miles;;;;;;;14000,00;USD;;;;0.0;white ; black 
+Nissan Sentra SV CVT;2019;26830 miles;;;;;;;13097,00;USD;;;;0.0;white ; black 
+Ford Escape SE FWD;2017;36765 miles;;;;;;;13787,00;USD;;;;0.0;white ; black 
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2019;21375 miles;;;;;;;36995,00;USD;;;;0.0;black ; unknown 
+Ford Fusion SE FWD;2015;113971 miles;;;;;;;7499,00;USD;;;;1.0;black ; unknown 
+Mercedes-Benz Sprinter Passenger Van 2500 Standard Roof SWB;2013;84182 miles;;;;;;;21995,00;USD;;;;0.0;white ; black 
+Kia Optima LX;2019;24707 miles;;;;;;;14800,00;USD;;;;0.0;black ; black 
+Ford Fusion Hybrid SE FWD;2019;26904 miles;;;;;;;15590,00;USD;;;;0.0;black ; beige 
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2017;32674 miles;;;;;;;31559,00;USD;;;;0.0;gray ; gray 
+Bentley Continental Supersports Coupe;2010;34146 miles;;;;;;;69900,00;USD;;;;0.0;blue ; red 
+Bentley Flying Spur W12 Sedan;2008;63000 miles;;;;;;;38500,00;USD;;;;0.0;white ; unknown 
+Ford Explorer XLT FWD;2017;20825 miles;;;;;;;19149,00;USD;;;;0.0;white ; black 
+Chevrolet Cruze LT with 1SD Sedan Automatic;2017;38671 miles;;;;;;;10995,00;USD;;;;0.0;blue ; black 
+Ford Fusion SE FWD;2013;98073 miles;;;;;;;5991,00;USD;;;;0.0;gray ; black 
+Toyota Corolla LE CVT;2017;37913 miles;;;;;;;9997,00;USD;;;;2.0;silver ; black 
+Toyota Corolla LE CVT;2020;10267 miles;;;;;;;14999,00;USD;;;;0.0;white ; unknown 
+Hyundai Elantra SE 2.0L Sedan Automatic;2017;79835 miles;;;;;;;6995,00;USD;;;;0.0;black ; gray 
+Toyota Corolla LE CVT;2017;76974 miles;;;;;;;11500,00;USD;;;;1.0;black ; unknown 
+FIAT 500 Lounge Hatchback;2018;4769 miles;;;;;;;11995,00;USD;;;;1.0;white ; black 
+Honda Civic LX Sedan CVT;2017;33607 miles;;;;;;;13995,00;USD;;;;0.0;black ; black 
+Ford Escape SE 4WD;2017;61651 miles;;;;;;;12590,00;USD;;;;0.0;black ; black 
+Nissan Rogue Sport S FWD;2019;32504 miles;;;;;;;14393,00;USD;;;;0.0;white ; black 
+Volvo XC70 3.2L;2008;107389 miles;;;;;;;5995,00;USD;;;;1.0;gray ; unknown 
+Hyundai Sonata Sport 2.4L;2017;187322 miles;;;;;;;8000,00;USD;;;;0.0;white ; beige 
+Ford F-150 XL SuperCrew 5.5' Box 4WD;2018;86280 miles;;;;;;;28991,00;USD;;;;1.0;white ; unknown 
+Chevrolet Volt Hatch;2013;127556 miles;;;;;;;6980,00;USD;;;;0.0;black ; black 
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2017;17563 miles;;;;;;;34000,00;USD;;;;0.0;white ; gray 
+Ford Explorer XLT 4WD;2017;32292 miles;;;;;;;25988,00;USD;;;;0.0;red ; black 
+Honda CR-V LX AWD;2014;76317 miles;;;;;;;11399,00;USD;;;;2.0;black ; black 
+Chevrolet Silverado 1500 LS Extended Cab Standard Box 2WD;2010;167323 miles;;;;;;;6000,00;USD;;;;1.0;white ; gray 
+Ford Fusion Hybrid SE FWD;2019;29476 miles;;;;;;;15999,00;USD;;;;0.0;black ; black 
+Toyota Camry LE Automatic;2019;12636 miles;;;;;;;18274,00;USD;;;;1.0;gray ; gray 
+Nissan Rogue 2017.5 SL FWD;2017;29042 miles;;;;;;;16987,00;USD;;;;0.0;white ; black 
+Dodge Grand Caravan SXT;2019;44325 miles;;;;;;;12999,00;USD;;;;0.0;white ; black 
+Ford F-150 XL SuperCrew 5.5' Box 4WD;2018;40326 miles;;;;;;;24250,00;USD;;;;0.0;black ; gray 
+Ford Fusion Hybrid SE FWD;2019;33478 miles;;;;;;;14857,00;USD;;;;0.0;gray ; gray 
+Toyota Corolla LE CVT;2020;11663 miles;;;;;;;17929,00;USD;;;;0.0;silver ; unknown 
+Chrysler 300 Limited RWD;2019;18805 miles;;;;;;;21988,00;USD;;;;0.0;black ; black 
+Toyota Camry SE Automatic;2019;24071 miles;;;;;;;18902,00;USD;;;;0.0;black ; unknown 
+Toyota Camry SE Automatic;2019;38665 miles;;;;;;;18220,00;USD;;;;0.0;silver ; gray 
+Toyota Camry SE Automatic;2019;37576 miles;;;;;;;18490,00;USD;;;;0.0;black ; gray 
+Porsche Boxster S Manual;2002;33328 miles;;;;;;;16950,00;USD;;;;0.0;silver ; gray 
+Volkswagen Passat TDI SEL Premium Sedan DSG;2013;91571 miles;;;;;;;8995,00;USD;;;;0.0;gray ; unknown 
+Chrysler 300 Limited AWD;2019;11001 miles;;;;;;;24983,00;USD;;;;0.0;white ; black 
+Nissan Rogue SV FWD;2019;35560 miles;;;;;;;15453,00;USD;;;;0.0;white ; black 
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2018;28143 miles;;;;;;;32894,00;USD;;;;0.0;silver ; gray 
+Nissan Frontier SV Crew Cab 2WD Automatic;2019;26429 miles;;;;;;;19500,00;USD;;;;0.0;white ; gray 
+Chevrolet Malibu LT;2020;15589 miles;;;;;;;18997,00;USD;;;;0.0;white ; black 
+Kia Forte EX Sedan Automatic;2011;99404 miles;;;;;;;4978,00;USD;;;;0.0;white ; brown 
+Dodge Grand Caravan SXT;2019;37484 miles;;;;;;;16900,00;USD;;;;0.0;white ; black 
+Hyundai Genesis 3.8;2014;88878 miles;;;;;;;9991,00;USD;;;;0.0;black ; black 
+Honda Civic EX Sedan CVT;2017;26714 miles;;;;;;;16575,00;USD;;;;0.0;red ; black 
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2019;31436 miles;;;;;;;36995,00;USD;;;;0.0;white ; unknown 
+Honda CR-V LX AWD;2014;76317 miles;;;;;;;11399,00;USD;;;;2.0;black ; black 
+Chevrolet Volt Hatch;2013;49565 miles;;;;;;;10450,00;USD;;;;0.0;white ; black 
+Nissan Sentra SV CVT;2019;27697 miles;;;;;;;11999,00;USD;;;;0.0;silver ; black 
+Dodge Grand Caravan SXT;2019;30258 miles;;;;;;;16293,00;USD;;;;0.0;white ; black 
+Chrysler 300 Limited AWD;2019;21592 miles;;;;;;;19995,00;USD;;;;1.0;black ; black 
+Honda Civic LX Sedan CVT;2017;33607 miles;;;;;;;13995,00;USD;;;;0.0;black ; black 
+Ford Fusion Hybrid Titanium FWD;2019;31963 miles;;;;;;;17590,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;38988 miles;;;;;;;18273,00;USD;;;;0.0;gray ; black 
+Nissan Rogue SV FWD;2019;39566 miles;;;;;;;14664,00;USD;;;;0.0;gray ; black 
+Nissan Altima 2.5 SV;2015;96070 miles;;;;;;;8488,00;USD;;;;3.0;white ; beige 
+Hyundai Elantra Sport 1.6T Sedan Manual;2017;29319 miles;;;;;;;13599,00;USD;;;;0.0;blue ; black 
+Nissan Altima S FWD;2019;19576 miles;;;;;;;16495,00;USD;;;;0.0;black ; black 
+Toyota Corolla LE CVT;2020;30515 miles;;;;;;;16988,00;USD;;;;0.0;silver ; black 
+Lexus SC SC 430 Convertible;2006;127050 miles;;;;;;;10980,00;USD;;;;0.0;black ; unknown 
+Volvo XC70 3.2L;2008;107389 miles;;;;;;;5995,00;USD;;;;1.0;gray ; unknown 
+Ford Fusion Hybrid SE FWD;2019;17612 miles;;;;;;;17295,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;22745 miles;;;;;;;17491,00;USD;;;;1.0;silver ; black 
+Toyota Corolla LE CVT;2019;26770 miles;;;;;;;13393,00;USD;;;;0.0;black ; unknown 
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;48742 miles;;;;;;;8995,00;USD;;;;1.0;white ; beige 
+INFINITI JX35 AWD;2013;168586 miles;;;;;;;7804,00;USD;;;;0.0;gray ; gray 
+Ford Escape SE 4WD;2017;128249 miles;;;;;;;9999,00;USD;;;;0.0;gray ; black 
+Nissan Sentra SV CVT;2019;24632 miles;;;;;;;14100,00;USD;;;;0.0;silver ; black 
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;122442 miles;;;;;;;7499,00;USD;;;;1.0;gray ; gray 
+Mercedes-Benz Sprinter Passenger Van 2500 Standard Roof SWB;2013;84182 miles;;;;;;;21995,00;USD;;;;0.0;white ; black 
+Chevrolet Express Passenger 3500 LT LWB;2019;34100 miles;;;;;;;20700,00;USD;;;;0.0;white ; gray 
+Ford Fusion SE AWD;2019;25802 miles;;;;;;;16900,00;USD;;;;0.0;black ; black 
+Nissan Altima 2.5 S Sedan CVT;2011;147450 miles;;;;;;;4299,00;USD;;;;1.0;black ; black 
+Dodge Grand Caravan SXT;2019;43670 miles;;;;;;;17472,00;USD;;;;0.0;white ; black 
+Nissan Rogue S FWD;2013;85857 miles;;;;;;;6900,00;USD;;;;1.0;white ; black 
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;21095 miles;;;;;;;9700,00;USD;;;;1.0;blue ; gray 
+Honda Civic EX-T Sedan CVT;2017;22890 miles;;;;;;;16987,00;USD;;;;0.0;white ; gray 
+Kia Optima EX;2015;90485 miles;;;;;;;8944,00;USD;;;;0.0;black ; gray 
+Ford Fusion Hybrid SE FWD;2019;34034 miles;;;;;;;15545,00;USD;;;;0.0;white ; unknown 
+Dodge Grand Caravan SXT;2019;44273 miles;;;;;;;16495,00;USD;;;;0.0;silver ; black 
+GMC Terrain SLT FWD;2019;46445 miles;;;;;;;15995,00;USD;;;;0.0;black ; black 
+Nissan Rogue SV FWD;2019;29189 miles;;;;;;;15100,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;34451 miles;;;;;;;16400,00;USD;;;;0.0;white ; black 
+Audi A6 Prestige 3.0;2019;9596 miles;;;;;;;56988,00;USD;;;;0.0;black ; brown 
+Nissan Maxima Platinum 3.5L;2019;8512 miles;;;;;;;33900,00;USD;;;;0.0;red ; beige 
+Toyota Sienna LE 8-Passenger FWD;2017;23714 miles;;;;;;;22595,00;USD;;;;1.0;gray ; gray 
+Maserati GranTurismo MC Centennial Edition Convertible;2017;3955 miles;;;;;;;109995,00;USD;;;;0.0;black ; unknown 
+Aston Martin Vanquish S Volante;2018;6441 miles;;;;;;;189995,00;USD;;;;0.0;red ; black 
+Ferrari Portofino Convertible;2019;90 miles;;;;;;;244995,00;USD;;;;0.0;red ; unknown 
+Cadillac ATS Premium Luxury Sedan 3.6 RWD;2018;17097 miles;;;;;;;26000,00;USD;;;;0.0;silver ; gray 
+GMC Terrain SLE-1 AWD;2013;93788 miles;;;;;;;10900,00;USD;;;;0.0;blue ; black 
+Mercedes-Benz E-Class E 300 Luxury 4MATIC Sedan;2017;21604 miles;;;;;;;32992,00;USD;;;;0.0;blue ; beige 
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;33433 miles;;;;;;;35492,00;USD;;;;0.0;gray ; black 
+Lexus GX GX 460;2014;63500 miles;;;;;;;25991,00;USD;;;;1.0;black ; unknown 
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;36990 miles;;;;;;;35991,00;USD;;;;1.0;white ; beige 
+Honda Civic LX Sedan CVT;2017;34408 miles;;;;;;;15990,00;USD;;;;0.0;blue ; unknown 
+Honda Accord Sport Special Edition Sedan CVT;2017;21998 miles;;;;;;;20999,00;USD;;;;0.0;blue ; unknown 
+Lexus RX RX 350 AWD;2012;93334 miles;;;;;;;15900,00;USD;;;;0.0;gray ; black 
+GMC Acadia SLT with SLT-1 FWD;2016;37706 miles;;;;;;;19750,00;USD;;;;1.0;white ; gray 
+Audi S3 Premium Plus;2017;44598 miles;;;;;;;29997,00;USD;;;;0.0;black ; black 
+Audi A5 Sport Coupe Tiptronic;2017;27010 miles;;;;;;;25695,00;USD;;;;0.0;gray ; black 
+Chevrolet Blazer 3LT AWD;2019;20673 miles;;;;;;;34000,00;USD;;;;0.0;white ; black 
+Chevrolet Suburban LS 4WD;2019;44864 miles;;;;;;;41000,00;USD;;;;0.0;black ; black 
+Chevrolet Trax LT AWD;2018;5950 miles;;;;;;;18552,00;USD;;;;0.0;gray ; black 
+Chevrolet Equinox LT with 1LT AWD;2018;31029 miles;;;;;;;20745,00;USD;;;;0.0;gray ; black 
+Chevrolet Silverado 1500 LT Double Cab Standard Box 4WD;2017;22099 miles;;;;;;;32888,00;USD;;;;0.0;silver ; black 
+Lincoln MKZ Hybrid Select FWD;2017;40757 miles;;;;;;;20445,00;USD;;;;0.0;silver ; black 
+Nissan Sentra SR CVT;2017;34199 miles;;;;;;;12934,00;USD;;;;0.0;red ; black 
+Nissan Armada SL RWD;2019;37387 miles;;;;;;;34994,00;USD;;;;0.0;gray ; black 
+Mercedes-Benz GLC GLC 300 SUV RWD;2017;33084 miles;;;;;;;28866,00;USD;;;;0.0;unknown ; beige 
+Jeep Patriot High Altitude FWD;2017;35495 miles;;;;;;;16230,00;USD;;;;0.0;gray ; gray 
+Kia Optima LX;2019;37174 miles;;;;;;;16850,00;USD;;;;0.0;silver ; black 
+Toyota Corolla SE CVT;2017;109325 miles;;;;;;;10000,00;USD;;;;0.0;silver ; gray 
+Nissan Altima SL FWD;2019;32028 miles;;;;;;;18946,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;38261 miles;;;;;;;17950,00;USD;;;;0.0;white ; black 
+Jeep Patriot Sport FWD w/ Air Conditioning;2010;165943 miles;;;;;;;3500,00;USD;;;;2.0;black ; gray 
+Ford Fusion Sport FWD;2010;121921 miles;;;;;;;5000,00;USD;;;;0.0;gray ; unknown 
+Chevrolet Malibu LT;2020;5644 miles;;;;;;;19988,00;USD;;;;0.0;gray ; gray 
+Toyota Camry SE I4 Automatic;2017;167993 miles;;;;;;;9998,00;USD;;;;0.0;gray ; black 
+Ford Fiesta SE Sedan;2019;25648 miles;;;;;;;8588,00;USD;;;;0.0;red ; black 
+Ford Fusion SEL FWD;2019;18215 miles;;;;;;;17999,00;USD;;;;0.0;silver ; black 
+Toyota Corolla LE CVT;2020;20154 miles;;;;;;;16990,00;USD;;;;0.0;silver ; black 
+Ford Escape SE FWD;2017;30595 miles;;;;;;;13944,00;USD;;;;0.0;blue ; black 
+Dodge Grand Caravan SXT;2019;40212 miles;;;;;;;16200,00;USD;;;;1.0;black ; black 
+Chrysler 300 S RWD;2019;39955 miles;;;;;;;16734,00;USD;;;;0.0;gray ; black 
+Ford Fusion Titanium AWD;2019;35765 miles;;;;;;;17504,00;USD;;;;0.0;black ; black 
+Nissan Sentra SV CVT;2019;14096 miles;;;;;;;13997,00;USD;;;;0.0;black ; black 
+Nissan Versa SV Sedan CVT;2019;15952 miles;;;;;;;10994,00;USD;;;;1.0;black ; black 
+Ford Fusion Hybrid SE FWD;2019;32712 miles;;;;;;;14453,00;USD;;;;0.0;blue ; black 
+Nissan Sentra SV CVT;2017;28465 miles;;;;;;;10995,00;USD;;;;0.0;black ; black 
+Nissan Sentra S CVT;2019;39702 miles;;;;;;;10991,00;USD;;;;1.0;white ; black 
+Chrysler Aspen Limited 4WD;2007;202000 miles;;;;;;;4995,00;USD;;;;1.0;black ; black 
+Nissan Rogue SV FWD;2019;33111 miles;;;;;;;17295,00;USD;;;;0.0;white ; black 
+Nissan Altima 2.5 S;2015;75500 miles;;;;;;;7879,00;USD;;;;1.0;silver ; gray 
+Honda Accord SE Sedan I4 Automatic;2012;80314 miles;;;;;;;8995,00;USD;;;;0.0;black ; black 
+Kia Soul + Automatic;2019;15474 miles;;;;;;;13993,00;USD;;;;0.0;white ; black 
+Ford Fusion Titanium AWD;2019;35039 miles;;;;;;;18880,00;USD;;;;0.0;black ; black 
+Dodge Challenger R/T RWD;2019;22070 miles;;;;;;;24679,00;USD;;;;1.0;black ; black 
+Chevrolet Malibu LT;2020;12071 miles;;;;;;;19889,00;USD;;;;0.0;white ; black 
+Ford Fusion Hybrid SE FWD;2019;69630 miles;;;;;;;14444,00;USD;;;;0.0;white ; black 
+Ford Fiesta SE Sedan;2019;18192 miles;;;;;;;10495,00;USD;;;;0.0;silver ; unknown 
+Honda Accord LX Sedan CVT;2017;25751 miles;;;;;;;15254,00;USD;;;;0.0;gray ; black 
+Dodge Journey GT AWD;2019;35244 miles;;;;;;;18397,00;USD;;;;0.0;black ; black 
+Chevrolet Equinox LT with 1LT FWD;2019;15023 miles;;;;;;;15700,00;USD;;;;1.0;white ; gray 
+Toyota Camry XLE I4 Automatic;2017;30637 miles;;;;;;;16198,00;USD;;;;0.0;black ; black 
+Ford Escape SE FWD;2017;58508 miles;;;;;;;13918,00;USD;;;;0.0;red ; black 
+HUMMER H2 SUV;2006;214563 miles;;;;;;;12900,00;USD;;;;0.0;white ; beige 
+Chevrolet Equinox LT with 1LT AWD;2017;72143 miles;;;;;;;13688,00;USD;;;;0.0;white ; gray 
+Hyundai Santa Fe SE 3.3L AWD;2017;114348 miles;;;;;;;10525,00;USD;;;;0.0;white ; gray 
+Nissan Sentra SV CVT;2019;22420 miles;;;;;;;12995,00;USD;;;;0.0;gray ; black 
+Ford Escape SE 4WD;2017;67253 miles;;;;;;;12995,00;USD;;;;1.0;white ; black 
+Ford F-150 XL SuperCrew 5.5' Box 4WD;2013;88659 miles;;;;;;;16499,00;USD;;;;0.0;white ; unknown 
+Ford Focus SE Hatchback;2014;74772 miles;;;;;;;5990,00;USD;;;;0.0;black ; gray 
+Ford Fusion SE FWD;2017;31104 miles;;;;;;;13985,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;41264 miles;;;;;;;17014,00;USD;;;;0.0;white ; black 
+Hyundai Elantra GT Hatchback Automatic;2017;56289 miles;;;;;;;9250,00;USD;;;;0.0;silver ; black 
+Ford Escape SE FWD;2017;17590 miles;;;;;;;15850,00;USD;;;;0.0;white ; black 
+Ford Escape SE 4WD;2017;24023 miles;;;;;;;14999,00;USD;;;;1.0;white ; black 
+Toyota Camry LE Automatic;2019;29454 miles;;;;;;;16075,00;USD;;;;0.0;black ; unknown 
+Ford Fusion SE FWD;2016;92714 miles;;;;;;;8995,00;USD;;;;0.0;white ; black 
+Jeep Grand Cherokee Limited 4WD;2017;27802 miles;;;;;;;27175,00;USD;;;;0.0;white ; beige 
+Dodge Grand Caravan SXT;2019;34200 miles;;;;;;;16597,00;USD;;;;0.0;silver ; black 
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2017;137897 miles;;;;;;;22920,00;USD;;;;0.0;silver ; gray 
+BMW 3 Series 330i RWD;2020;20894 miles;;;;;;;29996,00;USD;;;;0.0;gray ; beige 
+Hyundai Accent SE Sedan Automatic;2017;41505 miles;;;;;;;7985,00;USD;;;;1.0;gray ; gray 
+Honda Civic LX Sedan CVT;2017;54150 miles;;;;;;;12999,00;USD;;;;2.0;gray ; gray 
+Jeep Compass Sport FWD;2014;111118 miles;;;;;;;6500,00;USD;;;;0.0;white ; gray 
+Nissan Sentra SV CVT;2019;38195 miles;;;;;;;11445,00;USD;;;;0.0;white ; black 
+Lexus ES ES 350;2017;16659 miles;;;;;;;25588,00;USD;;;;0.0;white ; beige 
+Honda Civic LX Sedan CVT;2017;36115 miles;;;;;;;13495,00;USD;;;;0.0;black ; black 
+Hyundai Elantra SEL 2.0L Automatic;2019;28394 miles;;;;;;;11848,00;USD;;;;0.0;silver ; gray 
+Pontiac Grand Prix 4dr Sedan;2007;190534 miles;;;;;;;3488,00;USD;;;;0.0;silver ; unknown 
+Chevrolet Corvette Coupe;1999;86946 miles;;;;;;;12990,00;USD;;;;0.0;red ; black 
+Kia Forte EX Sedan Automatic;2011;99404 miles;;;;;;;4978,00;USD;;;;0.0;white ; brown 
+Toyota Corolla LE CVT;2017;71564 miles;;;;;;;11972,00;USD;;;;1.0;black ; unknown 
+Ford Edge SEL AWD;2017;49617 miles;;;;;;;15993,00;USD;;;;1.0;black ; unknown 
+Toyota Camry SE I4 Automatic;2017;33324 miles;;;;;;;17311,00;USD;;;;0.0;silver ; unknown 
+Chrysler 300 S AWD;2017;45931 miles;;;;;;;16699,00;USD;;;;2.0;gray ; black 
+Honda CR-V EX-L AWD;2016;44746 miles;;;;;;;15995,00;USD;;;;1.0;white ; black 
+Chevrolet Express Passenger 3500 LT LWB;2019;27768 miles;;;;;;;22790,00;USD;;;;0.0;white ; gray 
+Ford Fusion SE FWD;2017;74930 miles;;;;;;;11999,00;USD;;;;1.0;white ; unknown 
+Kia Forte LX Sedan Automatic;2017;112000 miles;;;;;;;6999,00;USD;;;;0.0;black ; gray 
+Chevrolet Malibu Limited LT;2016;40680 miles;;;;;;;10990,00;USD;;;;0.0;white ; black 
+Ford Escape SE FWD;2017;33619 miles;;;;;;;14999,00;USD;;;;0.0;gray ; black 
+Ford EcoSport Titanium 4WD;2019;27632 miles;;;;;;;13798,00;USD;;;;0.0;white ; gray 
+Dodge Grand Caravan SXT;2019;38899 miles;;;;;;;14445,00;USD;;;;0.0;red ; black 
+Ford Escape Titanium 4WD;2017;27875 miles;;;;;;;17888,00;USD;;;;0.0;gray ; black 
+Ford Escape SE 4WD;2017;42960 miles;;;;;;;16990,00;USD;;;;0.0;black ; black 
+Honda Civic EX-T Coupe CVT;2017;89743 miles;;;;;;;12800,00;USD;;;;2.0;black ; unknown 
+Toyota Corolla LE CVT;2017;30603 miles;;;;;;;13900,00;USD;;;;0.0;silver ; black 
+Ford Focus SE Hatchback;2014;101433 miles;;;;;;;6500,00;USD;;;;1.0;black ; unknown 
+Nissan Altima SR FWD;2019;6212 miles;;;;;;;17950,00;USD;;;;1.0;black ; black 
+Chevrolet Equinox LT with 1LT FWD;2017;110141 miles;;;;;;;10560,00;USD;;;;1.0;silver ; black 
+Ford Fusion SE AWD;2016;121904 miles;;;;;;;8601,00;USD;;;;0.0;gray ; black 
+Chrysler 300 Limited AWD;2019;11001 miles;;;;;;;24983,00;USD;;;;0.0;white ; black 
+Ford Escape SE FWD;2014;112722 miles;;;;;;;7924,00;USD;;;;1.0;white ; gray 
+Nissan Sentra S CVT;2018;34627 miles;;;;;;;10295,00;USD;;;;0.0;black ; black 
+Chevrolet Malibu LT with 1LT;2019;19376 miles;;;;;;;17000,00;USD;;;;0.0;black ; black 
+Toyota Camry LE Automatic;2019;23165 miles;;;;;;;17948,00;USD;;;;0.0;white ; black 
+Ford Fusion Sport FWD;2010;121921 miles;;;;;;;5000,00;USD;;;;0.0;gray ; unknown 
+Ford Escape SE 4WD;2017;50057 miles;;;;;;;14999,00;USD;;;;0.0;gray ; black 
+Hyundai Elantra SEL 2.0L Automatic;2019;29083 miles;;;;;;;12995,00;USD;;;;0.0;gray ; gray 
+Dodge Grand Caravan SXT;2019;34072 miles;;;;;;;14999,00;USD;;;;0.0;white ; black 
+Hyundai Elantra SEL 2.0L Automatic;2019;35605 miles;;;;;;;10995,00;USD;;;;1.0;blue ; gray 
+Nissan Sentra SV CVT;2017;86527 miles;;;;;;;7985,00;USD;;;;0.0;white ; black 
+Dodge Journey GT AWD;2019;27529 miles;;;;;;;18995,00;USD;;;;0.0;gray ; black 
+Honda CR-V LX AWD;2014;76317 miles;;;;;;;11399,00;USD;;;;2.0;black ; black 
+Nissan Rogue 2017.5 SL FWD;2017;29042 miles;;;;;;;16987,00;USD;;;;0.0;white ; black 
+Nissan Altima SR FWD;2019;6212 miles;;;;;;;17950,00;USD;;;;1.0;black ; black 
+Nissan Rogue SV FWD;2019;23200 miles;;;;;;;14998,00;USD;;;;0.0;gray ; black 
+Chevrolet Malibu LT;2020;14815 miles;;;;;;;19000,00;USD;;;;1.0;silver ; black 
+Kia Soul + Automatic;2019;33205 miles;;;;;;;14391,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;34833 miles;;;;;;;16499,00;USD;;;;0.0;red ; black 
+Dodge Grand Caravan SXT;2019;39603 miles;;;;;;;16490,00;USD;;;;0.0;red ; black 
+Kia Soul + Automatic;2019;22524 miles;;;;;;;14987,00;USD;;;;0.0;white ; black 
+Nissan Altima SL FWD;2019;15132 miles;;;;;;;19900,00;USD;;;;0.0;black ; black 
+Hyundai Elantra Limited 2.0L Sedan Automatic (PZEV);2017;66830 miles;;;;;;;11846,00;USD;;;;0.0;red ; beige 
+Mitsubishi Outlander Sport SE 2.0 FWD CVT;2019;27833 miles;;;;;;;13798,00;USD;;;;0.0;gray ; black 
+Ford Fusion Hybrid SE FWD;2019;17612 miles;;;;;;;17295,00;USD;;;;0.0;black ; black 
+Toyota 4Runner SR5 4WD;2019;25907 miles;;;;;;;30898,00;USD;;;;0.0;white ; black 
+Nissan Rogue SV FWD;2019;42089 miles;;;;;;;15170,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;44948 miles;;;;;;;16777,00;USD;;;;0.0;white ; black 
+"Ram 2500 Big Horn Crew Cab 6'4"" Box 4WD";2019;11702 miles;;;;;;;36990,00;USD;;;;0.0;white ; black 
+Nissan Sentra S CVT;2018;51679 miles;;;;;;;9795,00;USD;;;;0.0;silver ; black 
+Chevrolet Malibu LS;1997;167832 miles;;;;;;;1500,00;USD;;;;0.0;white ; beige 
+Hyundai Elantra SEL 2.0L Automatic;2019;34256 miles;;;;;;;12990,00;USD;;;;0.0;silver ; black 
+Dodge Grand Caravan SXT;2019;43042 miles;;;;;;;17899,00;USD;;;;0.0;silver ; black 
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;22273 miles;;;;;;;28881,00;USD;;;;0.0;white ; black 
+Dodge Journey GT FWD;2019;34920 miles;;;;;;;16777,00;USD;;;;0.0;white ; black 
+Kia Optima LX I4 Automatic;2008;113375 miles;;;;;;;3995,00;USD;;;;1.0;silver ; unknown 
+Toyota 4Runner SR5 4WD;2019;34406 miles;;;;;;;30999,00;USD;;;;0.0;black ; black 
+Nissan Rogue SV FWD;2019;26003 miles;;;;;;;17510,00;USD;;;;0.0;silver ; black 
+Nissan Sentra S CVT;2018;34627 miles;;;;;;;10295,00;USD;;;;0.0;black ; black 
+Toyota Corolla LE CVT;2020;9027 miles;;;;;;;18588,00;USD;;;;0.0;gray ; gray 
+Ford Fusion Hybrid SE FWD;2019;22215 miles;;;;;;;16987,00;USD;;;;0.0;white ; gray 
+Ford Fusion Hybrid SE FWD;2019;38052 miles;;;;;;;15230,00;USD;;;;0.0;red ; gray 
+Pontiac Grand Prix 4dr Sedan;2007;190534 miles;;;;;;;3488,00;USD;;;;0.0;silver ; unknown 
+BMW X3 xDrive28i AWD;2013;46607 miles;;;;;;;13397,00;USD;;;;1.0;black ; black 
+Ford Focus SE Hatchback;2014;74772 miles;;;;;;;5990,00;USD;;;;0.0;black ; gray 
+Kia Soul + Automatic;2019;31933 miles;;;;;;;11961,00;USD;;;;0.0;black ; black 
+Mercedes-Benz S-Class S 550 Sedan RWD;2011;77400 miles;;;;;;;21950,00;USD;;;;0.0;black ; gray 
+Kia Optima LX;2019;41574 miles;;;;;;;12857,00;USD;;;;0.0;silver ; black 
+Kia Optima LX Automatic;2020;15464 miles;;;;;;;14990,00;USD;;;;0.0;gray ; black 
+Nissan Sentra SV CVT;2019;28698 miles;;;;;;;14490,00;USD;;;;0.0;white ; black 
+Ford Fusion Hybrid SE FWD;2019;36159 miles;;;;;;;16000,00;USD;;;;0.0;black ; black 
+Nissan Sentra S CVT;2019;42091 miles;;;;;;;11988,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;37952 miles;;;;;;;18273,00;USD;;;;0.0;silver ; black 
+Ford Fusion Hybrid SE FWD;2019;26097 miles;;;;;;;15041,00;USD;;;;0.0;red ; unknown 
+Chevrolet Volt Hatch;2013;127556 miles;;;;;;;6980,00;USD;;;;0.0;black ; black 
+Chevrolet Silverado 1500 LT with 1LT Crew Cab Short Box 2WD;2014;189996 miles;;;;;;;13995,00;USD;;;;0.0;white ; black 
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;81855 miles;;;;;;;8795,00;USD;;;;2.0;black ; gray 
+Nissan Sentra SV CVT;2019;26007 miles;;;;;;;12266,00;USD;;;;0.0;silver ; black 
+Ford Fusion Hybrid SE FWD;2019;27183 miles;;;;;;;15795,00;USD;;;;0.0;gray ; black 
+Nissan Rogue Select S FWD;2015;108986 miles;;;;;;;7088,00;USD;;;;0.0;white ; black 
+Ford Fusion Hybrid SE FWD;2019;28249 miles;;;;;;;14995,00;USD;;;;0.0;silver ; gray 
+Hyundai Tucson SE FWD;2017;104405 miles;;;;;;;9988,00;USD;;;;0.0;gray ; gray 
+Nissan Altima SL FWD;2019;36820 miles;;;;;;;17100,00;USD;;;;0.0;black ; black 
+Nissan Sentra SV CVT;2019;30969 miles;;;;;;;13969,00;USD;;;;0.0;white ; black 
+Ford Fusion Hybrid SE FWD;2019;51116 miles;;;;;;;15419,00;USD;;;;0.0;white ; black 
+Toyota Corolla LE CVT;2017;21000 miles;;;;;;;10997,00;USD;;;;1.0;silver ; gray 
+Dodge Avenger SE FWD;2012;115479 miles;;;;;;;4995,00;USD;;;;1.0;gray ; black 
+Dodge Grand Caravan SXT;2019;25418 miles;;;;;;;16690,00;USD;;;;0.0;silver ; black 
+Nissan NV200 SV;2015;148474 miles;;;;;;;6880,00;USD;;;;0.0;white ; gray 
+Nissan Altima 2.5 S Sedan CVT;2012;146940 miles;;;;;;;5299,00;USD;;;;1.0;black ; gray 
+Dodge Grand Caravan SXT;2019;49507 miles;;;;;;;15999,00;USD;;;;0.0;black ; black 
+Ford Fusion Titanium AWD;2019;31711 miles;;;;;;;17995,00;USD;;;;0.0;white ; brown 
+Ford Fusion Hybrid Titanium FWD;2019;11757 miles;;;;;;;18995,00;USD;;;;1.0;silver ; black 
+Nissan Rogue SV FWD;2019;35772 miles;;;;;;;16295,00;USD;;;;0.0;silver ; black 
+Dodge Journey GT AWD;2019;32136 miles;;;;;;;19627,00;USD;;;;0.0;silver ; black 
+Nissan Sentra S CVT;2019;33462 miles;;;;;;;11242,00;USD;;;;0.0;black ; black 
+Ford Fiesta SE Hatchback;2019;28705 miles;;;;;;;8948,00;USD;;;;0.0;white ; black 
+Chevrolet Impala LT with 1LT;2019;25724 miles;;;;;;;17999,00;USD;;;;0.0;black ; black 
+Honda Pilot Touring with Navigation/Rear Entertainment System 4WD;2012;248382 miles;;;;;;;6995,00;USD;;;;0.0;white ; black 
+Scion xD Base Automatic;2008;98152 miles;;;;;;;5499,00;USD;;;;0.0;blue ; gray 
+Toyota Corolla LE CVT;2020;21612 miles;;;;;;;16294,00;USD;;;;0.0;white ; black 
+Toyota Camry SE Automatic;2019;40757 miles;;;;;;;18687,00;USD;;;;0.0;white ; gray 
+Nissan Versa SV CVT;2018;39948 miles;;;;;;;8582,00;USD;;;;0.0;black ; black 
+Honda Civic LX Sedan CVT;2017;50226 miles;;;;;;;15505,00;USD;;;;0.0;white ; beige 
+Nissan Rogue S FWD;2016;109689 miles;;;;;;;8490,00;USD;;;;1.0;red ; beige 
+Kia Optima LX;2019;24727 miles;;;;;;;15740,00;USD;;;;0.0;white ; black 
+INFINITI QX80 LUXE AWD;2019;32356 miles;;;;;;;40920,00;USD;;;;0.0;black ; gray 
+Toyota Corolla LE CVT;2020;30312 miles;;;;;;;16988,00;USD;;;;0.0;gray ; unknown 
+Nissan Sentra SV CVT;2017;19543 miles;;;;;;;10999,00;USD;;;;0.0;gray ; black 
+Ford Fusion Hybrid SE FWD;2019;28414 miles;;;;;;;15975,00;USD;;;;0.0;black ; unknown 
+Ford Fusion Hybrid SE FWD;2019;29444 miles;;;;;;;16000,00;USD;;;;0.0;black ; gray 
+Buick Century Custom;2003;149861 miles;;;;;;;2000,00;USD;;;;0.0;white ; gray 
+Honda Accord LX Sedan CVT;2017;21202 miles;;;;;;;14998,00;USD;;;;0.0;gray ; gray 
+Nissan Versa SV Sedan CVT;2019;31037 miles;;;;;;;11693,00;USD;;;;0.0;white ; black 
+Chevrolet Malibu LT;2020;9715 miles;;;;;;;19988,00;USD;;;;0.0;black ; gray 
+Ford Fusion Hybrid SE FWD;2019;29681 miles;;;;;;;15965,00;USD;;;;0.0;white ; unknown 
+Toyota Corolla LE CVT;2020;6297 miles;;;;;;;18388,00;USD;;;;0.0;white ; black 
+Chevrolet Malibu LT with 1LT;2019;19376 miles;;;;;;;17000,00;USD;;;;0.0;black ; black 
+Nissan Sentra SV CVT;2019;36535 miles;;;;;;;12988,00;USD;;;;0.0;black ; black 
+Nissan Altima SL FWD;2019;30198 miles;;;;;;;19152,00;USD;;;;0.0;black ; black 
+INFINITI QX80 LUXE AWD;2019;32923 miles;;;;;;;40880,00;USD;;;;0.0;black ; gray 
+Ford Focus SE Hatchback;2014;101433 miles;;;;;;;6500,00;USD;;;;1.0;black ; unknown 
+BMW 3 Series 330i Sedan RWD;2017;50512 miles;;;;;;;18400,00;USD;;;;0.0;white ; unknown 
+Ford Fusion SE FWD;2017;50268 miles;;;;;;;11999,00;USD;;;;1.0;silver ; black 
+Nissan Sentra SV CVT;2017;51797 miles;;;;;;;9995,00;USD;;;;1.0;gray ; black 
+Toyota Corolla LE CVT;2017;60068 miles;;;;;;;11411,00;USD;;;;1.0;black ; black 
+Dodge Grand Caravan SXT;2019;23185 miles;;;;;;;18995,00;USD;;;;0.0;red ; black 
+Toyota RAV4 Hybrid LE AWD;2019;2004 miles;;;;;;;20900,00;USD;;;;2.0;white ; black 
+Bentley Continental Supersports Convertible;2012;21000 miles;;;;;;;89995,00;USD;;;;0.0;white ; black 
+Nissan Altima 2.5 SV;2016;137633 miles;;;;;;;7499,00;USD;;;;0.0;silver ; unknown 
+Nissan Altima SL FWD;2019;30373 miles;;;;;;;18991,00;USD;;;;0.0;silver ; black 
+Bentley Flying Spur W12 Sedan;2008;63000 miles;;;;;;;38500,00;USD;;;;0.0;white ; unknown 
+Ford Fusion Titanium AWD;2019;35020 miles;;;;;;;20513,00;USD;;;;0.0;silver ; black 
+Lexus RX RX 350 AWD;2008;157258 miles;;;;;;;8488,00;USD;;;;0.0;black ; unknown 
+Ford EcoSport Titanium 4WD;2019;21790 miles;;;;;;;14900,00;USD;;;;0.0;red ; unknown 
+Ford Fusion Hybrid SE FWD;2019;21774 miles;;;;;;;16695,00;USD;;;;0.0;white ; gray 
+Kia Optima LX I4 Automatic;2008;113375 miles;;;;;;;3995,00;USD;;;;1.0;silver ; unknown 
+Subaru Forester 2.5i Premium CVT (PZEV);2015;60269 miles;;;;;;;10995,00;USD;;;;2.0;blue ; gray 
+Hyundai Elantra SE 2.0L Sedan Automatic (Ulsan);2017;44419 miles;;;;;;;12990,00;USD;;;;0.0;black ; beige 
+Mercedes-Benz SLC SLC 300;2018;36195 miles;;;;;;;29795,00;USD;;;;0.0;white ; gray 
+Nissan Sentra SV CVT;2019;31653 miles;;;;;;;14396,00;USD;;;;0.0;black ; black 
+Nissan Versa S Plus Sedan CVT;2019;61944 miles;;;;;;;8000,00;USD;;;;0.0;black ; black 
+Honda Civic LX Sedan CVT;2017;22505 miles;;;;;;;12150,00;USD;;;;1.0;gray ; black 
+Ford F-150 XLT SuperCrew 5.5' Box 4WD;2019;21375 miles;;;;;;;36995,00;USD;;;;0.0;black ; unknown 
+Mercedes-Benz C-Class C 300 with Sport Package Sedan RWD;2017;9587 miles;;;;;;;22995,00;USD;;;;0.0;black ; black 
+Chevrolet Malibu LT;2020;7158 miles;;;;;;;19988,00;USD;;;;0.0;silver ; black 
+Honda Civic LX Sedan CVT;2017;32398 miles;;;;;;;12785,00;USD;;;;0.0;black ; black 
+Mercedes-Benz GLE GLE 350 4MATIC SUV;2017;30225 miles;;;;;;;34997,00;USD;;;;0.0;white ; black 
+Nissan Pathfinder SV FWD;2019;35817 miles;;;;;;;22000,00;USD;;;;0.0;white ; black 
+"Ram 1500 Classic Big Horn Crew Cab 6'4"" Box 2WD";2019;17095 miles;;;;;;;26990,00;USD;;;;0.0;white ; black 
+Dodge Journey GT AWD;2019;37050 miles;;;;;;;19999,00;USD;;;;0.0;red ; black 
+Hyundai Elantra SE 2.0L Sedan Automatic (Ulsan);2017;44419 miles;;;;;;;12990,00;USD;;;;0.0;black ; beige 
+Chevrolet Express Passenger 3500 LT LWB;2019;31517 miles;;;;;;;20050,00;USD;;;;0.0;white ; gray 
+Nissan Rogue SV FWD;2019;28549 miles;;;;;;;16987,00;USD;;;;0.0;white ; black 
+Nissan Rogue SV FWD;2019;35937 miles;;;;;;;17900,00;USD;;;;0.0;blue ; black 
+Ford Fusion Hybrid SE FWD;2019;32712 miles;;;;;;;14453,00;USD;;;;0.0;blue ; black 
+Chevrolet Silverado 1500 LT with 1LT Crew Cab Short Box 2WD;2014;127611 miles;;;;;;;17999,00;USD;;;;0.0;black ; brown 
+Kia Soul + Automatic;2019;16553 miles;;;;;;;14775,00;USD;;;;0.0;red ; black 
+Toyota 4Runner SR5 4WD;2019;25756 miles;;;;;;;31084,00;USD;;;;0.0;black ; black 
+Nissan Rogue SV FWD;2019;35823 miles;;;;;;;17301,00;USD;;;;0.0;blue ; black 
+Nissan Frontier SL Crew Cab 4WD Automatic;2019;31285 miles;;;;;;;23995,00;USD;;;;0.0;black ; gray 
+Chevrolet Express Passenger 3500 LT LWB;2019;18553 miles;;;;;;;23800,00;USD;;;;0.0;white ; gray 
+Nissan Altima 2.5 S;2015;104690 miles;;;;;;;7950,00;USD;;;;0.0;red ; black 
+Nissan Sentra SV CVT;2019;37342 miles;;;;;;;12575,00;USD;;;;0.0;silver ; black 
+Toyota Camry LE Automatic;2019;39613 miles;;;;;;;16477,00;USD;;;;0.0;black ; black 
+Honda Accord SE Sedan I4 Automatic;2012;80314 miles;;;;;;;8995,00;USD;;;;0.0;black ; black 
+Toyota Corolla LE CVT;2020;13233 miles;;;;;;;15500,00;USD;;;;0.0;unknown ; unknown 
+Nissan Sentra 2.0 S CVT;2011;98951 miles;;;;;;;4799,00;USD;;;;0.0;red ; black 
+Nissan Rogue SV FWD;2019;29600 miles;;;;;;;17916,00;USD;;;;0.0;gray ; black 
+Hyundai Elantra SEL 2.0L Automatic;2019;40083 miles;;;;;;;12777,00;USD;;;;0.0;black ; gray 
+Ford Fusion Hybrid SE FWD;2019;69630 miles;;;;;;;14444,00;USD;;;;0.0;white ; black 
+Honda Civic LX Sedan Automatic;2013;103123 miles;;;;;;;8950,00;USD;;;;1.0;black ; black 
+Mitsubishi Outlander Sport SE 2.0 FWD CVT;2019;29786 miles;;;;;;;13388,00;USD;;;;0.0;red ; black 
+Nissan Rogue SV FWD;2019;40288 miles;;;;;;;16791,00;USD;;;;0.0;gray ; black 
+Dodge Grand Caravan SXT;2019;42085 miles;;;;;;;17892,00;USD;;;;0.0;gray ; black 
+Nissan Sentra SV CVT;2019;29822 miles;;;;;;;11499,00;USD;;;;0.0;black ; black 
+Dodge Grand Caravan SXT;2019;34544 miles;;;;;;;17795,00;USD;;;;0.0;silver ; black 
+Dodge Journey GT AWD;2019;26428 miles;;;;;;;20999,00;USD;;;;1.0;silver ; black 
+Hyundai Elantra SE 2.0L Sedan Automatic (alt);2017;90093 miles;;;;;;;7995,00;USD;;;;0.0;tan ; beige 
+GMC Terrain SLT AWD;2020;29898 miles;;;;;;;23397,00;USD;;;;0.0;silver ; black 
+Nissan Altima 2.5 SV;2016;137633 miles;;;;;;;7499,00;USD;;;;0.0;silver ; unknown 
+Hyundai Sonata GLS 2.4L (alt);2013;132829 miles;;;;;;;5995,00;USD;;;;0.0;gray ; gray 
+Hyundai Elantra SEL 2.0L Automatic;2019;38337 miles;;;;;;;12989,00;USD;;;;0.0;silver ; gray 
+Dodge Grand Caravan SXT;2019;38338 miles;;;;;;;16500,00;USD;;;;0.0;silver ; black 
+Honda Civic LX Sedan CVT;2017;42557 miles;;;;;;;13999,00;USD;;;;0.0;black ; black 
+Honda Accord LX Sedan CVT;2017;21606 miles;;;;;;;14900,00;USD;;;;0.0;white ; beige 
+Kia Optima LX Automatic;2020;148 miles;;;;;;;14999,00;USD;;;;1.0;gray ; black 
+Chevrolet Camaro LT with 1LT Convertible;2019;21702 miles;;;;;;;20498,00;USD;;;;1.0;black ; black 
+Toyota Corolla S Automatic;2010;133149 miles;;;;;;;5998,00;USD;;;;0.0;black ; black 
+Toyota Corolla LE CVT;2020;10350 miles;;;;;;;15995,00;USD;;;;0.0;white ; gray 
+Hyundai Elantra SE 2.0L Sedan Automatic;2017;89765 miles;;;;;;;8900,00;USD;;;;0.0;gray ; gray 
+Nissan Sentra SV CVT;2017;83037 miles;;;;;;;10000,00;USD;;;;0.0;silver ; black 
+INFINITI QX60 3.5 AWD;2017;25081 miles;;;;;;;21999,00;USD;;;;1.0;silver ; gray 
+Nissan Rogue SV FWD;2019;34952 miles;;;;;;;15990,00;USD;;;;0.0;black ; black 
+Nissan Sentra SV CVT;2017;50051 miles;;;;;;;10495,00;USD;;;;0.0;white ; gray 
+Dodge Journey GT AWD;2019;30305 miles;;;;;;;17973,00;USD;;;;0.0;white ; black 
+Kia Soul + Automatic;2016;80064 miles;;;;;;;8495,00;USD;;;;2.0;black ; black 
+Dodge Grand Caravan SXT;2019;45595 miles;;;;;;;16936,00;USD;;;;0.0;silver ; black 
+Chevrolet Malibu LT;2020;13905 miles;;;;;;;20403,00;USD;;;;0.0;black ; black 
+Nissan Rogue SV FWD;2019;33283 miles;;;;;;;15498,00;USD;;;;0.0;silver ; black 
+Dodge Grand Caravan SXT;2019;35900 miles;;;;;;;16792,00;USD;;;;0.0;silver ; black 
+"Ram 1500 Classic Big Horn Crew Cab 6'4"" Box 2WD";2019;28469 miles;;;;;;;25937,00;USD;;;;0.0;silver ; black 
+Nissan Sentra S CVT;2018;40589 miles;;;;;;;8998,00;USD;;;;0.0;white ; black 
+Toyota Corolla LE CVT;2020;17410 miles;;;;;;;15668,00;USD;;;;0.0;white ; black 
+"Ram 1500 Classic Big Horn Crew Cab 6'4"" Box 2WD";2019;11652 miles;;;;;;;25451,00;USD;;;;0.0;white ; black 
+Dodge Journey GT AWD;2019;40832 miles;;;;;;;20500,00;USD;;;;0.0;white ; red 
+Nissan Sentra SV CVT;2018;31980 miles;;;;;;;9500,00;USD;;;;1.0;red ; black 
+Hyundai Tucson Sport FWD;2016;94858 miles;;;;;;;12740,00;USD;;;;0.0;blue ; black 
+Honda Pilot Black Edition AWD;2020;6688 miles;;;;;;;44780,00;USD;;;;0.0;black ; black 
+Ford EcoSport Titanium 4WD;2019;21444 miles;;;;;;;18996,00;USD;;;;0.0;white ; black 
+Nissan Altima 2.5 S;2015;132591 miles;;;;;;;8119,00;USD;;;;0.0;silver ; black 
+Honda Fit Sport Automatic;2013;77469 miles;;;;;;;10462,00;USD;;;;0.0;white ; black 
+Chevrolet Silverado 3500HD LTZ Crew Cab Long Box 4WD DRW;2013;202276 miles;;;;;;;26106,00;USD;;;;1.0;brown ; black 
+Jeep Renegade Latitude 4WD;2017;37414 miles;;;;;;;15960,00;USD;;;;1.0;blue ; black 
+GMC Terrain SLT-2 FWD;2012;74217 miles;;;;;;;13429,00;USD;;;;0.0;black ; black 
+Toyota RAV4 Hybrid XLE AWD;2017;35167 miles;;;;;;;24377,00;USD;;;;1.0;white ; black 
+Chevrolet Volt Premier;2017;24590 miles;;;;;;;21998,00;USD;;;;0.0;black ; black 
+Hyundai Elantra SE Sedan Automatic;2014;139822 miles;;;;;;;5691,00;USD;;;;0.0;red ; gray 
+Honda Accord Sport Sedan I4 CVT;2014;132259 miles;;;;;;;10871,00;USD;;;;0.0;blue ; unknown 
+Chevrolet Express Passenger 3500 LT LWB;2019;31292 miles;;;;;;;24495,00;USD;;;;0.0;white ; gray 
+Kia Sorento LX I4-GDI FWD Automatic;2012;107394 miles;;;;;;;8999,00;USD;;;;0.0;green ; beige 
+Chrysler 200 Limited Platinum FWD;2017;25005 miles;;;;;;;17000,00;USD;;;;1.0;silver ; black 
+Dodge Challenger SXT RWD Automatic;2019;14525 miles;;;;;;;23000,00;USD;;;;0.0;black ; black 
+Honda Civic EX-L Navi Hatchback CVT;2017;29852 miles;;;;;;;20774,00;USD;;;;0.0;white ; black 
+"Ram 1500 Tradesman Quad Cab 6'4"" Box 2WD";2016;126767 miles;;;;;;;13880,00;USD;;;;0.0;white ; gray 
+Chevrolet Silverado 1500 LT Crew Cab Short Box 4WD;2013;179920 miles;;;;;;;16880,00;USD;;;;0.0;gray ; gray 
+Subaru Impreza 2.0i 4-door CVT;2017;37120 miles;;;;;;;15488,00;USD;;;;0.0;gray ; black 
+Hyundai Kona Ultimate FWD DCT;2018;11408 miles;;;;;;;21989,00;USD;;;;0.0;black ; black 
+Ford Escape Titamium 4WD;2015;55442 miles;;;;;;;14100,00;USD;;;;0.0;red ; black 
+Nissan Rogue SL AWD;2012;100141 miles;;;;;;;10990,00;USD;;;;2.0;gray ; black 
+Mitsubishi Mirage SE Hatchback Manual;2017;34068 miles;;;;;;;10000,00;USD;;;;0.0;silver ; black 
+Jeep Grand Cherokee Limited 75th Anniversary 4WD;2016;36039 miles;;;;;;;28594,00;USD;;;;0.0;green ; black 
+Jeep Compass Latitude 4WD;2014;89971 miles;;;;;;;9995,00;USD;;;;1.0;gray ; gray 
+Subaru Forester 2.5X Premium w/All-Weather Auto;2011;83188 miles;;;;;;;10995,00;USD;;;;1.0;silver ; gray 
+Honda Civic Sport Hatchback CVT;2017;36391 miles;;;;;;;18995,00;USD;;;;0.0;black ; black 
+Honda Civic LX Sedan CVT;2019;12468 miles;;;;;;;16995,00;USD;;;;0.0;blue ; gray 
