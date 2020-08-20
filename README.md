@@ -4,32 +4,16 @@ Cars' price comparision.
 The project scrapes data off car trading websites from different countries, converts value to the same valute (EUR Euros (€)) and vizualizes the features both in Python and R.
 
 
-Using:
-- BeautifulSoup
-- Python 3.7
-- Sklearn
-- Seaborn
-- Matplotlib
-- Pandas
-- Currency_Converter
-- data scraped off car trading website
 
 
-Countries included in comparision:
-- Poland
-- Great Britain
-- Germany
-- United States
-- The Netherlands
+| Country included in comparison         | Website used to scrap cars' details    |
+| --------------- |:----------------:|
+| Poland          |  otomoto.pl      |
+| Great Britain   | autotrader.co.uk |
+| Germany         | autoscout24.com  |
+| United States   | auto.com         |
+| The Netherlands | trucksnl.com     |
 
-
-
-Websites used:
-- otomoto.pl (Poland)
-- autotrader.co.uk (Great Britain)
-- autoscout24.com (German)
-- auto.com (USA)
-- trucksnl.com (The Netherlands)
 
 
 ## Examples of Graphs:
