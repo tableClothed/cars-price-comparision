@@ -20,12 +20,13 @@ The project scrapes data off car trading websites from different countries, conv
 
 <img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/1.PNG" alt="how many cars" width="800"/>
 
-<img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/2.PNG" width="400"/>
+<img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/2.PNG" width="500"/>
 
 <img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/3.PNG" alt="cars by year" width="800"/>
 
+<img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/5.PNG" alt="boxplots" width="400"/>
+
+<img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/6.PNG" alt="boxplots" width="400"/>
+
 <img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/4.PNG"  width="800"/>
 
-<img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/5.PNG" alt="boxplots" width="400"/>
-
-<img src="https://github.com/weronikazak/cars-price-comparision/blob/master/graphs/5.PNG" alt="boxplots" width="400"/>
